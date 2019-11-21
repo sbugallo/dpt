@@ -9,7 +9,7 @@ La norma ISO 21500 es un estándar de carácter internacional que ofrece lineami
 
    Mapa conceptual ISO 21500
 
-1 Conceptos previos de normalización y estandarización
+1. Conceptos previos de normalización y estandarización
 ******************************************************
 
 Según AENOR, existen una serie de conceptos en la dirección y gestión de proyectos que son aplicables a la mayoría de casos:
@@ -71,7 +71,7 @@ El entorno del proyecto hace referencia a la gestion de:
 2. Introducción a la norma UNE-ISO 21500:2013
 *********************************************
 
-.. note:: La UNE-ISO 21500:2013 ``Directrices para la dirección y gestión de proyectos`` es un estándar que proporciona lineamientos genéricos de conceptos y procesos sobre gestión y dirección de proyectos. Se trata de una traducción de la norma internacional ISO 21500:2012. Fue publicada por AENOR en marzo del 2013.
+.. note:: La UNE-ISO 21500:2013 "Directrices para la dirección y gestión de proyectos" es un estándar que proporciona lineamientos genéricos de conceptos y procesos sobre gestión y dirección de proyectos. Se trata de una traducción de la norma internacional ISO 21500:2012. Fue publicada por AENOR en marzo del 2013.
 
 Esta norma es **aplicable a cualquier tipo de organización** independientemente del tamaño y sector del proyecto y se caracteriza por **universal, flexible, integradora y sencilla**. Las siglas UNE hacen referencia a "Una Norma Española", mientras que ISO atiende a la "Organización Internacional de Normalización".
 
@@ -290,3 +290,18 @@ Además, al contrario que PMBOK que complementa la ISO 21500, PRINCE2 ha tenido 
    :width: 70%
    :align: center
 
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.1_introduccion_iso_21500/actividades/cuestionario_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.1_introduccion_iso_21500/actividades/cuestionario_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.1_introduccion_iso_21500/actividades/cuestionario_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.1_introduccion_iso_21500/actividades/cuestionario_4.jpg
+   :width: 70%
+   :align: center
