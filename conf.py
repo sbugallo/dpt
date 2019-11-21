@@ -10,9 +10,9 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
-# import os
-# import sys
-# sys.path.insert(0, os.path.abspath('.'))
+import os
+import sys
+sys.path.insert(0, os.path.abspath('../'))
 
 
 # -- Project information -----------------------------------------------------
@@ -60,6 +60,22 @@ html_theme = 'sphinx_rtd_theme'
 html_theme_options = {
     'navigation_depth': 5,
     'prev_next_buttons_location': 'both',
+}
+
+html_favicon = './_static/favicon.ico'
+
+html_title = 'DPT'
+
+# Custom sidebar templates, must be a dictionary that maps document names
+# to template names.
+#
+# This is required for the alabaster theme
+# refs: http://alabaster.readthedocs.io/en/latest/installation.html#sidebars
+html_sidebars = {
+    '**': [
+        'relations.html',  # needs 'show_related': True theme option to display
+        'searchbox.html',
+    ]
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
