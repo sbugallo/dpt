@@ -1,0 +1,92 @@
+Plantillas
+==========
+
+1. Section
+**********
+
+1.1. Subsection
++++++++++++++++
+
+1.1.1. Subsubection
+-------------------
+
+1.1.1.1. Subssubsubsection
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+.. image:: _static/sample_image.jpg
+   :width: 40%
+   :align: center
+
+*italic* **bold** `machine text` ``verbatim``	`hyperlink <www.python.org>`_
+
+
+
+* This is a bulleted list.
+* It has two items, the second
+  item uses two lines. (note the indentation)
+
+1. This is a numbered list.
+2. It has two items too.
+
+#. This is a numbered list.
+#. It has two items too.
+
+.. hlist::
+    :columns: 3
+
+    * first item
+    * second item
+    * 3d item
+    * 4th item
+    * 5th item
+
+.. code-block:: html
+    :linenos:
+
+    <h1>HTML code block example</h1>
+
++------------+------------+-----------+
+| Header 1   | Header 2   | Header 3  |
++============+============+===========+
+| body row 1 | column 2   | column 3  |
++------------+------------+-----------+
+| body row 2 | Cells may span columns.|
++------------+------------+-----------+
+| body row 3 | Cells may  | - Cells   |
++------------+ span rows. | - contain |
+| body row 4 |            | - blocks. |
++------------+------------+-----------+
+
+=====  =====  ======
+   Inputs     Output
+------------  ------
+  A      B    A or B
+=====  =====  ======
+False  False  False
+True   False  True
+=====  =====  ======
+
+.. seealso:: This is a simple **seealso** note.
+
+.. note::  This is a **note** box.
+
+.. warning:: note the space between the directive and the text
+
+.. topic:: Your Topic Title
+
+    Subsequent indented lines comprise
+    the body of the topic, and are
+    interpreted as body elements.
+
+:Whatever: this is handy to create new field
+
+.. math::
+
+    n_{\mathrm{offset}} = \sum_{k=0}^{N-1} s_k n_k
+
+Some text that requires a footnote [#f1]_ .
+
+.. rubric:: Footnotes
+
+.. [#f1] Text of the first footnote.
