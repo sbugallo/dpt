@@ -10,7 +10,7 @@ La norma ISO 21500 es un estándar de carácter internacional que ofrece lineami
    Mapa conceptual ISO 21500
 
 1. Conceptos previos de normalización y estandarización
-******************************************************
+*******************************************************
 
 Según AENOR, existen una serie de conceptos en la dirección y gestión de proyectos que son aplicables a la mayoría de casos:
 
