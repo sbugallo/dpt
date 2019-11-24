@@ -502,11 +502,133 @@ La siguiente tabla contiene una lista representativa de **componentes del plan p
 4.2. Grupo de procesos del inicio del proyecto
 ++++++++++++++++++++++++++++++++++++++++++++++
 
+.. note:: El **grupo de procesos de inicio** está compuesto por aquellos procesos realizados para definir un nuevo proyecto o una nueva fase de un proyecto existente al obtener la autorizaicón para iniciar el proyecto o fase.
+
+El **propósito del grupo de procesos** de inicio es alinear las expectativas de las partes interesadas y el **propósito del proyecto** informar a dichas partes sobre el alcance y los objetivos, y analizar cómo su participación en el proyecto y sus fases asociadas pueden ayudar a asegurar el cumplimiento de sus expectativas.
+
+Dentro de los procesos de inicio se llevan a cabo las siguientes **acciones**:
+
+- **Definir**: Se define el alcance inicial.
+- **Comprometer**: Se comprometen los recursos financieros iniciales.
+- **Identificar**: Se identifican las partes interesadas que van a interactuar y ejercer alguna influencia sobre el resultado global del proyecto.
+- **Designar**: Si aún no ha sido nombrada, se designa a la persona encargada de dirigir el proyecto.
+
+.. note::Esta información se plasma en el **acta de constitución del proyecto y el registro de interesados**.
+
+Cuando se aprueba el acta de constitución del proyecto, el proyecto es autorizado oficialmente y el director o directora del proyecto es autorizado/a a aplicar recursos de la organización a las actividades del proyecto.
+
+Los **beneficios clave** de este grupo de procesos son:
+
+- Solamente se autorizan los proyectos alineados con los objetivos estratégicos de la organización.
+- El caso de negocio, los beneficios y las personas interesadas son considerados desde el inicio del proyecto.
+- En algunas organizaciones, la dirección del proyecto está involucrada en el desarrollo del caso de negocio y la definición de los beneficios.
+
+En esas organizaciones, **la dirección del proyecto generalmente ayuda a escribir el acta de constitución del proyecto**. En otras, el anteproyecto es realizado por el patrocinador/a del proyecto. La Oficina de Dirección de Proyectos (ODP), el Comité de dirección de portafolios u otro grupo de personas interesadas. Este **estándar** supone que el proyecto ha sido aprobado por las patrocinadoras u otro órgano rector, y que se han revisado los documentos de negocio antes de autorizar el proyecto.
+
+.. note::Los **documentos de negocio** son documentos que generalmente se originan fuera del proyecto, pero se utilizan como entrada al mismo. Ejemplos de documentos de negocio son: el caso de negocio y el plan de gestión de beneficios.
+
+Los **proyectos** a menudo **se dividen en fases**. Cuando esto sucede, **la información** de los procesos del grupo de procesos de inicio **se reexamina** para determinar si todavía es válida.
+
+Los documentos de negocio dependerán de la **cultura de la compañía y el proceso de iniciación del proyecto**.
+
+**Revisar los procesos de inicio al comienzo de cada fase** ayuda a mantener el proyecto centrado en la necesidad de negocio que se comprometió a abordar. **Se verifican**:
+
+- El acta de constitución del proyecto.
+- Los documentos de negocio.
+- Los criterios de éxito.
+- Las influencias.
+- Importante
+- Las fuerzas impulsoras.
+- Las expectativas.
+- Los objetivos de las personas interesadas.
+
+.. note:: **Involucrar a las personas** patrocinadoras, clientela y a otras partes interesadas **desde el inicio** genera un entendimiento común de las criterios de éxito. Asimismo, aumenta la probabilidad de aceptación de los entregables una vez concluido el proyecto y, en definitiva, la satisfacción de las personas interesadas a lo largo del proceso.
+
 4.2.1. Desarrollar el acta de constitución del proyecto 
 -------------------------------------------------------
 
+.. note::**El desarrollo del acta de constitución del proyecto** es el proceso de elaboración del documento que autoriza formalmente la existencia de un proyecto y confiere al director o directora del mismo la autoridad para asignar los recursos de la organización a las actividades del proyecto.
+
+Los **beneficios clave** de este proceso son:
+
+- Proporcionar un vínculo directo entre el proyecto y los objetivos estratégicos de la organización.
+- Crear un registro formal del proyecto.
+- Mostrar el compromiso de la organización con el proyecto.
+
+Este proceso se lleva a cabo **una única vez o en puntos predefinidos del proyecto**.
+
+A continuación se muestra una tabla que refleja las **entradas y salidas**:
+
++-----------------------------------------------+-----------------------------------+
+| Entradas                                      | Salidas                           |
++-----------------------------------------------+-----------------------------------+
+| 1. Contrato (cuando corresponda).             |                                   |
+| 2. Enunciado del trabajo del proyecto.        | Acta de constitución del proyecto |
+| 3. Factores ambientales de la empresa         |                                   |
+| 4. Activos de los procesos de la organización |                                   |
++-----------------------------------------------+-----------------------------------+
+
 4.2.2. Identificar a los interesados
 ------------------------------------
+
+.. note:: La **identificación de las partes interesadas** constituye el proceso de reconocer periódicamente a las partes interesadas del proyecto, así como de analizar y documentar información relevante relativa a sus intereses, participación, interdependencias, influencia y posible impacto en el éxito del proyecto.
+
+El **beneficio clave** de este proceso es que permite al equipo del proyecto identificar el enfoque adecuado para el involucramiento de cada persona interesada o grupo de interesadas.
+
+Este proceso se lleva a cabo **periódicamente**, según sea necesario.
+
+Las **entradas y salidas** de este proceso se presentan de la siguiente forma:
+
++-------------------------------------------------+------------------------------------------------------------+
+| Entradas                                        | Salidas                                                    |
++-------------------------------------------------+------------------------------------------------------------+
+| - Acta de constitución de proyecto              |                                                            |
+| - Documentos de negocios:                       | - Registro de interesados                                  |
+| 	- Caso de negocios.                           | - Solicitudes de cambio.                                   |
+| 	- Plan de gestión de beneficios.              | - Actualizaciones al plan para la dirección del proyecto:  |
+| - Plan para la dirección del proyecto.          | 	- Plan de gestión de los requisitos.                   |
+| 	- Plan de gestión de comunicaciones.          | 	- Plan de gestión de las comunicaciones.               |
+| 	- Plan de involucramiento de los interesados  | 	- Plan de gestión de los riesgos.                      |
+| - Documentos del proyecto:                      | 	- Plan de involucramiento de los interesados.          |
+| 	- Registros de cambios.                       | - Actualizaciones a los documentos del proyecto.           |
+| 	- Registros de incidencias.                   | 	- Registro de supuestos.                               |
+| - Acuerdos                                      | 	- Registro de incidentes.                              |
+| - Factores ambientales de la empresa            | 	- Registro de riesgos                                  |
+| - Activos de los procesos de la organización    |                                                            |
+|                                                 |                                                            |  
++-------------------------------------------------+------------------------------------------------------------+
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/entradas_salidas_interesados.jpg
+   :width: 85%
+   :align: center
+
+
+Las **necesidades del proyecto** determinan qué **componentes** del plan para la dirección del proyecto y qué **documentos** del proyecto son necesarios.
+
+Los ejemplos de **componentes del plan** para la dirección del proyecto que pueden ser entradas de este proceso incluyen, entre otros:
+
+- El plan de gestión de las comunicaciones.
+- El plan de involucramiento de los interesados.
+
+Asimismo, los **componentes que pueden actualizarse** como resultado de este proceso son:
+
+- Plan de gestión de los requisitos.
+- Plan de gestión de las comunicaciones.
+- Plan de gestión de los riesgos.
+- Plan de involucramiento de los interesados.
+
+En cuanto a los documentos del proyecto que pueden ser entradas de este proceso, destacan:
+
+- Registro de cambios.
+- Registro de incidentes.
+- Documentación de requisitos.
+
+Los **documentos que se pueden actualizar** son:
+
+- Registro de supuestos.
+- Registro de incidentes.
+- Registro de riesgos.
+
 
 4.3. Grupo de procesos de planificación del proyecto
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
