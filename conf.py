@@ -58,7 +58,7 @@ html_theme = 'sphinx_rtd_theme'
 # documentation.
 
 html_theme_options = {
-    'navigation_depth': 5,
+    'navigation_depth': 3,
     'prev_next_buttons_location': 'both',
 }
 

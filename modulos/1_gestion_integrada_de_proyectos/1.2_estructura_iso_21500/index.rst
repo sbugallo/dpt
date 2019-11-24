@@ -268,7 +268,7 @@ Por lo general, **los proyectos se inician como resultado de** una o más de las
 - Requisito legal o regulatorio.
 - Problema existente o previsto.
 
-..  note::El plan de gestión de beneficios describe el modo y el momento en que se entregarán los beneficios del proyecto y cómo se medirán los mismos.
+..  note:: El plan de gestión de beneficios describe el modo y el momento en que se entregarán los beneficios del proyecto y cómo se medirán los mismos.
 
 El plan de gestión de beneficios puede incluir:
 
@@ -279,18 +279,18 @@ El plan de gestión de beneficios puede incluir:
 - **Métricas**: Las mediciones directas e indirectas utilizadas para mostrar los beneficios obtenidos.
 - **Riesgos**: Riesgos asociados con el logro de los beneficios esperados.
 
-.. note::Tanto el **caso de negocio** como el **plan de gestión de beneficios** se desarrollan **antes de iniciar el proyecto**. Además, una vez concluido el proyecto se hace referencia a ambos documentos, por lo tanto, se los considera **documentos de negocio** más que documentos del proyecto o componentes del plan para la dirección del proyecto.
+.. note:: Tanto el **caso de negocio** como el **plan de gestión de beneficios** se desarrollan **antes de iniciar el proyecto**. Además, una vez concluido el proyecto se hace referencia a ambos documentos, por lo tanto, se los considera **documentos de negocio** más que documentos del proyecto o componentes del plan para la dirección del proyecto.
 
 Cuando corresponda, estos documentos de negocio podrán ser **entradas** de algunos de los procesos involucrados en dirigir el proyecto, como el **desarrollo del acta de constitución del proyecto**.
 
 El **éxito del proyecto** se mide con relación a sus **objetivos** y **criterios de éxito**. En muchos casos, el éxito del producto, servicio o resultado no se conoce hasta pasado un tiempo, una vez concluido el proyecto.
 
-.. note::Aspectos como un aumento de la participación en el mercado, una disminución de los gastos operativos o el éxito de un nuevo producto podrían desconocerse cuando el proyecto pasa al ámbito de operaciones. En estas circunstancias, la Oficina de Dirección de Proyectos (ODP), el comité de dirección de portafolios o alguna otra función de negocio dentro de la organización debe **evaluar el éxito en una fecha posterior**, a fin de determinar si los resultados cumplieron los objetivos de negocio.
+.. note:: Aspectos como un aumento de la participación en el mercado, una disminución de los gastos operativos o el éxito de un nuevo producto podrían desconocerse cuando el proyecto pasa al ámbito de operaciones. En estas circunstancias, la Oficina de Dirección de Proyectos (ODP), el comité de dirección de portafolios o alguna otra función de negocio dentro de la organización debe **evaluar el éxito en una fecha posterior**, a fin de determinar si los resultados cumplieron los objetivos de negocio.
 
 4.1.4. El ciclo de vida del proyecto
 ------------------------------------
 
-.. note::El **ciclo de vida** de un proyecto es el conjunto de fases que atraviesa un proyecto, desde su inicio hasta su conclusión. Cada fase se compone de actividades relacionadas de manera lógica que culmina con la finalización de uno o más entregables.
+.. note:: El **ciclo de vida** de un proyecto es el conjunto de fases que atraviesa un proyecto, desde su inicio hasta su conclusión. Cada fase se compone de actividades relacionadas de manera lógica que culmina con la finalización de uno o más entregables.
 
 Las **fases del proyecto** presentan las siguientes **características**:
 
@@ -376,7 +376,7 @@ La **participación** de las partes interesadas en el proyecto puede ser de **2 
 4.1.6. Rol de la dirección del proyecto
 ---------------------------------------
 
-.. note::La **directora o director de proyecto** es la persona seleccionada por la organización ejecutora para liderar al equipo responsable de alcanzar los objetivos del proyecto.
+.. note:: La **directora o director de proyecto** es la persona seleccionada por la organización ejecutora para liderar al equipo responsable de alcanzar los objetivos del proyecto.
 
 Las **relaciones de comunicación de la dirección** del proyecto están basadas en la estructura organizacional y la gobernanza del proyecto.
 
@@ -438,7 +438,7 @@ La **salida de un proceso** normalmente se convierte en la entrada para otro pro
 
 Por ejemplo, el plan para la dirección del proyecto y los documentos del proyecto (registro de riesgos, matriz de asignación de responsabilidades,etc.) producidos en el grupo de procesos de planificación son proporcionados al grupo de procesos de ejecución donde se realizan las actualizaciones.
 
-.. note::Los grupos de procesos no son fases del proyecto. Cuando el proyecto está dividido en fases, los procesos de los grupos de procesos interactúan dentro de cada fase.
+.. note:: Los grupos de procesos no son fases del proyecto. Cuando el proyecto está dividido en fases, los procesos de los grupos de procesos interactúan dentro de cada fase.
 
 Es posible que todos los grupos de procesos estén representados dentro de una fase, dado que **los proyectos están separados en fases diferenciadas** como, por ejemplo:
 
@@ -513,7 +513,7 @@ Dentro de los procesos de inicio se llevan a cabo las siguientes **acciones**:
 - **Identificar**: Se identifican las partes interesadas que van a interactuar y ejercer alguna influencia sobre el resultado global del proyecto.
 - **Designar**: Si aún no ha sido nombrada, se designa a la persona encargada de dirigir el proyecto.
 
-.. note::Esta información se plasma en el **acta de constitución del proyecto y el registro de interesados**.
+.. note:: Esta información se plasma en el **acta de constitución del proyecto y el registro de interesados**.
 
 Cuando se aprueba el acta de constitución del proyecto, el proyecto es autorizado oficialmente y el director o directora del proyecto es autorizado/a a aplicar recursos de la organización a las actividades del proyecto.
 
@@ -525,7 +525,7 @@ Los **beneficios clave** de este grupo de procesos son:
 
 En esas organizaciones, **la dirección del proyecto generalmente ayuda a escribir el acta de constitución del proyecto**. En otras, el anteproyecto es realizado por el patrocinador/a del proyecto. La Oficina de Dirección de Proyectos (ODP), el Comité de dirección de portafolios u otro grupo de personas interesadas. Este **estándar** supone que el proyecto ha sido aprobado por las patrocinadoras u otro órgano rector, y que se han revisado los documentos de negocio antes de autorizar el proyecto.
 
-.. note::Los **documentos de negocio** son documentos que generalmente se originan fuera del proyecto, pero se utilizan como entrada al mismo. Ejemplos de documentos de negocio son: el caso de negocio y el plan de gestión de beneficios.
+.. note:: Los **documentos de negocio** son documentos que generalmente se originan fuera del proyecto, pero se utilizan como entrada al mismo. Ejemplos de documentos de negocio son: el caso de negocio y el plan de gestión de beneficios.
 
 Los **proyectos** a menudo **se dividen en fases**. Cuando esto sucede, **la información** de los procesos del grupo de procesos de inicio **se reexamina** para determinar si todavía es válida.
 
@@ -547,7 +547,7 @@ Los documentos de negocio dependerán de la **cultura de la compañía y el proc
 4.2.1. Desarrollar el acta de constitución del proyecto 
 -------------------------------------------------------
 
-.. note::**El desarrollo del acta de constitución del proyecto** es el proceso de elaboración del documento que autoriza formalmente la existencia de un proyecto y confiere al director o directora del mismo la autoridad para asignar los recursos de la organización a las actividades del proyecto.
+.. note:: **El desarrollo del acta de constitución del proyecto** es el proceso de elaboración del documento que autoriza formalmente la existencia de un proyecto y confiere al director o directora del mismo la autoridad para asignar los recursos de la organización a las actividades del proyecto.
 
 Los **beneficios clave** de este proceso son:
 
@@ -579,29 +579,28 @@ Este proceso se lleva a cabo **periódicamente**, según sea necesario.
 
 Las **entradas y salidas** de este proceso se presentan de la siguiente forma:
 
-+-------------------------------------------------+------------------------------------------------------------+
-| Entradas                                        | Salidas                                                    |
-+-------------------------------------------------+------------------------------------------------------------+
-| - Acta de constitución de proyecto              |                                                            |
-| - Documentos de negocios:                       | - Registro de interesados                                  |
-| 	- Caso de negocios.                           | - Solicitudes de cambio.                                   |
-| 	- Plan de gestión de beneficios.              | - Actualizaciones al plan para la dirección del proyecto:  |
-| - Plan para la dirección del proyecto.          | 	- Plan de gestión de los requisitos.                   |
-| 	- Plan de gestión de comunicaciones.          | 	- Plan de gestión de las comunicaciones.               |
-| 	- Plan de involucramiento de los interesados  | 	- Plan de gestión de los riesgos.                      |
-| - Documentos del proyecto:                      | 	- Plan de involucramiento de los interesados.          |
-| 	- Registros de cambios.                       | - Actualizaciones a los documentos del proyecto.           |
-| 	- Registros de incidencias.                   | 	- Registro de supuestos.                               |
-| - Acuerdos                                      | 	- Registro de incidentes.                              |
-| - Factores ambientales de la empresa            | 	- Registro de riesgos                                  |
-| - Activos de los procesos de la organización    |                                                            |
-|                                                 |                                                            |  
-+-------------------------------------------------+------------------------------------------------------------+
-
-.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/entradas_salidas_interesados.jpg
-   :width: 85%
-   :align: center
-
++-------------------------------------------------+-----------------------------------------------------------+
+| **Entradas**                                    | **Salidas**                                               |
++-------------------------------------------------+-----------------------------------------------------------+
+| - Acta de constitución de proyecto:             |                                                           |
+| - Documentos de  negocios:                      | - Registro de interesados                                 |
+|                                                 | - Solicitudes de cambio.                                  |
+|   - Caso de negocios.                           | - Actualizaciones al plan para la dirección del proyecto: |
+|   - Plan de gestión de beneficios.              |                                                           |
+|                                                 |                                                           |
+| - Plan para la dirección del proyecto.          |   - Plan de gestión de los requisitos.                    |
+|                                                 |   - Plan de gestión de las comunicaciones.                |
+|   - Plan de gestión de comunicaciones.          |   - Plan de gestión de los riesgos.                       |
+|   - Plan de involucramiento de los interesados. |   - Plan de involucramiento de los interesados.           |
+|                                                 |                                                           |
+| - Documentos del proyecto:                      | - Actualizaciones a los documentos del proyecto.          |
+|                                                 |                                                           |
+|   - Registros de cambios.                       |   - Registro de supuestos.                                |
+|   - Registros de incidencias.                   |   - Registro de incidentes.                               |
+|                                                 |   - Registro de riesgos                                   |
+| - Acuerdos                                      |                                                           |
+| - Factores ambientales de la empresa            |                                                           |
++-------------------------------------------------+-----------------------------------------------------------+
 
 Las **necesidades del proyecto** determinan qué **componentes** del plan para la dirección del proyecto y qué **documentos** del proyecto son necesarios.
 
@@ -633,78 +632,932 @@ Los **documentos que se pueden actualizar** son:
 4.3. Grupo de procesos de planificación del proyecto
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+.. note:: El **grupo de procesos de planificación** está compuesto por aquellos procesos que establecen el alcance total del esfuerzo, definen y refinan los objetivos y desarrollan la línea de acción requerida para alcanzar dichos objetivos.
+
+Los procesos del grupo de procesos de planificación desarrollan los **componentes del plan** para la dirección del proyecto y los **documentos del proyecto** utilizados para llevarlo a cabo.
+
+La **naturaleza de un proyecto** puede requerir el uso de reiterados **ciclos de realimentación** para análisis adicionales. Es probable que se requiera una revisión de la planificación a medida que se recopilan o se comprenden más características o información sobre el proyecto.
+
+Los **cambios importantes** que ocurren a lo largo del ciclo de vida del proyecto pueden generar la necesidad de reconsiderar **1 o más de los procesos de planificación** y, posiblemente, **1 o ambos procesos de Inicio**.
+
+Este refinamiento continuo del plan para la dirección del proyecto recibe el nombre de **elaboración progresiva**, para indicar que la planificación y la documentación son actividades iterativas o continuas.
+
+El **beneficio clave** de este grupo de procesos consiste en definir la línea de acción para completar con éxito el proyecto o fase.
+
+El **equipo de dirección** del proyecto busca el aporte y estimula la participación de las partes interesadas relevantes tanto durante la planificación del proyecto como en el desarrollo del plan para la dirección del proyecto y de los documentos del mismo.
+
+Cuando se termina el esfuerzo de **planificación inicial**, la versión aprobada del plan para la dirección del proyecto se considera una **línea base**. A lo largo del proyecta, las procesos de monitoreo y control comparan el desempeño del proyecto con las líneas base.
+
+
 4.3.1. Desarrollar el plan para la dirección del proyecto
 ---------------------------------------------------------
+
+.. note:: El **desarrollo del plan para la dirección del proyecto** es el proceso de definir, preparar y coordinar todos los componentes y consolidarlos en un plan integral para la dirección del proyecto.
+
+El **beneficio clave** de este proceso es la producción de un documento integral que define la base para todo el trabajo del proyecto y el modo en que se realizará el trabajo.
+
+Este proceso se lleva a cabo **una única vez o en puntos predefinidos del proyecto**.
+
+Las **entradas y salidas** de este proceso se presentan en la tabla:
+
++------------------------------------------------+----------------------------------------+
+| **Entradas**                                   | **Salidas**                            |
++------------------------------------------------+----------------------------------------+
+| 1. Acta de constitución de proyecto.           |                                        |
+| 2. Salidas a otros procesos.                   | 1. Plan para la dirección del proyecto |
+| 3. Factores ambientales                        |                                        |
+| 4. Activos de los procesos de la organización. |                                        |
++------------------------------------------------+----------------------------------------+
 
 4.3.2. Planificar la gestión del alcance
 ----------------------------------------
 
+La**planificación de la gestión del alcance** consiste en la creación de un plan para la gestión del alcance que documente cómo serán definidos, validados y controlados el alcance del proyecto y del producto.
+
+El **beneficio clave** de este proceso es que proporciona guía y dirección sobre cómo se gestionará el alcance a lo largo del proyecto.
+
+Este proceso se lleva a cabo una **única vez** o en **puntos predefinidos del proyecto**.
+
+Las **entradas y salidas** de este proceso se presentan en la tabla:
+
++-----------------------------------------------+--------------------------------------------+
+| **Entradas**                                  | **Salidas**                                |
++-----------------------------------------------+--------------------------------------------+
+| 1. Acta de constitución de proyecto.          |                                            |
+| 2. Plan para la dirección del proyecto.       | 1. Plan para la gestión del alcance.       |
+| 3. Factores ambientales de la empresa.        | 2. Plan para la gestión de los requisitos. |
+| 4. Activos de los procesos de la organización |                                            |
++-----------------------------------------------+--------------------------------------------+
+
+Las necesidades del proyecto determinan qué **componentes del plan** para la dirección del proyecto son necesarios. Algunos de estos componentes considerados entradas son:
+
+- Plan de gestión de la calidad.
+- Descripción del ciclo de vida del proyecto.
+- Enfoque de desarrollo.
+
 4.3.3. Recopilar los requisitos
 -------------------------------
+
+.. note:: La **recopilación de requisitos** es el proceso de determinar, documentar y gestionar las necesidades y los requisitos de las partes interesadas para cumplir con los objetivos del proyecto.
+
+El **beneficio clave** de este proceso es que proporciona la base para definir el alcance del producto y el alcance del proyecto.
+
+Este proceso se lleva a cabo **una única vez** o en **puntos predefinidos del proyecto**.
+
++-----------------------------------------------+------------------------------------------+
+| **Entradas**                                  | **Salidas**                              |
++-----------------------------------------------+------------------------------------------+
+| 1. Acta de constitución de proyecto.          |                                          |
+| 2. Plan para la dirección del proyecto.       |                                          |
+| 3. Documentos del proyecto.                   | 1. Documentos de requisitos              |
+| 4. Documentos de negocio.                     | 2. Matriz de trazabilidad de requisitos. |
+| 5. Acuerdos                                   |                                          |
+| 6. Factores ambientales de la empresa.        |                                          |
+| 7. Activos de los procesos de la organización |                                          |
++-----------------------------------------------+------------------------------------------+
+
+De nuevo, las **necesidades del proyecto** determinan qué **componentes** del plan para la dirección del proyecto y qué **documentos** del proyecto son necesarios.
+
+- **Componentes**: Los ejemplos de componentes del plan para la dirección del proyecto que pueden ser entradas de este proceso incluyen, entre otros:
+
+	- Plan de gestión del alcance.
+	- Plan de gestión de los requisitos.
+	- Plan de involucramiento de los interesados.
+
+- **Documentos**: En cuanto a los documentos del proyecto que pueden ser entradas de este proceso, destacan:
+
+	- Registro de supuestos.
+	- Registro de lecciones aprendidas.
+	- Registro de interesados.
 
 4.3.4. Definir el alcance
 -------------------------
 
+.. note:: La **definición del alcance** consiste en desarrollar una descripción detallada del proyecto y del producto.
+
+El **beneficio clave** de este proceso es que describe los limites del producto, servicio o resultado y los criterios de aceptación.
+
+Este proceso se lleva a cabo **una única vez o en puntos predefinidos del proyecto**.
+
++-----------------------------------------------+---------------------------------------------------+
+| **Entradas**                                  | **Salidas**                                       |
++-----------------------------------------------+---------------------------------------------------+
+| 1. Acta de constitución de proyecto.          |                                                   |
+| 2. Plan para la dirección del proyecto.       | 1. Enunciado del alcance del proyecto             |
+| 3. Documentos del proyecto.                   | 2. Actualizaciones a los documentos del proyecto. |
+| 4. Factores ambientales de la empresa.        |                                                   |
+| 5. Activos de los procesos de la organización |                                                   |
++-----------------------------------------------+---------------------------------------------------+
+
+Las **necesidades del proyecto** determinan qué **componentes del plan** para la dirección del proyecto y qué **documentos del proyecto** son necesarios.
+
+- **Componentes**: Como ejemplo de componente del plan para la dirección del proyecto que puede ser entrada de este proceso se incluye el plan para la gestión del alcance del proyecto.
+- **Documentos**: En cuanto a los documentos del proyecto que pueden ser entradas de este proceso, destacan:
+
+	- Registro de supuestos.
+	- Documentación de requisitos.
+	- Registro de riesgos.
+
+- **Documentos actualizables**: Los documentos que se pueden actualizar son:
+
+	- El registro de supuestos.
+	- La documentación de requisitos.
+	- La matriz de trazabilidad de requisitos.
+	- El registro de interesados.
+
 4.3.5. Crear la EDT/WBS
 -----------------------
+
+.. note:: La **creación de la Estructura de Desglose del Trabajo (EDT)** conocida en inglés como Work Breakdown Structure (WBS) consiste en subdividir los entregables del proyecto y el trabajo del proyecto en componentes más pequeños y más fáciles de manejar.
+
+El **beneficio clave** de este proceso es que proporciona un marco de lo que se debe entregar.
+
+Este proceso se lleva a cabo **una única vez o en puntos predefinidos del proyecto**.
+
++-----------------------------------------------+---------------------------------------------------+
+| **Entradas**                                  | **Salidas**                                       |
++-----------------------------------------------+---------------------------------------------------+
+| 1. Plan para la dirección del proyecto.       |                                                   |
+| 2. Documentos del proyecto.                   | 1. Línea base del alcance.                        |
+| 3. Factores ambientales de la empresa.        | 2. Actualizaciones a los documentos del proyecto. |
+| 4. Activos de los procesos de la organización |                                                   |
++-----------------------------------------------+---------------------------------------------------+
+
+Las **necesidades del proyecto** determinan qué **componentes del plan** para la dirección del proyecto y qué **documentos del proyecto** son necesarios.
+
+- **Componentes**: Como ejemplo de componente del plan para la dirección del proyecto que puede ser entrada de este proceso se incluye el plan para la gestión del alcance del proyecto.
+- **Documentos**: En cuanto a los documentos del proyecto que pueden ser entradas de este proceso, destacan:
+
+	- Enunciado del alcance del proyecto.
+	- Documentación de requisitos.
+
+- **Documentos actualizables**: Los documentos que se pueden actualizar son:
+
+	- Registro de supuestos.
+	- Documentación de requisitos.
 
 4.3.6. Planificar la gestión del cronograma
 -------------------------------------------
 
+.. note:: La planificación de la gestión del cronograma consiste en establecer las políticas, los procedimientos y la documentación para planificar, desarrollar, gestionar, ejecutar y controlar el cronograma del proyecto.
+
+El **beneficio clave** de este proceso es que proporciona guia y dirección sobre cómo se gestionará el cronograma del proyecto a lo largo del mismo.
+
+Este proceso se lleva a cabo **una única vez o en puntos predefinidos del proyecto**.
+
++-----------------------------------------------+------------------------------------+
+| **Entradas**                                  | **Salidas**                        |
++-----------------------------------------------+------------------------------------+
+|                                               |                                    |
+| 1. Acta de constitución del proyecto          |                                    |
+| 2. Plan para la dirección del proyecto.       | 1. Plan de gestión del cronograma. |
+| 3. Factores ambientales de la empresa.        |                                    |
+| 4. Activos de los procesos de la organización |                                    |
++-----------------------------------------------+------------------------------------+
+
+Una vez más, las **necesidades del proyecto** determinan qué **componentes del plan** para la dirección del proyecto son necesarios.
+
+Los ejemplos de **componentes del plan para la dirección del proyecto** que pueden ser entradas de este proceso incluyen, entre otros:
+- Plan de gestión del alcance.
+- Enfoque de desarrollo.
+
 4.3.7. Definir las actividades
 ------------------------------
+
+.. note:: La **definición de las actividades** es el proceso de identificar y documentar las acciones específicas que se deben realizar para elaborar los entregables del proyecto.
+
+El **beneficio clave** de este proceso es que descompone los paquetes de trabajo en actividades del cronograma que proporcionan una base para la estimación, programación, ejecución, monitoreo y control del trabajo del proyecto.
+
+Este proceso se lleva a cabo de **manera continua a lo largo de todo el proyecto**.
+
++-----------------------------------------------+------------------------------------------------------------+
+| **Entradas**                                  | **Salidas**                                                |
++-----------------------------------------------+------------------------------------------------------------+
+|                                               | 1. Lista de actividades.                                   |
+| 1. Plan para la dirección del proyecto.       | 2. Atributos de la actividad                               |
+| 2. Factores ambientales de la empresa.        | 3. Lista de hitos.                                         |
+| 3. Activos de los procesos de la organización | 4. Solicitudes de cambio.                                  |
+|                                               | 5. Actualizaciones al plan para la dirección del proyecto. |
++-----------------------------------------------+------------------------------------------------------------+
+
+Las **necesidades del proyecto** determinan qué **componentes del plan** para la dirección del proyecto son necesarios.
+
+- **Componentes**: Los ejemplos de componentes del plan para la dirección del proyecto que pueden ser entradas de este proceso incluyen, entre otros:
+
+	- Plan de gestión del cronograma.
+	- Línea base del alcance.
+
+- **Componentes actualizables**: Los componentes que se pueden actualizar son: 
+
+	- Línea base del cronograma.
+	- Línea base de Costes.
 
 4.3.8. Secuencias las actividades
 ---------------------------------
 
+.. note:: La **secuenciación de las actividades** es el proceso que consiste en identificar y documentar las relaciones entre las actividades del proyecto.
+
+El **beneficio clave** de este proceso es la definición de la secuencia lógica de trabajo para obtener la máxima eficiencia teniendo en cuenta todas las restricciones del proyecto.
+
+Este proceso se lleva a cabo de **manera continua a lo largo de todo el proyecto**.
+
++-----------------------------------------------+---------------------------------------------------+
+| **Entradas**                                  | **Salidas**                                       |
++-----------------------------------------------+---------------------------------------------------+
+|                                               |                                                   |
+| 1. Plan para la dirección del proyecto.       | 1. Diagrama de red del cronograma del proyecto.   |
+| 2. Documentos del proyecto.                   | 2. Actualizaciones a los documentos del proyecto. |
+| 3. Factores ambientales de la empresa.        |                                                   |
+| 4. Activos de los procesos de la organización |                                                   |
++-----------------------------------------------+---------------------------------------------------+
+
+Las **necesidades del proyecto** determinan qué **componentes** del plan para la dirección del proyecto y qué **documentos** del proyecto son necesarios.
+
+- **Componentes**: Los ejemplos de componentes del plan para la dirección del proyecto que pueden ser entradas de este proceso incluyen, entre otros:
+
+	- Plan de gestión del cronograma.
+	- Línea base del alcance.
+
+- **Documentos**: En cuanto a los **documentos del proyecto** que pueden ser entradas de este proceso, destacan:
+
+	- Atributos de las actividades.
+	- Lista de actividades.
+	- Registro de supuestos.
+	- Lista de hitos.
+
+- **Documentos actualizables**: Los documentos que se pueden actualizar son:
+
+	- Atributos de las actividades.
+	- Lista de actividades.
+	- Registro de supuestos.
+	- Lista de hitos.
+
 4.3.9. Estimar la duración de las actividades
 ---------------------------------------------
+
+.. note:: La **estimación de la duración de las actividades** es el proceso de realizar una estimación de la cantidad de periodos de trabajo necesarios para finalizar las actividades individuales con los recursos estimados.
+
+El **beneficio clave** de este proceso es que establece la cantidad de tiempo necesario para finalizar cada una de las actividades.
+
+Este proceso se lleva a cabo de **manera continua a lo largo de todo el proyecto**.
+
++-----------------------------------------------+---------------------------------------------------+
+| **Entradas**                                  | **Salidas**                                       |
++-----------------------------------------------+---------------------------------------------------+
+|                                               | 1. Estimaciones de la duración.                   |
+| 1. Plan para la dirección del proyecto.       |                                                   |
+| 2. Documentos del proyecto.                   | 2. Base de las estimaciones.                      |
+| 3. Factores ambientales de la empresa.        | 3. Actualizaciones a los documentos del proyecto. |
+| 4. Activos de los procesos de la organización |                                                   |
++-----------------------------------------------+---------------------------------------------------+
+
+Las **necesidades del proyecto** determinan qué **componentes** del plan para la dirección del proyecto y qué **documentos** del proyecto son necesarios.
+
+- **Componentes**: Los ejemplos de componentes del plan para la dirección del proyecto que pueden ser entradas de este proceso incluyen, entre otros:
+
+	- Plan de gestión del cronograma.
+	- Línea base del alcance.
+
+- **Documentos**:En cuanto a los documentos del proyecto que pueden ser entradas de este proceso, destacan:
+
+	- Atributos de las actividades.
+	- Lista de actividades.
+	- Registro de supuestos.
+	- Lista de hitos.
+	- Asignaciones del equipo del proyecto.
+	- Estructura de desglose de recursos.
+	- Calendarios de recursos.
+	- Requisitos de recursos.
+	- Registro de riesgos.
+
+- **Documentos actualizables**: Los documentos que se pueden actualizar son:
+
+	- Atributos de las actividades.
+	- El registro de supuestos.
+	- El registro de lecciones aprendidas.
 
 4.3.10. Desarrollar el cronograma
 ---------------------------------
 
+.. note:: El desarrollo del cronograma consiste en analizar secuencias de actividades, duraciones, requisitos de recursos y restricciones del cronograma para crear un modelo de cronograma para la ejecución, el monitoreo y el control del proyecto.
+
+El **beneficio clave** de este proceso es que genera un modelo de programación con fechas planificadas para completar las actividades del proyecto.
+
+Este proceso se lleva a cabo de **manera continua a lo largo de todo el proyecto**.
+
++-----------------------------------------------+------------------------------------------------------------+
+| **Entradas**                                  | **Salidas**                                                |
++-----------------------------------------------+------------------------------------------------------------+
+|                                               | 1. Línea base del cronograma.                              |
+| 1. Plan para la dirección del proyecto.       | 2. Cronograma del proyecto.                                |
+| 2. Documentos del proyecto.                   | 3. Datos del cronograma.                                   |
+| 3. Acuerdos                                   | 4. Calendario del proyecto.                                |
+| 4. Factores ambientales de la empresa.        | 5. Solicitudes de cambio.                                  |
+| 5. Activos de los procesos de la organización | 6. Actualizaciones al plan para la dirección del proyecto. |
+|                                               | 7. Actualizaciones a los documentos del proyecto.          |
++-----------------------------------------------+------------------------------------------------------------+
+
+Las **necesidades del proyecto** determinan qué **componentes** del plan para la dirección del proyecto y qué **documentos** del proyecto son necesarios.
+
+- **Componentes**: Los ejemplos de componentes del plan para la dirección del proyecto que pueden ser entradas de este proceso incluyen, entre otros:
+
+	- Plan de gestión del cronograma.
+	- Línea base del alcance.
+
+- **Componentes actualizables**: Los componentes que se pueden actualizar son:
+
+	- Plan de gestión del cronograma.
+	- Linea base de costes.
+
+- **Documentos**: En cuanto a los documentos del proyecto que pueden ser entradas de este proceso, destacan:
+
+	- Atributos de las actividades.
+	- Lista de actividades.
+	- Registro de supuestos.
+	- Base de las estimaciones.
+	- Estimaciones de la duración.
+	- Registro de lecciones aprendidas.
+	- Lista de hitos.
+	- Diagrama de red del cronograma del proyecto.
+	- Asignaciones del equipo del proyecto.
+	- Calendarios de recursos.
+	- Requisitos de recursos.
+	- Registro de riesgos.
+
+- **Documentos actualizables**: Los documentos que se pueden actualizar son:
+
+	- Atributos de las actividades.
+	- Registro de supuestos.
+	- Estimaciones de la duración.
+	- Registro de lecciones aprendidas.
+	- Requisitos de recursos.
+	- Registro de registros.
+
 4.3.11. Planificar la gestión de costos
 ---------------------------------------
 
-4.3.12. Estimar los costos
+.. note:: La planificación de la gestión de los Costes consiste en definir cómo se han de estimar, presupuestar, gestionar, monitorear y controlar los Costes del proyecto.
+
+El **beneficio clave** de este proceso es que proporciona guía y dirección sobre cómo se gestionarán los Costes del proyecto a lo largo del mismo.
+
+Este proceso se lleva a cabo **una única vez o en puntos predefinidos del proyecto**.
+
++-----------------------------------------------+----------------------------------+
+| **Entradas**                                  | **Salidas**                      |
++-----------------------------------------------+----------------------------------+
+| 1. Acta de constitución del proyecto          |                                  |
+| 2. Plan para la dirección del proyecto.       | 1. Plan de gestión de los costes |
+| 3. Factores ambientales de la empresa.        |                                  |
+| 4. Activos de los procesos de la organización |                                  |
++-----------------------------------------------+----------------------------------+
+
+Las **necesidades del proyecto** determinan qué **componentes del plan** para la dirección del proyecto son necesarios.
+
+Los ejemplos de **componentes del plan** para la dirección del proyecto que pueden ser entradas de este proceso incluyen, entre otros:
+
+- Plan de gestión del cronograma.
+- Plan de gestión de riesgos.
+
+4.3.12. Estimar los costes
 --------------------------
+
+.. note:: La estimación de los costes es el proceso de desarrollar una aproximación de los recursos monetarios necesarios para completar el trabajo del proyecto.
+
+El **beneficio clave** de este proceso es que determina los recursos monetarios requeridos para el proyecto.
+
+Este proceso se lleva a cabo **periódicamente**, según sea necesario.
+
++-----------------------------------------------+---------------------------------------------------+
+| **Entradas**                                  | **Salidas**                                       |
++-----------------------------------------------+---------------------------------------------------+
+| 1. Plan para la dirección del proyecto.       | 1. Estimaciones de costes.                        |
+| 2. Documentos del proyecto                    | 2. Base de las estimaciones                       |
+| 3. Factores ambientales de la empresa.        | 3. Actualizaciones a los documentos del proyecto. |
+| 4. Activos de los procesos de la organización |                                                   |
++-----------------------------------------------+---------------------------------------------------+
+
+Las **necesidades del proyecto** determinan qué **componentes** del plan para la dirección del proyecto y qué **documentos** del proyecto son necesarios.
+
+- **Componentes**: Los ejemplos de componentes del plan para la dirección del proyecto que pueden ser entradas de este proceso incluyen, entre otros:
+
+	- Plan de gestión de los Costes.
+	- Plan de gestión de la calidad.
+	- Línea base del alcance.
+
+- **Documentos**: En cuanto a los documentos del proyecto que pueden ser entradas de este proceso, destacan:
+
+	- Registro de lecciones aprendidas.
+	- Cronograma del proyecto.
+	- Requisitos de recursos.
+	- Registro de riesgos.
+
+- **Documentos actualizables**: Los documentos que se pueden actualizar son:
+
+	- Registro de supuestos.
+	- Registro de lecciones aprendidas.
+	- Registro de riesgos.
 
 4.3.13. Determinar el presupuesto
 ---------------------------------
 
+.. note:: La **determinación del presupuesto** es el proceso que consiste en sumar los costes estimados de las actividades individuales o paquetes de trabajo para establecer una linea base de costes autorizada.
+
+El **beneficio clave** de este proceso es que determina la linea base de Costes con respecto a la cual se puede monitorear y controlar el desempeño del proyecto.
+
+Este proceso se lleva a cabo **una única vez o en puntos predefinidos del proyecto**.
+
++-----------------------------------------------+---------------------------------------------------+
+| **Entradas**                                  | **Salidas**                                       |
++-----------------------------------------------+---------------------------------------------------+
+| 1. Plan para la dirección del proyecto.       |                                                   |
+| 2. Documentos del proyecto.                   | 1. Línea base de costes.                          |
+| 3. Documentos de negocio.                     | 2. Requisitos de finaciamiento del proyecto.      |
+| 4. Acuerdos                                   | 3. Actualizaciones a los documentos del proyecto. |
+| 5. Factores ambientales de la empresa.        |                                                   |
+| 6. Activos de los procesos de la organización |                                                   |
++-----------------------------------------------+---------------------------------------------------+
+
+Las **necesidades del proyecto** determinan qué **componentes** del plan para la dirección del proyecto y qué **documentos** del proyecto son necesarios.
+
+- **Componentes**: Los ejemplos de componentes del plan para la dirección del proyecto que pueden ser entradas de este proceso incluyen, entre otros:
+
+	- Plan de gestión de los Costes.
+	- Plan de gestión de los recursos.
+	- Linea base del alcance.
+
+- **Documentos**: En cuanto a los documentos del proyecto que pueden ser entradas de este proceso, destacan:
+
+	- Base de estimaciones.
+	- Estimaciones de Costes.
+	- Cronograma del proyecto.
+	- Registro de riesgos.
+
+- **Documentos actualizables**: Los documentos que se pueden actualizar son:
+
+	- Estimaciones de Costes.
+	- Cronograma del proyecto.
+	- Registro de riesgos.
+
 4.3.14. Planificar la gestión de la calidad
 -------------------------------------------
+
+.. note:: La **planificación de la gestión de la calidad** es el proceso de identificar los requisitos y/o estándares de calidad para el proyecta y sus entregables, asi como de documentar cómo el proyecto demostrará el cumplimiento de los mismos.
+
+El **beneficio clave** de este proceso es que proporciona guía y dirección sobre cómo se gestionará y verificará la calidad a lo largo del proyecto.
+
+Este proceso se lleva a cabo **una única vez o en puntos predefinidos del proyecto**.
+
++-----------------------------------------------+------------------------------------------------------------+
+| **Entradas**                                  | **Salidas**                                                |
++-----------------------------------------------+------------------------------------------------------------+
+|                                               |                                                            |
+| 1. Acta de constitución del proyecto.         | 1. Plan de gestión de la calidad.                          |
+| 2. Plan para la dirección del proyecto.       | 2. Métricas de calidad.                                    |
+| 3. Documentos del proyecto.                   | 3. Actualizaciones al plan para la dirección del proyecto. |
+| 4. Factores ambientales de la empresa.        | 4. Actualizaciones a los documentos del proyecto.          |
+| 5. Activos de los procesos de la organización |                                                            |
++-----------------------------------------------+------------------------------------------------------------+
+
+Las **necesidades del proyecto** determinan qué **componentes** del plan para la dirección del proyecto y qué **documentos** del proyecto son necesarios.
+
+- **Componentes**: Los ejemplos de componentes del plan para la dirección del proyecto que pueden ser entradas de este proceso incluyen, entre otros:
+
+	- Plan de gestión de los requisitos.
+	- Plan de gestión de los riesgos.
+	- Plan de involucramiento de los interesados.
+	- Linea base del alcance.
+
+- **Componentes actualizables**: Los componentes que se pueden actualizar son:
+
+	- Plan de gestión de los riesgos.
+	- Línea base de alcance.
+
+- **Documentos**: En cuanto a los documentos del proyecto que pueden ser entradas de este proceso, destacan:
+
+	- Registro de supuestos.
+	- Documentación de requisitos.
+	- Matriz de trazabilidad de requisitos.
+	- Registro de riesgos.
+	- Registros de interesados.
+
+- **Documentos actualizables**: Los documentos que se pueden actualizar son:
+
+	- Registro de lecciones aprendidas.
+	- Matriz de trazabilidad de requisitos.
+	- Registro de registros.
+	- Requisitos de interesados.
 
 4.3.15. Planificar la gestión de recursos
 -----------------------------------------
 
+.. note:: La **planificación de la gestión de recursos** es el proceso de definir cómo estimar, adquirir, gestionar y utilizar los recursos físicos y del equipo.
+
+El **beneficio clave** de este proceso es que establece el enfoque y el nivel del esfuerzo de gestión necesarios para gestionar los recursos del proyecto en base al tipo y complejidad del proyecto.
+
+Este proceso se lleva a cabo **una única vez o en puntos predefinidos del proyecto**.
+
++-----------------------------------------------+---------------------------------------------------+
+| **Entradas**                                  | **Salidas**                                       |
++-----------------------------------------------+---------------------------------------------------+
+|                                               |                                                   |
+| 1. Acta de constitución del proyecto.         | 1. Plan de gestión de los recursos.               |
+| 2. Plan para la dirección del proyecto.       | 2. Acta de constitución del equipo.               |
+| 3. Documentos del proyecto.                   | 3. Actualizaciones a los documentos del proyecto. |
+| 4. Factores ambientales de la empresa.        |                                                   |
+| 5. Activos de los procesos de la organización |                                                   |
++-----------------------------------------------+---------------------------------------------------+
+
+Las **necesidades del proyecto** determinan qué **componentes** del plan para la dirección del proyecto y qué **documentos** del proyecto son necesarios.
+
+- **Componentes**: Los ejemplos de componentes del plan para la dirección del proyecto que pueden ser entradas de este proceso incluyen, entre otros:
+
+	- Plan de gestión de la calidad.
+	- Linea base del alcance.
+
+- **Documentos**: En cuanto a los documentos del proyecto que pueden ser entradas de este proceso, destacan:
+
+	- Cronograma del proyecto.
+	- Documentación de requisitos.
+	- Registro de riesgos.
+	- Registros de interesados.
+
 4.3.16. Estimar los recursos de las actividades
 -----------------------------------------------
+.. note:: La **estimación de los recursos de las actividades** es el proceso de estimar los recursos del equipo y el tipo y las cantidades de materiales, equipamiento y suministros necesarios para ejecutar el trabajo del proyecto.
+
+El **beneficio clave** de este proceso es que identifica el tipo, cantidad y características de los recursos necesarios para completar el proyecto.
+
+Este proceso se lleva a cabo **periódicamente**, según sea necesario.
+
++-----------------------------------------------+---------------------------------------------------+
+| **Entradas**                                  | **Salidas**                                       |
++-----------------------------------------------+---------------------------------------------------+
+|                                               | 1. Requisitos de recursos.                        |
+| 1. Plan para la dirección del proyecto.       | 2. Base de las estimaciones.                      |
+| 2. Documentos del proyecto.                   | 3. Estructura de desglose de recursos.            |
+| 3. Factores ambientales de la empresa.        | 4. Actualizaciones a los documentos del proyecto. |
+| 4. Activos de los procesos de la organización |                                                   |
++-----------------------------------------------+---------------------------------------------------+
+
+Las **necesidades del proyecto** determinan qué **componentes** del plan para la dirección del proyecto y qué **documentos** del proyecto son necesarios.
+
+- **Componentes**: Los ejemplos de componentes del plan para la dirección del proyecto que pueden ser entradas de este proceso incluyen, entre otros:
+
+	- Plan de gestión de los recursos.
+	- Linea base del alcance.
+
+- **Documentos**: En cuanto a los documentos del proyecto que pueden ser entradas de este proceso, destacan:
+
+	- Atributos de las actividades.
+	- Lista de actividades.
+	- Registros de supuestos.
+	- Estimaciones de Costes.
+	- Calendarios de recursos.
+	- Registro de riesgos.
+
+- **Documentos actualizables**: Los documentos que se pueden actualizar son:
+
+	- Atributos de las actividades.
+	- Registro de supuestos.
+	- Registro de lecciones aprendidas.
 
 4.3.17. Planificar la gestión de las comunicaciones
 ---------------------------------------------------
 
+.. note:: La planificación de la gestión de las comunicaciones es el proceso de desarrollar un enfoque y un plan apropiadas para las actividades de comunicación del proyecto con base en las necesidades de información de cada parte interesada o grupo, en los activos de la organización disponibles y en las necesidades del proyecto.
+
+El **beneficio clave** de este proceso es un enfoque documentado para involucrar a las partes interesadas de manera eficaz y eficiente mediante la presentación oportuna de información relevante.
+
+Este proceso se lleva a cabo **periódicamente**, según sea necesario.
+
++-----------------------------------------------+------------------------------------------------------------+
+| **Entradas**                                  | **Salidas**                                                |
++-----------------------------------------------+------------------------------------------------------------+
+| 1. Acta de constitución del proyecto.         |                                                            |
+| 2. Plan para la dirección del proyecto.       | 1. Plan de gestión de las comunicaciones.                  |
+| 3. Documentos del proyecto.                   | 2. Actualizaciones al plan para la dirección del proyecto. |
+| 4. Factores ambientales de la empresa.        | 3. Actualizaciones a los documentos del proyecto.          |
+| 5. Activos de los procesos de la organización |                                                            |
++-----------------------------------------------+------------------------------------------------------------+
+
+Las **necesidades del proyecto** determinan qué **componentes** del plan para la dirección del proyecto y qué **documentos** del proyecto son necesarios.
+
+- **Componentes**: Los ejemplos de componentes del plan para la dirección del proyecto que pueden ser entradas de este proceso incluyen, entre otros:
+
+	- Plan de gestión de los recursos.
+	- Plan de involucramiento de los interesados.
+
+- **Componentes actualizables**: Los componentes que se pueden actualizar son:
+
+	- Plan de involucramiento de los interesados.
+
+- **Documentos**: En cuanto a los documentos del proyecto que pueden ser entradas de este proceso, destacan:
+
+	- Documentación de requisitos.
+	- Registros de interesados.
+
+- **Documentos actualizables**: Los documentos que se pueden actualizar son:
+
+	- Cronograma del proyecto.
+	- Requisitos de interesados.
+
 4.3.18. Planificar la gestión de riesgos
 ----------------------------------------
+
+.. note:: La **estimación de los recursos de las actividades** es el proceso de estimar los recursos del equipo y el tipo y las cantidades de materiales, equipamiento y suministros necesarios para ejecutar el trabajo del proyecto.
+
+El **beneficio clave** de este proceso es que identifica el tipo, cantidad y características de los recursos necesarios para completar el proyecto.
+
+Este proceso se lleva a cabo **una única vez o en puntos predefinidos del proyecto**, según sea necesario.
+
++-----------------------------------------------+--------------------------------+
+| **Entradas**                                  | **Salidas**                    |
++-----------------------------------------------+--------------------------------+
+| 1. Acta de constitución del proyecto.         |                                |
+| 2. Plan para la dirección del proyecto.       |                                |
+| 3. Documentos del proyecto.                   | 1. Plan de gestión de riesgos. |
+| 4. Factores ambientales de la empresa.        |                                |
+| 5. Activos de los procesos de la organización |                                |
++-----------------------------------------------+--------------------------------+
+
+Al planificar la gestión de los riesgos del proyecto se deben tener en cuenta todos los componentes disponibles del plan para ladirección del proyecto, a fin de asegurar que la gestión de riegos sea **consistente con las necesidades del proyecto**.
+
+Como ejemplo de un **documento del proyecto** que puede ser una entrada de este proceso se puede citar, entre otros, el **registro de interesados**.
 
 4.3.19. Identificar los riesgos
 -------------------------------
 
+.. note:: La **identificación de los riesgos** consiste en identificar los riesgos individuales del proyecto, así como las fuentes de riesgo general del proyecto y documentar sus características.
+
+El **beneficio clave** de este proceso es la documentación de los riesgos individuales existentes del proyecto y las fuentes de riesgo general del proyecto. También reúne información para que el equipo del proyecto pueda responder adecuadamente a los riesgos identificados.
+
+Este proceso se lleva a cabo de **manera continua a lo largo de todo el proyecto**.
+
++-----------------------------------------------+---------------------------------------------------+
+| **Entradas**                                  | **Salidas**                                       |
++-----------------------------------------------+---------------------------------------------------+
+| 1. Plan para la dirección del proyecto.       |                                                   |
+| 2. Documentos del proyecto.                   |                                                   |
+| 3. Acuerdos.                                  | 1. Registros de los riesgos.                      |
+| 4. Documentación de las adquisiciones.        | 2. Informe de riesgos.                            |
+|                                               | 3. Actualizaciones a los documentos del proyecto. |
+| 5. Factores ambientales de la empresa.        |                                                   |
+| 6. Activos de los procesos de la organización |                                                   |
++-----------------------------------------------+---------------------------------------------------+
+
+Las **necesidades del proyecto** determinan qué **componentes** del plan para la dirección del proyecto y qué **documentos** del proyecto son necesarios.
+
+- **Componentes**: Los ejemplos de componentes del plan para la dirección del proyecto que pueden ser entradas de este proceso incluyen, entre otros:
+
+	- Plan de gestión de los requisitos.
+	- Plan de gestión del cronograma.
+	- Plan de gestión de los costes.
+	- Plan de gestión de la calidad.
+	- Plan de gestión de los recursos.
+	- Plan de gestión de los riesgos.
+	- Línea base del alcance.
+	- Línea base del cronograma.
+	- Línea base de costes.
+
+- **Documentos**: En cuanto a los documentos del proyecto que pueden ser entradas de este proceso, destacan:
+
+	- Registro de supuestos.
+	- Estimaciones de Costes.
+	- Estimaciones de la duración.
+	- Registro de incidentes.
+	- Registro de lecciones aprendidas.
+	- Documentación de requisitos.
+	- Requisitos de recursos.
+	- Registro de interesados.
+
+- **Documentos actualizables**: Los documentos que se pueden actualizar son:
+
+	- Registro de supuestos.
+	- Registro de incidentes.
+	- Registro de lecciones aprendidas.
+
 4.3.20. Realizar análisis cualitativo de riesgos
 ------------------------------------------------
+
+.. note:: La **realización del análisis cualitativo de riesgos** es el proceso de priorizar los riesgos individuales del proyecto para análisis o acción posterior, evaluando la probabilidad de ocurrencia e impacto de dichos riesgos, asi como otras características.
+
+El **beneficio clave** de este proceso es que concentra los esfuerzos en los riesgos de alta prioridad.
+
+Este proceso se lleva a cabo de **manera continua a lo largo de todo el proyecto**.
+
++-----------------------------------------------+---------------------------------------------------+
+| **Entradas**                                  | **Salidas**                                       |
++-----------------------------------------------+---------------------------------------------------+
+| 1. Plan para la dirección del proyecto.       |                                                   |
+| 2. Documentos del proyecto.                   | 1. Actualizaciones a los documentos del proyecto. |
+| 3. Factores ambientales de la empresa.        |                                                   |
+| 4. Activos de los procesos de la organización |                                                   |
++-----------------------------------------------+---------------------------------------------------+
+
+Las necesidades del proyecto determinan qué componentes del plan para la dirección del proyecto y qué documentos del proyecto son necesarios.
+
+- **Componentes**: Como ejemplo de un componente del plan para la dirección del proyecto que puede ser una entrada de este proceso se puede citar, entre otros, el plan de gestión de los riesgos.
+- **Documentos**: En cuanto a los documentos del proyecto que pueden ser entradas de este proceso, destacan:
+
+	- Registro de supuestos.
+	- Registro de riesgos.
+	- Registro de interesados.
+
+- **Documentos actualizables**: Los documentos que se pueden actualizar son:
+
+	- Registro de supuestos.
+	- Registro de incidentes.
+	- Registro de riesgos.
+	- Informe de riesgos.
 
 4.3.21. Realizar análisis cuantitativo de riesgos
 -------------------------------------------------
 
+.. note:: La **realización del análisis cuantitativo de riesgos** es el proceso de analizar numéricamente el efecto combinado de las riesgos individuales del proyecto identificados y otras fuentes de incertidumbre sobre los objetivos generales del proyecto.
+
+El **beneficio clave** de este proceso es que cuantifica la exposición al riesgo del proyecto en general y también puede proporcionar información cuantitativa adicional sobre los riesgos para apoyar la planificación de la respuesta a los riesgos.
+
+Este proceso se lleva a cabo de **manera continua a lo largo de todo el proyecto**.
+
++-----------------------------------------------+---------------------------------------------------+
+| **Entradas**                                  | **Salidas**                                       |
++-----------------------------------------------+---------------------------------------------------+
+| 1. Plan para la dirección del proyecto.       |                                                   |
+| 2. Documentos del proyecto.                   | 1. Actualizaciones a los documentos del proyecto. |
+| 3. Factores ambientales de la empresa.        |                                                   |
+| 4. Activos de los procesos de la organización |                                                   |
++-----------------------------------------------+---------------------------------------------------+
+
+Las **necesidades del proyecto** determinan qué **componentes** del plan para la dirección del proyecto y qué **documentos** del proyecto son necesarios.
+
+- **Componentes**: Los ejemplos de componentes del plan para la dirección del proyecto que pueden ser entradas de este proceso incluyen, entre otros:
+
+	- Plan de gestión de los riesgos.
+	- Línea base del alcance.
+	- Línea base del cronograma.
+	- Línea base de costes.
+
+- **Documentos**: En cuanto a los documentos del proyecto que pueden ser entradas de este proceso, destacan:
+
+	- Registro de supuestos.
+	- Base de las estimaciones.
+	- Estimaciones de Costes.
+	- Pronósticos de Costes.
+	- Estimaciones de la duración.
+	- Lista de hitos.
+	- Requisitos de recursos.
+	- Registro de riesgos.
+	- Informe de riesgos.
+	- Pronóstico del cronograma.
+
+- **Documentos actualizables**: Uno de los documentos que se puede actualizar es el informe de riesgos.
+
 4.3.22. Planificar la respuesta a los riesgos
 ---------------------------------------------
+
+.. note:: La **planificación de la respuesta a los riesgos** supone el proceso de desarrollar opciones, seleccionar estrategias y acordar acciones para abordar la exposición al riesgo del proyecto en general, asi como para tratar los riesgos individuales del proyecto.
+
+El **beneficio clave** de este proceso es que identifica las formas adecuadas de abordar el riesgo general del proyecto y los riesgos individuales del proyecto. También asigna recursos e incorpora actividades en los documentos del proyecto y el plan para la dirección del proyecto, según sea necesario.
+
+Este proceso se lleva a cabo de **manera continua a lo largo de todo el proyecto**.
+
++-----------------------------------------------+-------------------------------------------------------------------------------------------------------------+
+| **Entradas**                                  | **Salidas**                                                                                                 |
++-----------------------------------------------+-------------------------------------------------------------------------------------------------------------+
+| 1. Plan para la dirección del proyecto.       |                                                                                                             |
+| 2. Documentos del proyecto.                   | 1. Solicitudes de cambio.                                                                                   |
+| 3. Factores ambientales de la empresa.        | 2. Actualizaciones al plan para la dirección del proyecto.3. Actualizaciones a los documentos del proyecto. |
+| 4. Activos de los procesos de la organización |                                                                                                             |
++-----------------------------------------------+-------------------------------------------------------------------------------------------------------------+
+
+Las necesidades del proyecto determinan qué componentes del plan para la dirección del proyecto y qué documentos del proyecto son necesarios.
+
+- **Componentes**: Los ejemplos de componentes del plan para la dirección del proyecto que pueden ser entradas de este proceso incluyen, entre otros:
+
+	- Plan de gestión de los recursos.
+	- Plan de gestión de los riesgos.
+	- Línea base de costes.
+
+- **Componentes actualizables**: Los componentes que se pueden actualizar son:
+
+	- Plan de gestión del cronograma.
+	- Plan de gestión de los xostes.
+	- Plan de gestión de la calidad.
+	- Plan de gestión de los recursos.
+	- Plan de gestión de las adquisiciones.
+	- Linea base del alcance.
+	- Linea base del cronograma.
+	- Línea base de costes.
+
+- **Documentos**: En cuanto a los documentos del proyecto que pueden ser entradas de este proceso, destacan:
+
+	- Registro de lecciones aprendidas.
+	- Cronograma del proyecto.
+	- Asignaciones del equipo del proyecto.
+	- Calendarios de recursos.
+	- Registro de riesgos.
+	- Informe de riesgos.
+	- Registro de interesados.
+
+- **Documentos actualizables**: Los documentos que se pueden actualizar son:
+
+	- Registro de supuestos.
+	- Pronósticos de costes.
+	- Registro de lecciones aprendidas.
+	- Cronograma del proyecto.
+	- Asignaciones del equipo del proyecto.
+	- Registro de riesgos.
+	- Informe de riesgos.
 
 4.3.23. Planificar la gestión de las adquisiciones
 --------------------------------------------------
 
+.. note:: La **planificación de la gestión de las adquisiciones** es el proceso de documentar las decisiones de adquisiciones del proyecto, especificar el enfoque e identificar a los proveedores potenciales.
+
+El **beneficio clave** de este proceso es que determina si es preciso adquirir bienes y servicios desde fuera del proyecto y, si fuera el caso, qué adquirir, de qué manera y cuándo hacerlo. Los bienes y servicios pueden adquirirse de otras partes de la organización ejecutora o de fuentes externas.
+
+Este proceso se lleva a cabo **una única vez o en puntos predefinidos del proyecto**.
+
++-----------------------------------------------+-----------------------------------------------------------------------+
+| **Entradas**                                  | **Salidas**                                                           |
++-----------------------------------------------+-----------------------------------------------------------------------+
+|                                               | 1. Plan de gestión de las adquisiciones.                              |
+|                                               | 2. Estrategia de las actualizaciones.                                 |
+| 1. Acta de constitución del proyecto.         | 3. Documentos de las licitaciones.                                    |
+| 2. Documentos de negocio.                     | 4. Enunciados del trabajo relativo a adquisiciones.                   |
+| 3. Plan para la dirección del proyecto.       | 5. Criterios de selección de proveedores.                             |
+| 4. Documentos del proyecto.                   | 6. Decisiones de hacer o comprar.                                     |
+| 5. Factores ambientales de la empresa.        | 7. Estimaciones independientes de costes.                             |
+| 6. Activos de los procesos de la organización | 8. Solicitudes de cambio.                                             |
+|                                               | 9. Actualizaciones a los documentos del proyecto.                     |
+|                                               | 10. Actualizaciones a los activos de los procesos de la organización. |
++-----------------------------------------------+-----------------------------------------------------------------------+
+
+Las **necesidades del proyecto** determinan qué **componentes** del plan para la dirección del proyecto y qué **documentos** del proyecto son necesarios.
+
+- **Componentes**: Los ejemplos de componentes del plan para la dirección del proyecto que pueden ser entradas de este proceso incluyen, entre otros:
+
+	- Plan de gestión del alcance.
+	- Plan de gestión de la calidad.
+	- Plan de gestión de los recursos.
+	- Línea base del alcance.
+
+- **Documentos**: En cuanto a los documentos del proyecto que pueden ser entradas de este proceso, destacan:
+
+	- Lista de hitos.
+	- Asignaciones del equipo del proyecto.
+	- Documentación de requisitos.
+	- Matriz de trazabilidad de requisitos.
+	- Requisitos de recursos.
+	- Registro de riesgos.
+	- Registro de interesados.
+
+- **Documentos actualizables**: Los documentos que se pueden actualizar son:
+
+	- Registro de lecciones aprendidas.
+	- Lista de hitos.
+	- La documentación de requisitos.
+	- Matriz de trazabilidad de requisitos.
+	- Registro de riesgos.
+	- Registro de interesados.
+
 4.3.24. Planificar el involucramiento de los interesados
 --------------------------------------------------------
 
+.. note:: La **planificación del involucramiento de las partes interesadas** constituye el proceso de desarrollar enfoques para involucrar a las personas interesadas del proyecto, con base en sus necesidades, expectativas, intereses y el posible impacto en el proyecto.
+
+El **beneficio clave** es que proporciona un plan factible para interactuar de manera eficaz con los interesados.
+
+Este proceso se lleva a cabo **periódicamente**, según sea necesario.
+
++-----------------------------------------------+-----------------------------------------------+
+| **Entradas**                                  | **Salidas**                                   |
++-----------------------------------------------+-----------------------------------------------+
+|                                               |                                               |
+| 1. Acta de constitución del proyecto.         |                                               |
+| 2. Plan para la dirección del proyecto.       |                                               |
+| 3. Documentos del proyecto.                   | 1.Plan de involucramiento de los interesados. |
+| 4. Acuerdos.                                  |                                               |
+| 5. Factores ambientales de la empresa.        |                                               |
+| 6. Activos de los procesos de la organización |                                               |
++-----------------------------------------------+-----------------------------------------------+
+
+Las **necesidades del proyecto** determinan qué **componentes** del plan para la dirección del proyecto y qué **documentos** del proyecto son necesarios.
+
+- **Componentes**: Los ejemplos de componentes del plan para la dirección del proyecto que pueden ser entradas de este proceso incluyen, entre otros:
+
+	- Plan de gestión de los recursos.
+	- Plan de gestión de las comunicaciones.
+	- Plan de gestión de los riesgos.
+
+- **Documentos**: En cuanto a los documentos del proyecto que pueden ser entradas de este proceso, destacan:
+
+	- Registro de supuestos.
+	- Registro de cambios.
+	- Registro de incidentes.
+	- Cronograma del proyecto.
+	- Registro de riesgos.
+	- Registro de interesados.
 
 4.4. Grupo de procesos de ejecución
 +++++++++++++++++++++++++++++++++++
@@ -839,5 +1692,41 @@ Los **documentos que se pueden actualizar** son:
    :align: center
 
 .. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/actividades/actividad_2_10.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/actividades/actividad_3_1.png
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/actividades/actividad_3_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/actividades/actividad_3_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/actividades/actividad_4_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/actividades/actividad_4_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/actividades/actividad_4_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/actividades/actividad_5_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/actividades/actividad_5_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/actividades/actividad_6_1.jpg
    :width: 70%
    :align: center
