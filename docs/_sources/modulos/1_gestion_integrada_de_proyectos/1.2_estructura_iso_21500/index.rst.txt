@@ -2455,6 +2455,7 @@ Las necesidades del proyecto determinan qué componentes del plan para la direcc
 El **beneficio clave** de este proceso es que permite que las decisiones del proyecto se basen en la información actual sobre la exposición al riesgo del proyecto en general y los riesgos individuales del proyecto.
 
 Este proceso se lleva a cabo de **manera continua a lo largo de todo el proyecto**.
+
 +-----------------------------------------+---------------------------------------------------------------------+
 | **Entradas**                            | **Salidas**                                                         |
 +-----------------------------------------+---------------------------------------------------------------------+
@@ -2776,5 +2777,45 @@ Las **necesidades del proyecto** determinan qué **componentes** del plan para l
    :align: center
 
 .. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/actividades/actividad_9_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/actividades/cuestionario_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/actividades/cuestionario_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/actividades/cuestionario_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/actividades/cuestionario_4.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/actividades/cuestionario_5.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/actividades/cuestionario_6.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/actividades/cuestionario_7.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/actividades/cuestionario_8.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/actividades/cuestionario_9.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/actividades/cuestionario_10.jpg
    :width: 70%
    :align: center
