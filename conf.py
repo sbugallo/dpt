@@ -105,8 +105,8 @@ html_static_path = ['_static']
 latex_elements = {
     'papersize': 'a4paper',
     'pointsize': '10pt',
-    'preamble': '',
-    'figure_align': 'htbp',
+    'preamble': r'\usepackage{float}',
+    'figure_align': 'H'
 }
 
 # Grouping the document tree into LaTeX files. List of tuples
