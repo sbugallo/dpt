@@ -18,7 +18,13 @@ help:
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
 %: Makefile
 	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
-	rm -rf docs
-	cp -r _build/html docs
-	touch docs/.nojekyll
-	rm -rf _build
+	@if [ $@ = "html" ]; then \
+    	rm -rf docs; \
+    	cp -r _build/html docs; \
+    	touch docs/.nojekyll; \
+    	rm -rf _build; \
+    else \
+    	rm -rf dpt.pdf; \
+    	cp _build/latex/dpt.pdf dpt.pdf; \
+    	rm -rf _build; \
+    fi
