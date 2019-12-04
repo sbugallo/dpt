@@ -2217,3 +2217,43 @@ Si el proyecto se da por **concluido antes de su terminación**, la **documentac
 .. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.3_grupo_materia_integracion/actividades/actividad_8_6.jpg
    :width: 70%
    :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.3_grupo_materia_integracion/actividades/questionnaire_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.3_grupo_materia_integracion/actividades/questionnaire_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.3_grupo_materia_integracion/actividades/questionnaire_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.3_grupo_materia_integracion/actividades/questionnaire_4.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.3_grupo_materia_integracion/actividades/questionnaire_5.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.3_grupo_materia_integracion/actividades/questionnaire_6.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.3_grupo_materia_integracion/actividades/questionnaire_7.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.3_grupo_materia_integracion/actividades/questionnaire_8.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.3_grupo_materia_integracion/actividades/questionnaire_9.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.3_grupo_materia_integracion/actividades/questionnaire_10.jpg
+   :width: 70%
+   :align: center
