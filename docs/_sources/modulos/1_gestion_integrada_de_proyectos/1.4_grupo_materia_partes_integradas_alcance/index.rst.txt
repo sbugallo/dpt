@@ -1,2 +1,476 @@
-1.4. Grupos de materia: partes integradas y alcance
-===================================================
+Grupos de materia: partes integradas y alcance
+==============================================
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/mapa_conceptual.jpg
+   :width: 50%
+   :align: center
+
+1. Gestión de los interesados del proyecto
+******************************************
+
+.. note:: La **gestión de los interesados del proyecto** incluye los procesos requeridos para identificar a las personas, grupos u organizaciones que pueden afectar o ser afectados por el proyecto, para analizar sus expectativas y su impacto en el proyecto, y para desarrollar estrategias de gestión adecuadas a fin de lograr la participación eficaz de dichas personas interesadas en las decisiones y en la ejecución del proyecto.
+
+Los **procesos** dentro del proceso de gestión de los interesados del proyecto **son**:
+
+- Identificar a los interesados.
+- Planificar el involucramiento de los interesados.
+- Gestionar el involucramiento de los interesados.
+- Monitorear el involucramiento de los interesados.
+
+1.1. Concepstos clave para la gestión de los interesados del proyecto
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Cada proyecto tiene personas interesadas que se ven afectadas o **pueden afectar al proyecto**, ya sea **de forma positiva o negativa**. Algunas pueden tener una capacidad limitada para influir en el trabajo o los resultados del proyecto, otras pueden tener una influencia significativa sobre el mismo y sobre sus resultados esperados.
+
+La investigación académica y el análisis de los desastres registrados en proyectos de alto perfil destacan la importancia de un **enfoque estructurado** para la **identificación, priorización e involucramiento** de todas las partes interesadas.
+
+.. note:: La capacidad de la dirección y el equipo del proyecto para identificar correctamente e involucrar a las personas interesadas de manera adecuada puede significar la diferencia entre el éxito y el fracaso del proyecto.
+
+Para **aumentar las posibilidades de éxito**, el proceso de **identificación e involucramiento** debería comenzar **lo antes posible, cuando**:
+
+- El acta de constitución del proyecto haya sido aprobada.
+- El director o directora del proyecto haya sido asignado.
+- El equipo empiece a formarse.
+
+.. note:: La satisfacción de las partes interesadas debería identificarse y gestionarse como uno de los objetivos del proyecto.
+
+La **clave para el involucramiento eficaz** es centrarse en la **comunicación continua** con todas las partes interesadas, incluido el personal del equipo, **para**:
+
+- Comprender sus necesidades y expectativas.
+- Abordar los incidentes en el momento en que ocurren.
+- Gestionar conflictos de intereses.
+- Fomentar un adecuado involucramiento de las personas interesadas en las decisiones y actividades del proyecto.
+
+El proceso de **identificar e involucrar a las partes interesadas** en beneficio del proyecto es iterativo.
+
+Si bien los procesos de gestión de estas partes se describen una única vez, las actividades de identificación, priorización e involucramiento **deberían revisarse y actualizarse periódicamente**, y al menos en los **momentos en que**:
+
+- El proyecto avanza a través de diferentes fases en su ciclo de vida.
+- Las personas interesadas actuales ya no están involucradas en el trabajo del proyecto.
+- Existen nuevas personas interesadas que se convierten en parte de la comunidad de interés del proyecto.
+- Existen cambios significativos en la organización o la comunidad de personas interesadas en general.
+
+1.2. Tendencias y prácticas emergentes en el involucramiento de los interesados del proyecto
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Se están desarrollando **definiciones más amplias** de las partes interesadas que extienden las categorías tradicionales de empleados, proveedores y accionistas para **incluir grupos como** los reguladores, grupos de lobby, ambientalistas, organizaciones financieras, los medios y aquellos que simplemente creen que son personas interesadas que perciben que serán afectadas por el trabajo o los resultados del proyecto.
+
+Las **tendencias y prácticas** emergentes para la gestión de las partes interesadas del proyecto **incluyen, entre otras**:
+
+- Identificar a todas las partes, no solo a un conjunto limitado.
+- Asegurar que todo el personal del equipo participe en actividades de involucramiento de las partes interesadas.
+- Revisar periódicamente la comunidad de personas interesadas, a menudo en paralelo con revisiones de los riesgos individuales del proyecto.
+- Consultar con las partes interesadas más afectadas por el trabajo o los resultados del proyecto a través del concepto de "co-creación". La co-creación pone mayor énfasis en incluirlas como socias en el equipo.
+- Capturar el valor del involucramiento eficaz de las partes interesadas, tanto positivo como negativo.
+
+El **valor positivo** se puede basar en la consideración de beneficios derivados de niveles más altos de apoyo activo por parte de las personas interesadas, particularmente aquellas más poderosas.
+
+El **valor negativo** se puede obtener midiendo los verdaderos costes de no involucrar de manera eficaz a estas personas, lo que conduce a retiros de productos o pérdida de reputación por parte de la organización o el proyecto.
+
+1.3. Consideraciones sobre adaptación
++++++++++++++++++++++++++++++++++++++
+
+Debido a que cada proyecto es único, la dirección puede necesitar adaptar la forma en que se aplican los procesos de gestión de las partes interesadas del proyecto.
+
+Las **consideraciones sobre adaptación incluyen**, entre otras:
+
+- **Diversidad de las partes interesadas**: ¿Cuántas personas interesadas existen? ¿Qué tan diversa es la cultura dentro de la comunidad de gente interesada?
+- **Complejidad de las relaciones de las partes interesadas**: ¿Qué tan complejas son las relaciones dentro de la comunidad de personas interesadas? Cuanto mayor sea el número de redes en las que participa una persona interesada o grupo de gente interesada, más complejas serán las redes de información y desinformación que puede recibir.
+- **Tecnología de la comunicación**: ¿Qué tecnología de comunicación está disponible? ¿Qué mecanismos de apoyo están a disposición para asegurar que se obtenga el mejor valor de la tecnología?
+
+1.4. Consideraciones para entornos ágiles/adaptativos
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Los **proyectos que experimentan un alto grado de cambio** requieren de la participación activa y el involucramiento de las partes interesadas del proyecto.
+
+Para **facilitar la discusión y la toma de decisiones** oportunas y productivas, los equipos adaptativos **interactúan directamente con las personas interesadas**, en lugar de hacerlo a través de los distintos niveles gerenciales. A menudo la clientela, usuarios, desarrolladores y desarrolladoras intercambian información en un **proceso dinámico co-creativo** que conduce a un mayor involucramiento y una mayor satisfacción.
+
+Las **interacciones periódicas** con la comunidad de personas interesadas **a lo largo del proyecto**:
+
+- Mitigan el riesgo.
+- Construyen confianza.
+- Apoyan los ajustes con mayor antelación en el ciclo del proyecto.
+- Reducen los costes.
+- Aumentan la probabilidad de éxito del proyecto.
+
+El **propósito de invitar a las partes interesadas** a las reuniones y revisiones del proyecto o de publicar objetos del proyecto en espacios públicos es **hacer visible lo antes posible cualquier desalineación, dependencia u otro incidente** relacionado con el proyecto que experimenta el cambio.
+
+.. note:: A fin de acelerar el intercambio de información dentro y a través de la organización, los métodos ágiles promueven una fuerte transparencia.
+
+1.5. Identificar a los interesados
+++++++++++++++++++++++++++++++++++
+
+.. note::
+	La **identificación de los interesados** constituye el proceso de reconocer periódicamente a las partes interesadas del proyecto, así como de analizar y documentar información relevante relativa a sus intereses, participación, interdependencias, influencia y posible impacto en el éxito del proyecto.
+
+	El **beneficio clave** de este proceso es que permite al equipo del proyecto identificar el enfoque adecuado para el involucramiento de cada persona interesada o grupo de interesadas.
+
+	Este proceso se lleva a cabo **periódicamente**, según sea necesario.
+
++---------------------------------------------------+--------------------------------------------+------------------------------------------------------------+
+| **Entradas**                                      | **Herramientas y Técnicas**                | **Salidas**                                                |
++---------------------------------------------------+--------------------------------------------+------------------------------------------------------------+
+|                                                   |                                            | 1. Registro de interesados.                                |
+| 1. Acta de constitución del proyecto.             |                                            | 2. Solicitudes de cambio.                                  |
+| 2. Documentos del proyecto:                       | 1. Juicio de expertos.                     | 3. Actualizaciones al plan para la dirección del proyecto: |
+|                                                   | 2. Recopilación de datos:                  |                                                            |
+|     - Caso de negocio.                            |                                            |     - Plan de gestión de los requisitos.                   |
+|     - Plan de gestión de beneficios.              |     - Cuestionarios y encuestas.           |     - Plan de gestión de las comunicaciones.               |
+|                                                   |     - Tormenta de ideas.                   |     - Plan de gestión de los riesgos.                      |
+| 3. Plan para la dirección del proyecto:           |                                            |     - Plan de involucramiento de los interesados.          |
+|                                                   | 3. Análisis de datos:                      |                                                            |
+|     - Plan de gestión de las comunicaciones.      |                                            | 4. Actualizaciones a los documentos del proyecto:          |
+|     - Plan de involucramiento de los interesados. |     - Análisis de interesados.             |                                                            |
+|                                                   |     - Análisis de documentos.              |     - Registro de supuestos.                               |
+| 4. Documentos del proyecto:                       |                                            |     - Registro de incidentes.                              |
+|                                                   | 4. Representación de datos:                |     - Registro de riesgos.                                 |
+|     - Registro de cambios.                        |                                            |                                                            |
+|     - Registro de incidentes.                     |     - Mapeo/representación de interesados. |                                                            |
+|     - Documentación de requisitos.                |                                            |                                                            |
+|                                                   | 5. Reuniones                               |                                                            |
+| 5. Acuerdos                                       |                                            |                                                            |
+| 6. Factores ambientales de la empresa.            |                                            |                                                            |
+| 7. Activos de los procesos de la organización.    |                                            |                                                            |
++---------------------------------------------------+--------------------------------------------+------------------------------------------------------------+
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/diagrama_de_flujo.jpg
+   :width: 50%
+   :align: center
+
+Con frecuencia este proceso ocurre por primera vez en un proyecto, ya sea **antes o al mismo tiempo en que se desarrolla y aprueba el acta de constitución del proyecto**. El mismo se repite según sea necesario.
+
+.. note:: Siempre debería realizarse al comienzo de cada fase y cuando ocurre un cambio significativo en el proyecto o la organizacion.
+
+Cada vez que se repite el proceso de identificación, los componentes del plan para la dirección del proyecto y los documentos del proyecto deberían consultarse para **identificar a las personas interesadas relevantes**.
+
+1.5.1. Entradas
+---------------
+
+En las entradas del proceso de identificación de los interesados se pueden encontrar:
+
+1. Acta de constitución del proyecto.
+2. Documentos de negocio:
+
+	- Caso de negocio.
+	- Plan de gestión de beneficios.
+
+3. Plan para la dirección del proyecto:
+
+	- Plan de gestión de las comunicaciones.
+	- Plan de involucramiento de los interesados.
+
+4. Documentos del proyecto:
+
+	- Registro de cambios.
+	- Registro de incidentes.
+	- Documentación de requisitos.
+
+5. Acuerdos.
+6. Factores ambientales de la empresa.
+7. Activos de los procesos de la organización.
+
+
+- Acta de constitución de proyecto
+	El acta de constitución del proyecto **identifica la lista de personas interesadas clave**. También puede contener información sobre las responsabilidades de las mismas.
+
+- Documentos de negocio
+	En la **primera iteración** del proceso de identificación de los interesados. El caso de negocio y el plan de gestión de beneficios son **fuentes de información sobre las partes interesadas** del proyecto. **Dentro de este proceso se describen** de la siguiente manera:
+
+	- **Caso de negocio**: identifica los objetivos del proyecto y una lista inicial de personas interesadas afectadas por el proyecto.
+	- **Plan de gestión de beneficios**: describe el plan previsto para obtener los beneficios establecidos en el caso de negocio. Puede identificar a las personas y grupos que se beneficiarán con la entrega de los resultados del proyecto y que por lo tanto se consideran como interesadas.
+
+- Plan para la dirección del proyecto
+	El plan para la dirección del proyecto **no está disponible durante la identificación inicial** de las personas interesadas, sin embargo, una vez desarrollado, los componentes del plan para la dirección del proyecto **incluyen, entre otros**:
+
+	- **Plan de gestión de las comunicaciones**: el involucramientoy las comunicaciones de las partes interesadas están estrechamente relacionadas. La información incluida en el plan de gestión de las comunicaciones es una fuente de conocimiento acerca de las mismas.
+	- **Plan de involucramiento de los interesados**: identifica las estrategias de gestión y las acciones necesarias para involucrar a las partes interesadas de manera eficaz.
+
+- Documentos del proyecto
+	Es poco probable que los documentos del proyecto sean una entrada para la identificación inicial de las personas interesadas. Sin embargo, **la identificación ocurre a lo largo de todo el proyecto**. Una vez superada la fase inicial, habrá más documentos disponibles que se utilizan a lo largo del proyecto.
+
+	Los **documentos del proyecto** que pueden ser **considerados como entradas** para este proceso **incluyen, entre otros**:
+
+	- **Registro de cambios**: puede introducir una persona interesada nueva o cambiar la naturaleza de la relación	de una existente.
+	- **Registro de incidentes**: registra los incidentes que pueden introducir nuevas partes interesadas al proyecto o cambiar el tipo de participación de las existentes.
+	- **Documentación de requisitos**: pueden proporcionar información sobre las personas interesadas potenciales.
+
+- Acuerdos
+	Las partes de un acuerdo las componen personas interesadas del proyecto. El acuerdo **puede contener referencias a otras partes interesadas**.
+
+- Factores ambientales de la empresa
+	Los **factores ambientales de la empresa** que pueden influir en el proceso de identificación de los interesados **incluyen, entre otros**:
+
+	- Cultura, clima político y marco de gobernanza de la organización.
+	- Estándares gubernamentales o de la industria (regulaciones, estándares de productos y códigos de conducta).
+	- Tendencias globales, regionales o locales y prácticas o hábitos.
+	- Distribución geográfica de instalaciones y recursos.
+
+- Activos de los procesos de la organización
+	Los **activos de los procesos** de la organización que **pueden influir en el proceso de identificación** de las partes interesadas **incluyen, entre otros**:
+
+	- Plantillas e instrucciones del registro de interesados.
+	- Registros de interesados de proyectos anteriores.
+	- Repositorio de lecciones aprendidas con información acerca de las preferencias, acciones e involucramiento de las personas interesadas.
+
+1.5.2. Herramientas y técnicas
+------------------------------
+
+En las herramientas y técnicas del proceso de identificación de los interesados se pueden encontrar:
+
+1. Juicio de expertos.
+2. Recopilación de datos:
+
+	- Cuestionarios y encuestas.
+	- Tormenta de ideas.
+
+3. Análisis de datos:
+
+	- Análisis de interesados.
+	- Análisis de documentos.
+
+4. Representación de datos:
+
+	- Mapeo/ representación de interesados.
+
+5. Reuniones.
+
+- Juicio de expertos
+	Como se ha visto en unidades anteriores, se debe tomar en cuenta la pericia de las personas o grupos que tengan **conocimientos especializados o capacitación** en los siguientes **temas**:
+
+	- Comprensión de la politica y las estructuras de poder de la organización.
+	- Conocimiento del entorno y la cultura de la organización y otras organizaciones afectadas, incluidos clientes y el entorno en general.
+	- Conocimiento de la industria o el tipo de entregable del proyecto.
+	- Conocimiento de las contribuciones y la pericia del personal individual del equipo.
+
+- Recopilación de datos
+	Las **técnicas de recopilación de datos** que pueden utilizarse para este proceso **incluyen, entre otras**:
+
+	- **Cuestionarios y encuestas**: mediante reuniones uno a uno, sesiones de grupos focales u otras técnicas masivas de recolección de información.
+	- **Tormenta de ideas**: se utiliza para identificar partes interesadas. Como se ha visto en la unidad didáctica 3, es una técnica general de recopilación de datos y creatividad que recoge el aporte de grupos tales como el personal del equipo o personas expertas en la materia.
+	- **Escritura de ideas (brain writing)**: semejante a la tormenta de ideas, otorga tiempo para considerar las preguntas individualmente antes de llevar a cabo la sesión de creatividad grupal. La información puede recopilarse en grupos (cara a cara o mediante entornos virtuales apoyados por tecnología).
+
+- Análisis de datos
+	Las **técnicas de análisis de datos** que pueden utilizarse para este proceso **incluyen, entre otras**:
+
+	- **Análisis de interesados**: da como resultado una lista de personas interesadas e información relevante como sus cargos en la organización, roles en el proyecto, intereses, expectativas, actitudes (sus niveles de apoyo al proyecto) y su preocupación por la información relativa al proyecto. En un sentido amplio, los **intereses de las partes interesadas** pueden incluir,	entre otros, **una combinación de**:
+
+		- **Interés**: una persona o grupo puede verse afectado por una decisión relacionada con elproyecto o sus resultados.
+		- **Derechos**: derechos (legales o morales). Los derechos legales, como la salud y seguridad en el trabajo, pueden estar definidos en el marco legislativo de un país. Los derechos morales pueden implicar conceptos de protección de sitios históricos o sostenibilidad ambiental.
+		- **Propiedad**: Una persona o grupo tiene un titulo legal de un activo o una propiedad.
+		- **Conocimiento**: Conocimiento especializado, que puede beneficiar al proyecto a través de una entrega más eficaz de objetivos del proyecto, resultados de la organización o conocimiento de las estructuras de poder de la organizacion.
+		- **Contribución**: Provisión de fondos u otros recursos, incluidos recursos humanos, o prestación de apoyo para el proyecto de formas más intangibles, como el respaldo para promover los objetivos del proyecto o actuar como amortiguador entre el proyecto y las estructuras de poder de la organización y su politica
+
+	- **Análisis de documentos**: evaluación de la documentación disponible del proyecto y las lecciones aprendidas de proyectos anteriores para identificar a las partes interesadas y otra información complementaria. 
+
+
+- Representación de datos
+	Entre las técnicas de representación de datos que pueden utilizarse en este proceso se incluye el **mapeo/representación de interesados**, un método para categorizar las partes interesadas utilizando diversos métodos. La **categorización** ayuda al equipo a construir relaciones con dichas partes.
+
+	Los **métodos comunes** incluyen **matrices de**:
+
+	- Poder/interés.
+	- Poder/influencia.
+	- Impacto/influencia.
+
+	Cada una de estas técnicas **agrupa a las partes interesadas según su nivel de**:
+
+	- Autoridad (poder).
+	- Inquietud acerca de los resultados del proyecto (interés).
+	- Capacidad para influir en los resultados del proyecto (influencia).
+	- Capacidad para causar cambios en la planificación o la ejecución del proyecto.
+
+	Estos **modelos de clasificación** son útiles para proyectos pequeños o con relaciones simples entre las partes interesadas y el proyecto, o dentro de la propia comunidad de interesados.
+
+	- **Cubo de interesados**:
+	- **Modelo de prominencia**: Describe clases de personas interesadas **basándose en evaluaciones de su**:
+
+		- **Poder**: nivel de autoridad o capacidad de influir en los resultados del proyecto:
+		- **Urgencia**: necesidad de atención inmediata, ya sea por restricciones de tiempo o por el marcado interés de las partes interesadas en el resultado.
+		- **Legitimidad**: su involucramiento es adecuado.
+
+	Existe una **adaptación del modelo de prominencia** que sustituye la legitimidad por proximidad (que se aplica al equipo y mide su nivel de involucramiento con el trabajo del proyecto). El modelo de prominencia presenta su mayor utilidad en 	comunidades de personas interesadas grandes y complejas o cuando existen redes complejas de relaciones dentro de la	comunidad. También resulta útil para determinar la importancia relativa de las partes interesadas identificadas.
+
+	- **Dirección de influencia**: Clasifica las partes interesadas de acuerdo con su influencia en el trabajo del proyecto o en el propio equipo del proyecto. Estas partes **se pueden clasificar** de las siguientes maneras:
+
+		- **Ascendente**: alta dirección de la organización ejecutante u organización del cliente, patrocinador y comité de dirección.
+		- **Descendente**: el equipo o los especialistas que aportan conocimientos o habilidades de forma temporal.
+		- **Hacia afuera**: grupos de partes interesadas y sus representantes fuera del equipo del proyecto, tales como proveedores, departamentos gubernamentales, el público, usuarios finales y reguladores.
+		- **Lateral**: los pares de la dirección del proyecto, tales como otros directores o directoras de proyecto o mandos intermedios que compiten por los recursos escasos del proyecto o que colaboran con la dirección del proyecto compartiendo recursos o información.
+
+	- **Priorización**:
+
+- Reuniones
+	Las reuniones se utilizan para **desarrollar un entendimiento sobre las personas interesadas** significativas del proyecto. Pueden adoptar la **forma de**:
+
+	- Talleres de facilitación.
+	- Discusiones guiadas en grupos pequeños.
+	- Grupos virtuales que utilizan tecnología electrónica o medios sociales para compartir ideas y analizar datos.
+
+1.5.3. Salidas
+--------------
+
+En las **salidas** del proceso de **identificación de los interesados** se pueden encontrar:
+
+1. Registro de interesados.
+2. Solicitudes de cambio.
+3. Actualizaciones al plan para la dirección del proyecto:
+
+	- Plan de gestión de los requisitos.
+	- Plan de gestión de las comunicaciones.
+	- Plan de gestión de los riesgos.
+	- Plan de involucramiento de los interesados.
+
+4. Actualizaciones a los documentos del proyecto:
+	
+	- Registro de supuestos.
+	- Registro de incidentes.
+	- Registro de riesgos.
+
+- Registro de interesados
+	El registro de los interesados es la **salida principal del proceso de identificación de las personas interesadas**. Este documento contiene información sobre ellas e **incluye, entre otras cosas**:
+
+	- **Información de identificación**: nombre, puesto en la organización, ubicación, datos de contacto y rol en el proyecto.
+	- **Información de evaluación**: requisitos principales, expectativas, potencial para influir en los resultados del proyecto, y la fase del ciclo de vida del proyecto en la que la persona interesada tiene la mayor influencia o impacto.
+	- **Clasificación de las partes interesadas**: interno/externo, impacto/influencia/poder/interés, ascendente/descendente/hacia afuera/lateral, o cualquier otro modelo de clasificación elegido por la dirección del proyecto.
+
+- Solicitudes de cambio
+	Durante la **primera iteración del proceso** de identificación, **no habrá solicitudes de cambio**. A medida que la identificación avanza a lo largo del proyecto, las nuevas personas interesadas o información acerca de las mismas puede dar lugar a una ++solicitud de cambio de++:
+
+	- Producto.
+	- Plan para la dirección del proyecto.
+	- Otros documentos del proyecto.
+
+	.. note:: Las solicitudes de cambio se procesan para su revisión y tratamiento a través del proceso de realización del control integrado de cambios.
+
+
+- Actualizaciones al plan para la dirección del proyecto
+
+- Actualizaciones a los documentos del proyecto:
+
+
+
+1.6. Planificar el involucramiento de los interesados
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+1.6.1. Entradas
+---------------
+
+1.6.2. Herramientas y técnicas
+------------------------------
+
+1.6.3. Salidas
+--------------
+
+1.7. Gestionar el involucramiento de los interesados
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+1.7.1. Entradas
+---------------
+
+1.7.2. Herramientas y técnicas
+------------------------------
+
+1.7.3. Salidas
+--------------
+
+1.8. Monitorear el involucramiento de los interesados
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+1.8.1. Entradas
+---------------
+
+1.8.2. Herramientas y técnicas
+------------------------------
+
+1.8.3. Salidas
+--------------
+
+2. Gestión del alcance
+**********************
+
+2.1. Introducción
++++++++++++++++++
+
+2.2. Conceptos clave para la gestión del alcance del proyecto
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+2.3. Tendencias y prácticas emergentes en la gestión del alcance del proyecto
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+2.4. Planificar la gestión del alcance
+++++++++++++++++++++++++++++++++++++++
+
+2.4.1. Entradas
+---------------
+
+2.4.2. Herramientas y técnicas
+------------------------------
+
+2.4.3. Salidas
+--------------
+
+2.5. Recopilar requisitos
++++++++++++++++++++++++++
+
+2.5.1. Entradas
+---------------
+
+2.5.2. Herramientas y técnicas
+------------------------------
+
+2.5.3. Salidas
+--------------
+
+2.6. Definir el alcance
++++++++++++++++++++++++
+
+2.6.1. Entradas
+---------------
+
+2.6.2. Herramientas y técnicas
+------------------------------
+
+2.6.3. Salidas
+--------------
+
+2.7. Crear la EDT/WBS
++++++++++++++++++++++
+
+2.7.1. Entradas
+---------------
+
+2.7.2. Herramientas y técnicas
+------------------------------
+
+2.7.3. Salidas
+--------------
+
+2.8. Validar el alcance
++++++++++++++++++++++++
+
+2.8.1. Entradas
+---------------
+
+2.8.2. Herramientas y técnicas
+------------------------------
+
+2.8.3. Salidas
+--------------
+
+2.9. Controlar el alcance
++++++++++++++++++++++++++
+
+2.9.1. Entradas
+---------------
+
+2.9.2. Herramientas y técnicas
+------------------------------
+
+2.9.3. Salidas
+--------------
+
+3. Resumen
+**********
+
+4. Actividades
+**************
