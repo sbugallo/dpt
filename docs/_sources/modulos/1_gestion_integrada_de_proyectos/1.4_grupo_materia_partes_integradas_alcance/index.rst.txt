@@ -1482,7 +1482,7 @@ En las **entradas** del proceso de **definición del alcance** se pueden encontr
 	- Documentación de requisitos.
 	- Registro de riesgos.
 
-4. Actores ambientales de la empresa.
+4. Factores ambientales de la empresa.
 5. Activos de los procesos de la organización.
 
 - Acta de constitución del proyecto
@@ -2226,5 +2226,45 @@ En las **salidas** del proceso de **control del alcance** se pueden encontrar:
    :align: center
 
 .. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_12_4.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/questionnaire_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/questionnaire_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/questionnaire_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/questionnaire_4.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/questionnaire_5.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/questionnaire_6.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/questionnaire_7.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/questionnaire_8.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/questionnaire_9.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/questionnaire_10.jpg
    :width: 70%
    :align: center
