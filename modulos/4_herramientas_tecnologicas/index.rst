@@ -1,5 +1,5 @@
-4. Herramientas tecnológicas específicas de gestión de proyectos. Microsoft project
-===================================================================================
+Herramientas tecnológicas específicas de gestión de proyectos. Microsoft project
+================================================================================
 
 .. toctree::
    :maxdepth: 1

@@ -1,5 +1,5 @@
-1. Gestión integrada de proyectos
-=================================
+Gestión integrada de proyectos
+==============================
 
 .. toctree::
    :maxdepth: 1

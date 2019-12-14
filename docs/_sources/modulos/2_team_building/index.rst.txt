@@ -1,5 +1,5 @@
-2. Team Building. Gestión de liderazgo de grupos de trabajo orientados a objetivos
-==================================================================================
+Team Building. Gestión de liderazgo de grupos de trabajo orientados a objetivos
+===============================================================================
 
 .. toctree::
    :maxdepth: 1

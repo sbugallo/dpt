@@ -1,5 +1,5 @@
-5. Nuevas tecnologías aplicadas a la mejora de procesos para su uso en la gestión de proyectos
-==============================================================================================
+Nuevas tecnologías aplicadas a la mejora de procesos para su uso en la gestión de proyectos
+===========================================================================================
 
 .. toctree::
    :maxdepth: 1

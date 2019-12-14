@@ -18,3 +18,9 @@ Grupos de materia: Recursos
 
 1.5. Control de recursos
 ++++++++++++++++++++++++
+
+2. Resumen
+**********
+
+3. Actividades
+**************

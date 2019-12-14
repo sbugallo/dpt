@@ -1,5 +1,5 @@
-3. Metodologías ágiles para la gestión de proyectos
-===================================================
+Metodologías ágiles para la gestión de proyectos
+================================================
 
 .. toctree::
    :maxdepth: 1
