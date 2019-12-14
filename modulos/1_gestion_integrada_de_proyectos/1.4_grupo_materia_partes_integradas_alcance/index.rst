@@ -703,7 +703,7 @@ En las **herramientas y técnicas** del proceso de **gestión del involucramient
 En las **salidas** del proceso de **gestión del involucramiento de los interesados** se pueden encontrar:
 
 1. Solicitudes de cambio.
-2. Actualizaciones al plan para a dirección del proyecto:
+2. Actualizaciones al plan para la dirección del proyecto:
 
 	- Plan de gestión de las comunicaciones.
 	- Plan de involucramiento de los interesados.
@@ -935,8 +935,7 @@ Los **procesos de la gestión del alcance del proyecto son**:
 - Planificar la gestión del alcance.
 - Recopilar requisitos.
 - Definir el alcance.
-- Crear la Estructura de Desglose del Trabajo (EDT)/Work
-- Breakdown Structure (W BS).
+- Crear la Estructura de Desglose del Trabajo (EDT)/Work Breakdown Structure (WBS).
 - Validar el alcance.
 - Controlar el alcance.
 
@@ -1336,12 +1335,12 @@ En las **herramientas y técnicas** del proceso de **recopilación de requisitos
 
 	- **Técnica de grupo nominal**: Mejora la técnica de tormenta de ideas mediante un proceso de votación que se usa para jerarquizar las ideas más útiles, para realizar una tormenta de ideas adicional o para asignarles prioridades. Consta de los siguientes **pasos**:
 
-		-Al grupo se le plantea una pregunta o problema.
-		-Cada persona genera y escribe sus ideas en silencio.
-		-La persona que modera escribe las ideas en un rotafolio hasta que todas las ideas queden registradas.
-		-Cada idea registrada se debate hasta que todos logran una comprensión clara.
-		-Se realiza la votación. Se vota en privado para priorizar las ideas, utilizando usualmente una escala del 1 al 5, siendo 1 el más bajo y 5 el más alto. La votación puede realizarse en muchas rondas a fin de reducir el número de ideas y poder centrarse en las mismas.
-		-Después de cada ronda, se cuentan los votos y se seleccionan las ideas con mayor puntuación.
+		- Al grupo se le plantea una pregunta o problema.
+		- Cada persona genera y escribe sus ideas en silencio.
+		- La persona que modera escribe las ideas en un rotafolio hasta que todas las ideas queden registradas.
+		- Cada idea registrada se debate hasta que todos logran una comprensión clara.
+		- Se realiza la votación. Se vota en privado para priorizar las ideas, utilizando usualmente una escala del 1 al 5, siendo 1 el más bajo y 5 el más alto. La votación puede realizarse en muchas rondas a fin de reducir el número de ideas y poder centrarse en las mismas.
+		- Después de cada ronda, se cuentan los votos y se seleccionan las ideas con mayor puntuación.
 
 	- **Observación/conversación**: Proporcionan una manera directa de ver a las personas en su ambiente, y el modo en que realizan sus trabajos o tareas y ejecutan los procesos. Son particularmente útiles para procesos detallados, cuando las personas que usan el producto tienen dificultades o se muestran poco dispuestas para articular sus requisitos. La observación también es conocida por el término en inglés job shadowing. Normalmente la realiza un observador externo, que mira a una persona experta en el negocio mientras  ejecuta su trabajo. También puede hacerla un observador participante, que de hecho lleva a cabo un proceso o procedimiento para experimentar cómo se hace y descubrir requisitos ocultos.
 
@@ -2049,3 +2048,183 @@ En las **salidas** del proceso de **control del alcance** se pueden encontrar:
 
 4. Actividades
 **************
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_1_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_1_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_1_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_1_4.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_2_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_2_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_2_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_2_4.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_3_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_3_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_3_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_3_4.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_4_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_4_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_4_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_4_4.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_5_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_5_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_5_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_6_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_6_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_6_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_7_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_7_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_7_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_7_4.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_8_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_8_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_8_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_8_4.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_8_5.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_9_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_9_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_9_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_9_4.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_10_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_10_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_10_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_11_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_11_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_11_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_12_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_12_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_12_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_12_4.jpg
+   :width: 70%
+   :align: center
