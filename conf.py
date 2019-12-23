@@ -105,7 +105,13 @@ html_static_path = ['_static']
 latex_elements = {
     'papersize': 'a4paper',
     'pointsize': '10pt',
-    'preamble': r'\usepackage{float}',
+    'preamble': r'''
+\usepackage{float}
+\usepackage[export]{adjustbox}% http://ctan.org/pkg/adjustbox
+\let\oldincludegraphics\includegraphics
+\renewcommand{\includegraphics}[2][]{%
+  \oldincludegraphics[#1,min width=0.9\linewidth]{#2}}
+''',
     'figure_align': 'H'
 }
 
