@@ -1543,3 +1543,35 @@ La **planificación, aseguramiento y control de la calidad del proyecto tienen t
 .. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.7_grupo_materia_riesgo_calidad/actividades/actividad_21_3.jpg
    :width: 70%
    :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.7_grupo_materia_riesgo_calidad/actividades/questionnaire_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.7_grupo_materia_riesgo_calidad/actividades/questionnaire_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.7_grupo_materia_riesgo_calidad/actividades/questionnaire_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.7_grupo_materia_riesgo_calidad/actividades/questionnaire_4.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.7_grupo_materia_riesgo_calidad/actividades/questionnaire_5.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.7_grupo_materia_riesgo_calidad/actividades/questionnaire_6.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.7_grupo_materia_riesgo_calidad/actividades/questionnaire_7.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../../_static/1_gestion_integrada_de_proyectos/1.7_grupo_materia_riesgo_calidad/actividades/questionnaire_8.jpg
+   :width: 70%
+   :align: center
