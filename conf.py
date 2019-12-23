@@ -12,6 +12,7 @@
 #
 import os
 import sys
+import datetime
 sys.path.insert(0, os.path.abspath('../'))
 
 
@@ -20,7 +21,6 @@ sys.path.insert(0, os.path.abspath('../'))
 project = 'Dirección de Proyectos Tecnológicos'
 copyright = '2019, Sergio Bugallo'
 author = 'Sergio Bugallo'
-
 
 # -- General configuration ---------------------------------------------------
 
@@ -38,6 +38,15 @@ templates_path = ['_templates']
 #
 # source_suffix = ['.rst', '.md']
 source_suffix = ".rst"
+
+# The version info for the project you're documenting, acts as replacement for
+# |version| and |release|, also used in various other places throughout the
+# built documents.
+#
+# The short X.Y version.
+version = f"{datetime.datetime.now():%d/%m/%Y %H:%M:%S}"
+# The full version, including alpha/beta/rc tags.
+release = ''
 
 # The master toctree document.
 master_doc = "index"
