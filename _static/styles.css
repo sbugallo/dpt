@@ -103,3 +103,14 @@ h1 {
         overflow: hidden;
     }
 }
+
+@media (max-width: 1400px) {
+  img {
+    width: 100% !important;
+  }
+}
+
+.caption-text {
+    width: 100%;
+    text-align: center;
+}
