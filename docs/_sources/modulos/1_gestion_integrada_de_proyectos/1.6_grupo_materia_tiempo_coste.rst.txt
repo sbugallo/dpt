@@ -1,0 +1,1055 @@
+Grupos de materia. Tiempo y coste
+=================================
+
+En un mercado global, dominado por la inmediatez y los bajos costes como garante de competitividad empresarial, las organizaciones tienen que **optimizar sus estrategias**, con el fin de generar productos en el menor tiempo posible y con la mejor rentabilidad económica. 
+
+Elaborar presupuestos realistas, administrar los recursos económicos o distribuir  adecuadamente el tiempo de ejecución, se convierten en **acciones imprescindibles** para cualquier entidad que desee concluir sus planes con un cronograma y unos costes mínimos.
+
+En el desarrollo de esta unidad didáctica, se ha tomado como referente los planteamientos de la **Guía PMBOK**, elaborada por el Project Management Institute (PMI). Una metodología de gestión de proyectos, reconocida mundialmente, que las empresas solo tienen que adaptar a sus planes específicos.
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/mapa_conceptual.jpg
+   :width: 50%
+   :align: center
+
+1. Procesos de la dirección de proyectos
+****************************************
+
+.. note:: Los **procesos de la dirección de proyectos** son una serie de actividades que se realizan en términos de administración durante el ciclo de vida de un determinado plan empresarial.
+
+El **Project Management Institute (PMI)** es una asociación profesional, sin ánimo de lucro, para la gestión de proyectos. Publicó la **Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK)**. Esta, es una base para que las organizaciones puedan desarrollar metodologías, políticas, técnicas, herramientas, etc. e implementar así, sus proyectos.
+
+Como se ha visto en anteriores unidades, la Guía del PMBOK **los procesos de la dirección de proyectos se configuran en**:
+
+- **Grupo de procesos**: Agrupamientos lógicos de procesos que tienen la finalidad de alcanzar unos objetivos específicos del proyecto.
+- **Áreas de conocimiento**: Organizadas en función de sus requisitos técnicos y se describen en términos de procesos, entradas, salidas, herramientas y técnicas.
+
+El siguiente gráfico muestra los **grupos y áreas de conocimiento** en los que se organizan los procesos de dirección de proyectos. Se resaltan los dos grupos y áreas de conocimiento que albergan los procesos que se analizarán en esta unidad didáctica.
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/diagrama.jpg
+   :width: 50%
+   :align: center
+
+En los procesos de la dirección de proyectos se describen, analizando estos **aspectos**:
+
+- **Entradas**: Elementos internos o externos del proyecto que se requieren en un proceso para poder continuar.
+- **Herramientas**: Componentes tangibles, empleados en una actividad para producir un resultado.
+- **Técnicas**: Procedimientos definidos y sistemáticos, utilizados para desarrollar actividades y generar un producto; y en los que, se pueden usar una o más herramientas.
+- **Salidas**: Productos, resultados o servicios derivados de un proceso. Estas, si no son un producto entregable del proyecto, se convierten en entradas a otro proceso.
+
+2. Procesos de gestión del cronograma del proyecto
+**************************************************
+
+A lo largo de este epígrafe se expondrán los **procesos de gestión del cronograma del proyecto**, estos son:
+
+- Establecer la secuencia de actividades.
+- Estimar la duración de las actividades.
+- Desarrollar el cronograma.
+- Controlar el cronograma.
+
+2.1. Introducción a la materia: tiempo
+++++++++++++++++++++++++++++++++++++++
+
+.. note:: El **cronograma del proyecto** es una lista de actividades o tareas con las fechas previstas de su comienzo y final. Debe permanecer flexible a lo largo del proyecto para responder a adaptaciones relacionadas con conocimiento adquirido, análisis de riesgos o actividades añadidas.
+
+La elaboración del cronograma del proyecto está condicionada por los siguientes **componentes**:
+
+- **Método de planificación**: Ruta o enfoque seleccionado por el equipo de dirección.
+- **Modelo de programación**: Para crearlo, se requiere introducir datos específicos del proyecto (actividades, fechas, duraciones, recursos, etc.) en una herramienta de planificación
+- **Programación del proyecto**: Plan detallado del modo y el momento en que se proporcionarán los productos, servicios y resultados. Es un recurso de información, gestión y comunicación para los interesados.
+
+En proyectos pequeños, la definición, secuenciación y duración de las actividades y el desarrollo del modelo de programación, son acciones estrechamente vinculadas que se convierten en una sola y que es realizada por una persona en un espacio de tiempo relativamente corto.
+
+En el siguiente gráfico se representan los tres **elementos que pueden intervenir en el desarrollo del cronograma**.
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/elementos_desarrollo_cronograma.jpg
+   :width: 50%
+   :align: center
+
+En gestión del cronograma, se utilizan, entre otros, estos dos **métodos emergentes de programación**:
+
+- **Iterativa con trabajo pendiente**: Forma de planificación gradual que se basa en ciclos de vida adaptativos. Su ventaja es que resuelve cambios producidos en el transcurso del proyecto.
+- **A demanda**: Depende del trabajo pendiente o de la cola de trabajo intermedia y el trabajo se efectúa cuando se dispone de los recursos.
+
+Como cada proyecto es diferente, el director necesita adaptar el método de gestión del cronograma en función de las siguientes **circunstancias**:
+
+- **Dimensiones del proyecto**
+- **Enfoque del ciclo de vida**
+- **Disponibilidad de recursos**
+- **Apoyo tecnológico**
+
+Según el tamaño del proyecto es preciso recurrir a diferentes tipos de **enfoques**:
+
+- **Adaptativo**: Se utilizan ciclos cortos para desarrollo del trabajo, la revisión de los resultados o la adaptación. Ofrece una retroalimentación rápida.
+- **Predictivo**: Establece hojas de ruta a largo plazo, empleando factores de escala (tamaño de equipo, distribución geográfica, etc.).
+- **Híbrido**: Combinación de los dos anteriores. Se usa para abordar, en sistemas complejos, un ciclo de vida de entrega completo en sistemas complejos.
+
+El rol del director no varía en función del uso de uno u otro enfoque (adaptativo. predictivo o híbrido). Pero para tener éxito en el empleo de la estrategia adaptativa, será fundamental poseer conocimientos sobre la aplicación de sus herramientas y técnicas.
+
+.. note:: La **planificación de la gestión del cronograma** consiste en establecer las políticas, los procedimientos y la documentación para desarrollar, administrar, ejecutar y controlar la duración del proyecto.
+
+Algunos de los **factores ambientales** de la empresa que pueden mediar en la planificación de la gestión del cronograma, son:
+
+- **Recursos disponibles**
+- **Cultura y estructura de la organización**
+- **Guías y criterios para adaptar procesos y procedimientos estándar**
+- **Software de programación**
+- **Bases de datos comerciales**
+
+En la planificación de la gestión del cronograma, se debería considerar el **conocimiento especializado**, proporcionado por  individuos expertos, en:
+
+- Metodologías de programación (ciclo de vida predictivo, adaptativo, etc.).
+- Desarrollo, administración y control del cronograma.
+- Software de programación.
+- La industria en la que se desarrolla el proyecto.
+
+2.2. Establecer la secuencia de actividades
++++++++++++++++++++++++++++++++++++++++++++
+
+.. note:: El proceso de **secuenciar las actividades** se fundamenta en la identificación y documentación de las relaciones entre las diversas tareas que componen el proyecto. Se trata de convertir una lista de actividades en un diagrama; será un primer paso para la creación de la línea base del cronograma.
+
+Algunas **consideraciones** relacionadas con la secuenciación de actividades:
+
+- Cada actividad del proyecto (excepto la primera y la última) se debe **conectar con al menos, una actividad predecesora y otra sucesora**, siguiendo una conexión lógica.
+- Es conveniente, **incluir adelantos o retrasos** entre las actividades con el fin de sustentar un cronograma viable.
+- La **secuenciación se puede realizar con software de gestión** de proyectos o mediante técnicas manuales o automatizadas.
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/tabla_secuencia_actividades.jpg
+   :width: 75%
+   :align: center
+
+2.2.1. Entradas
+---------------
+
+En el proceso de secuenciar las actividades se producen las siguientes **entradas**:
+
+- **Plan para la dirección del proyecto**:
+
+	- **Plan de gestión del cronograma**: define el método utilizado y otros criterios precisos para secuenciar las actividades.
+	- **Línea base de alcance**: detalla la estructura de desglose del trabajo (ED /WBS), los entregables, las restricciones y los supuestos del proyecto.
+
+- **Documentos del proyecto**:
+
+	- **Atributos de la actividad**: describe la sucesión de eventos, las relaciones lógicas de tipo predecesor o sucesor y los adelantos yretrasos.
+	- **Lista de actividades**: contiene todas las actividades delcronograma a secuenciar.
+	- **Registro de supuestos**: indica las hipótesis y restricciones que pueden condicionar la secuenciación y las relaciones entre actividades.
+	- **Lista de hitos**: expone las fechas programadas de hechos relevantes.
+
+- **Factores ambientales de la empresa**: Que pueden **influir** en el proceso:
+
+	- Estándares gubernamentales o de la industria.
+	- Factores ambientales de la empresa.
+	- Sistemas de autorización de trabajos de la organización.
+	- Activos de los procesos de organización.
+	- Sistema de información para la dirección de proyectos (PMIS).
+	- Herramienta de programación.
+
+- **Activos de los procesos de organización**: A tener en cuenta en la secuenciación:
+
+	- Políticas, procedimientos y guías relacionadas con la planificación de actividades.
+	- Planes del portafolio y del programa.
+	- Dependencias y relaciones del proyecto.
+	- Repositorio de lecciones aprendidas.
+	- Plantillas que ayudan a organizar las actividades.
+
+2.2.2. Herramientas y técnicas
+------------------------------
+
+En el proceso de secuenciar las actividades se producen las siguientes **herramientas y técnicas**:
+
+- **Método de diagramación por precedencia**: Técnica para construir un **modelo de programación** en el que las actividades se representan con nodos y se vinculan gráficamente mediante cuatro relaciones lógicas. Estas relaciones, son:
+
+	- **Final a inicio (FS)**: la actividad sucesora no puede comenzar hasta que haya concluido la predecesora. La más utilizada.
+	- **Final a final (FF)**: la actividad sucesora no puede concluir hasta que haya finalizado la predecesora.
+	- **Inicio a inicio (SS)**: la actividad sucesora no puede comenzar hasta que se haya iniciado la predecesora.
+	- **Inicio a final (SF)**: la actividad sucesora no puede concluir hasta que haya comenzado la predecesora. Se usa esporádicamente.
+
+- **Determinación e integración de las dependencias**: La **conexión** puede ser:
+
+	- **Obligatoria**: se requiere por impositivo legal o contrato. También si es inherente a la naturaleza el trabajo.
+	- **Discrecional**: se establece en base al conocimiento de cuáles son las mejores prácticas dentro de un área.
+	- **Externa**: implica una relación entre las actividades del proyecto y las que no pertenecen a este.
+	- **Interna**: se fundamenta en una relación de precedencia entre actividades del proyecto.
+
+	Solo se pueden aplicar dos atributos simultáneamente.
+
+- **Adelantos y retrasos**: 
+
+	- El **adelanto** se refiere a la cantidad de tiempo en que una actividad sucesora se puede anticipar con respecto a una predecesora.
+	- Un **retraso** es el tiempo que se demora una actividad sucesora en relación a una predecesora.
+
+- **Sistema de información para la dirección de proyectos (PMIS)**: Es el **software de programación** que asiste en la planificación, organización y ajuste de la secuencia de actividades. También ayuda a establecer las relaciones lógicas y los valores de adelanto y retraso o a diferenciar los tipos de dependencias.
+
+2.2.3. Salidas
+--------------
+
+En el proceso de secuenciar las actividades se producen las siguientes **salidas**:
+
+- **Diagrama de red del cronograma del proyecto**: **Representación gráfica** de las relaciones lógicas o dependencias entre las actividades del cronograma. Su elaboración se puede efectuar manualmente o empleando software de gestión de proyectos.
+- **Actualizaciones a los documentos del proyecto**:
+
+	- **Atributos de la actividad**: describe una secuencia necesaria de eventos y detalla las relaciones de tipo predecesor o sucesor, los adelantos y los retrasos.
+	- **Lista de actividades**: puede sufrir modificaciones derivadas de los cambios en las relaciones entre las actividades durante su secuenciaclon.
+	- **Registro de supuestos**: se actualizarán en base a la secuenciación, las relaciones y los adelantos y retrasos.
+	- **Lista de hitos**: las fechas programadas para eventos relevantes pueden verse alteradas como consecuencia de los cambios en las relaciones entre las actividades.
+
+.. note::
+	- Cada **actividad del proyecto** (excepto la primera y la última) se debe **conectar con al menos, una actividad predecesora y otra sucesora**, siguiendo una conexión lógica.
+	- El **documento de los atributos de la actividad** describe la sucesión de eventos, las relaciones lógicas de tipo predecesor o sucesor y los adelantos y retrasos de las actividades.
+	- El **método de diagramación por precedencia** es una técnica para construir un modelo de programación en el que las actividades se representan con nodos y se vinculan gráficamente mediante cuatro relaciones lógicas: final a inicio, final a final, inicio a inicio e inicio a final.
+	- En las actividades se pueden producir **dependencias** de tipo obligatorio, discrecional, externo o interno.
+	- El **diagrama de red del cronograma del proyecto** es una representación gráfica de las relaciones lógicas o dependencias entre las actividades del cronograma.
+
+
+2.3. Estimar la duración de las actividades
++++++++++++++++++++++++++++++++++++++++++++
+
+.. note:: El proceso de **estimar la duración de las actividades**, estipula el número de periodos de trabajo necesarios para concluir las actividades individuales con los recursos programados.
+
+La estimación de la duración de las actividades se realiza de forma **progresiva**, según la disponibilidad y calidad de los datos que se precisan. Cuando la información suministrada es detallada, las previsiones que se pueden cometer, a partir de esta, son más fiables y exactas. Para la estimación se utiliza **información sobre**:
+
+- **Cantidades de recursos pronosticadas**
+- **Calendarios de utilización de recursos**
+- **Alcance del trabajo**
+- **Tipos de recursos Niveles de habilidad requeridos**
+
+**Factores** a considerar en la estimación de la duración de las actividades:
+
+- **Ley de los rendimientos decrecientes**: Cuando se aumenta un factor mientras todos los demás continúan fijos, llegará un momento, en que este complemento generará menos incremento de la producción.
+- **Número de recursos**:  Duplicar los recursos respecto a la cantidad original, no siempre reduce el Avances tecnológicos
+- **Avances tecnológicos**: Adquirir novedades puede aumentar la producción, modificando la duración de las actividades y las necesidades de recursos.
+- **Motivación del personal**: Algunos trabajadores rinden más, cuando se acerca la fecha de finalización de una actividad. Se tiende a ocupar todo el tiempo disponible con la ejecución de una determinada tarea.
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/tabla_duracion_actividades.jpg
+   :width: 75%
+   :align: center
+
+2.3.1. Entradas
+---------------
+
+En el proceso de estimar la duración de las actividades se producen las siguientes entradas:
+
+- **Plan para la dirección del proyecto**:
+
+	- **Plan de gestión del cronograma**: expone el método seleccionado y los criterios necesarios para estimar la duración de las actividades.
+
+	- **Línea base del alcance**: incluye el diccionario del desglose del trabajo (EDT/WBS) con detalles técnicos que pueden condicionar la estimación de la duración y el esfuerzo.
+
+- **Documentos del proyecto**:
+
+	- **Atributos de la actividad**: define las relaciones lógicas, las de tipo predecesor o sucesor y los adelantos y retrasos.
+	- **Lista de actividades**: indica todas las actividades del cronograma que deben ser estimadas.
+	- **Registro de supuestos**: contiene las hipótesis y restricciones que pueden intervenir en el cronograma del proyecto.
+	- **Registro de lecciones aprendidas**: el conocimiento adquirido tempranamente sobre la estimación de la duración y el esfuerzo se puede aplicar en fases posteriores.
+	- **Lista de hitos**: incluye fechas programadas para eventos relevantes con posibles efectos sobre este proceso.
+	- **Asignaciones del equipo del proyecto**: el proyecto está dotado de personal, cuando se asignan al equipo las personas adecuadas.
+	- **Estructura de desglose de recursos**: representación jerárquica de los recursos identificados por tipo y categoría.
+	- **Calendarios de recursos**: especifican cuándo y por cuánto tiempo estarán utilizables los recursos. Intervienen sobre la duración de las actividades en términos de disponibilidad.
+	- **Requisitos de recursos**: en la medida en que los recursos adjudicados a cada actividad cumplen con las exigencias tendrá influencia sobre la duración de dichas actividades.
+	- **Registro de riesgos**: las contingencias particulares del proyecto pueden afectar a la selección y disponibilidad de los recursos.
+
+- **Factores ambientales de la empresa**: Que podrían interferir:
+
+	- Localización de los miembros del equipo.
+	- Bases de datos y métricas de productividad.
+	- Información comercial publicada.
+
+- **Activos de los procesos de organización**: A tener en cuenta:
+
+	- Calendarios del proyecto.
+	- Políticas de estimación.
+	- Metodología de programación.
+	- Información histórica y lecciones aprendidas.
+
+2.3.2. Herramientas y técnicas
+------------------------------
+
+En el proceso de estimar la duración de las actividades se producen las siguientes herramientas y técnicas:
+
+- **Juicio de expertos**: Considerar las aportaciones de individuos con **conocimientos especializados** en:
+
+	- Estimaciones.
+	- Desarrollo, gestión y control del cronograma.
+	- Aplicaciones.
+
+- **Estimación análoga**: Recurre a la duración de **proyectos similares** anteriores para calcular la duración del plan actual. Proporciona un valor bruto que, posteriormente, se ajusta teniendo en cuenta las particularidades del proyecto.
+
+- **Estimación paramétrica**: Utiliza una relación estadística entre datos históricos y parámetros del proyecto para valorar la duración de una actividad.
+
+- **Estimaciones basadas en tres valores**: Realiza el cálculo en base a tres valores:
+
+	- **Más probable (tM)**: valora la duración de la actividad, en función de los posibles recursos asignados, la productividad, disponibilidad, etc.
+	- **Optimista (tO)**: la duración se computa a partir del análisis del mejor escenario para esa actividad.
+	- **Pesimista (tP)**: se deduce la duración partiendo del peor escenario.
+
+	La fórmula para establecer la duración esperada (tE) es: tE: (t0+tM+tP)/3nn
+
+- **Estimaciones ascendentes**: Se suman los cálculos de duración referidos a los componentes de nivel inferior en el desglose del trabajo (EDT/WBS) para emitir un resultado global.
+
+- **Análisis de datos**: 
+
+	**Análisis de alternativas**: consiste en **comparar** diferentes niveles de capacidad/habilidad, técnicas de programación, herramientas y decisiones, con el fin de seleccionar el mejor enfoque.
+	- **Análisis de reserva**: establecer un porcentaje de tiempo dentro de la línea base del cronograma para **riesgos** identificados y aceptados por la organización. También se puede determinar una cantidad para **gestión**, destinada a cubrir trabajo no previsto.
+
+- **Toma de decisiones**: una de las técnicas más empleadas es la **votación** mediante el puño de/a cinco. Los miembros del equipo muestran su conformidad/disconformidad levantando el puño y elevando un número de dedos acorde a su nivel de apoyo.
+
+- **Reuniones**: El equipo puede celebrar **encuentros** para predecir la duración de las actividades.
+
+
+2.3.3. Salidas
+--------------
+
+En el proceso de estimar la duración de las actividades se producen las siguientes salidas:
+
+- **Estimaciones de la duración**: **Evaluaciones cuantitativas** del número probable de períodos de tiempo necesarios para concluir una actividad, una fase o un proyecto. Pueden incluir un rango de resultados probables.
+- **Base de estimaciones**: **Documentación** que facilita información relativa a la manera en que se obtuvo el cálculo de la duración. Puede **incorporar**:
+
+	- Procedimiento para la estimación.
+	- Supuestos realizados.
+	- Rango de las estimaciones posibles.
+	- Nivel de confianza de la estimación final.
+	- Restricciones conocidas.
+	- Riesgos individuales del proyecto.
+
+- **Actualizaciones a los documentos del proyecto**:
+
+	- **Atributos de la actividad**: las estimaciones de la duración de las actividades se documentan como una parte de los atributos de las actividades.
+	- **Registro de supuestos**: enumera las hipótesis adoptadas en el proceso de estimación de la duración (niveles de habilidad, disponibilidad de recursos, etc.). También puede especificar restricciones surgidas en la metodología de programación o en la herramienta de planificación.
+	- **Registro de lecciones aprendidas**: se actualiza con las técnicas que resultaron efectivas para realizar las estimaciones de la duración y el esfuerzo.
+
+.. note:: 
+
+	- El **plan de gestión del cronograma** expone el método seleccionado y los criterios necesarios para estimar	la duración de las actividades.
+	- **La línea base del alcance**, incluye el diccionario del desglose del trabajo (EDT[WBS) con detalles técnicos que pueden condicionar la estimación de la duración y el esfuerzo.
+	- La **fórmula para establecer la duración esperada (tE)** de una actividad es: tE: (t0+tM+tP)/3nn
+	- El **análisis de reserva** establece un porcentaje de tiempo dentro de la linea base del cronograma para riesgos identificados y aceptados por la organización. También se puede determinar una cantidad para gestión, destinada a cubrir trabajo no previsto.
+	- Las **estimaciones de la duración** son evaluaciones cuantitativas del número probable de periodos de	tiempo necesarios para concluir una actividad, una fase o un proyecto.
+
+2.4. Desarrollar el cronograma
+++++++++++++++++++++++++++++++
+
+.. note:: El proceso de **desarrollar el cronograma** analiza las series de actividades y su duración, los requisitos de los recursos y las posibles restricciones temporales, para crear un modelo de calendario válido para la ejecución, monitoreo y control del proyecto.
+
+Algunas **consideraciones** en el desarrollo del cronograma:
+
+- El desarrollo de un cronograma aceptable debe ser un proceso continuado.
+- El modelo de programación sirve para establecer las fechas de inicio y fin de las actividades y los hitos del proyecto.
+- La realización del cronograma puede suponer la revisión y actualización de las estimaciones de duración, las previsiones de recursos y las reservas planteadas.
+
+Los pasos para el mantenimiento de un cronograma realista son:
+
+1. Determinar las fechas de comienzo y finalización de una actividad.
+2. Revisar las actividades adjudicadas por parte del personal asignado.
+3. Comprobar, por los miembros del equipo, que las fechas de inicio y fin no entran en conflicto con los calendarios de recursos o con otras actividades.
+4. Analizar el cronograma para determinar si se producen conflictos con las relaciones lógicas y si es preciso, ajustar el nivel de recursos.
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/tabla_desarrollar_cronograma.jpg
+   :width: 75%
+   :align: center
+
+2.4.1. Entradas
+---------------
+
+En el proceso de desarrollar el cronograma se producen las siguientes entradas:
+
+- **Plan para la dirección del proyecto**:
+
+	- **Plan de gestión del cronograma**: indica la metodología y la herramienta de programación a utilizar para el desarrollo del cronograma.
+	- **Línea base del alcance**: el enunciado del alcance y el desglose del trabajo (EDT/WBS) y su diccionario, tienen información de los entregables a valorar en el cronograma.
+
+- **Documentos del proyecto**:
+
+	- **Atributos de la actividad**: ofrecen datos para la construcción del cronograma.
+	- **Lista de actividades**: enumera las actividades a considerar en el cronograma.
+	- **Registro de supuestos**: las hipótesis y las restricciones pueden originar riesgos particulares con impacto en el proceso.que pueden intervenir en el cronograma del proyecto.
+	- **Base de estimaciones**: proporcionar información sobre la estrategia para el cálculo de la duración.
+	- **Estimaciones de la duración**: número probable de períodos de trabajo necesarios para completar la actividad.
+	- **Registro de lecciones aprendidas**: se pueden aplicar para mejorar la validez del cronograma.
+	- **Lista de hitos**: fechas programadas para eventos señalados.
+	- **Diagramas de red del cronograma del proyecto**: expone las relaciones lógicas predecesoras y sucesoras.
+	- **Asignaciones del equipo del proyecto**: especifica los recursos adjudicados a cada actividad.
+	- **Calendarios de recursos**: informa sobre la disponibilidad de los recursos.
+	- **Requisitos de recursos**: detalla los tipos y cantidades de recursos necesarios para cada actividad.
+	- **Registro de riesgos**: contingencias que pueden influir en el cronograma.
+
+- **Acuerdos**: Los proveedores definen los compromisos adquiridos.
+- **Factores ambientales de la empresa**: Los canales de comunicación y los estándares gubernamentales o de industria pueden intervenir.
+- **Activos de los procesos de organización**: Los calendarios del proyecto y la metodología de programación afectan al desarrollo del cronograma.
+
+2.4.2. Herramientas y técnicas
+------------------------------
+
+En el proceso de desarrollar el cronograma se producen las siguientes herramientas y técnicas:
+
+- **Análisis de la red del cronograma**: Técnica global que se usa para crear un **modelo de programación** del proyecto. Evalúa la necesidad de sumar reservas para reducir un posible retraso y examina la red para localizar actividades de alto riesgo o adelantos.
+- **Método de la ruta critica**: Calcula las fechas de inicio y finalización, **mínimas y máximas**, de todas las actividades. Determina la **ruta crítica** que es la secuencia de actividades con el camino más largo en el transcurso del proyecto.
+- **Optimización de recursos**: Se utiliza para ajustar las fechas de inicio y finalización de las actividades al uso **planificado** de recursos. **Técnicas**:
+
+	- **Nivelación de recursos**: las fechas de inicio y finalización se acomodan a las restricciones de los recursos.
+	- **Estabilización de recursos**: adapta las actividades de modo que las necesidades de recursos no excedan los límites predefinidos.
+
+- **Análisis de datos**:
+
+	- **Análisis de escenarios**: técnica que consiste en evaluar posibles acontecimientos con la finalidad de predecir su efecto (positivo o negativo) sobre los objetivos del proyecto.
+	- **Simulación**: estudia las diferentes duraciones de paquetes de trabajo a partir de supuestos, restricciones, riesgos, etc. mediante el uso de distribuciones de probabilidad y otras representaciones de incertidumbre.
+
+- **Adelantos y retrasos**: Se aplican para desarrollar un **cronograma viable**. Los adelantos se utilizan para anticipar una actividad sucesora con respecto a la predecesora. Los retrasos se emplean es preciso un lapso de tiempo entre una actividad predecesora y una sucesora.
+- **Comprensión del cronograma**: **Acorta o acelera** la duración del cronograma, sin perjudicar el proyecto, para responder a las restricciones, fechas u otros objetivos. **Técnicas**:
+
+	- **Intensificación**: acorta la duración del cronograma añadiendo recursos.
+	- **Ejecución rápida**: las actividades/fases que normalmente se ejecutan en serie pasan a realizarse en paralelo.
+
+- **Sistema de información para la dirección de proyectos (PMIS)**: **Software** que facilita la construcción del cronograma.
+- **Planificación ágil de liberaciones**: Ofrece una línea de tiempo resumida de alto nivel del cronograma de liberación (3-6 meses).
+
+2.4.3. Salidas
+--------------
+
+En el proceso de desarrollar el cronograma se producen las siguientes **salidas**:
+
+- **Línea base del cronograma**: Versión aprobada de un modelo de programación y solo puede modificarse mediante procedimientos formales de control de cambios. Es un componente del plan para la dirección del proyecto.
+- **Cronograma del proyecto**: Es una salida de un modelo de programación y expone **actividades vinculadas** a fechas, hitos y recursos. Se lleva a cabo antes de concluir el plan para la dirección del proyecto. Su **presentación** puede ser en forma de tabla o en forma gráfica; esta última, puede efectuarse mediante:
+
+	- Diagrama de barras.
+	- Diagrama de hitos.
+	- Diagramas de red del cronograma del proyecto.
+
+	El cronograma del proyecto se puede presentar a modo de resumen, denominado cronograma maestro o cronograma de hitos, o bien en forma detallada
+
+
+- **Datos del cronograma**: Información necesaria para **describir y controlar** el cronograma. Incluye, al menos, hitos, actividades, atributos, supuestos y restricciones. Como **datos de apoyo**, se facilitan:
+
+	- Requisitos de recursos por período de tiempo.
+	- Cronogramas alternativos.
+	- Reservas de cronograma aplicadas.
+
+- **Calendarios del proyecto**: **Especifica** los días laborales y turnos de trabajo asignados a las actividades.
+- **Solicitudes de cambio**: Las modificaciones del alcance o del cronograma del proyecto pueden producir alteraciones en los componentes del plan para la dirección.
+- **Actualizaciones al plan para la dirección del proyecto**:
+
+	- **Plan de gestión del cronograma**: se puede renovar para constatar cambios generados por el desarrollo y gestión del cronograma.
+	- **Línea base de costes**: sus actualizaciones, responden a cambios aprobados en el alcance, los recursos o las estimaciones económicas.
+
+
+- **Actualizaciones a los documentos del proyecto**:
+
+	- **Atributos de la actividad**: para incorporar nuevos requisitos de los recursos o revisiones surgidas tras el desarrollo del cronograma.
+	- **Registro de supuestos**: actualizaciones por las variaciones en la duración, la utilización de recursos o la secuenciación.
+	- **Estimaciones de la duración**: modificaciones derivadas de la cantidad y disponibilidad de recursos y sus dependencias.
+	- **Registro de lecciones aprendidas**: para añadir técnicas que fueron eficientes y efectivas.
+	- **Requisitos de recursos**: ocasionadas por la nivelación de recursos.
+	- **Registro de riesgos**: para incorporar oportunidades y amenazas.
+
+.. note::
+
+	- El **análisis de la red del cronograma** es una técnica global que se usa para crear un modelo de programación del proyecto. Evalúa la necesidad de sumar reservas para reducir un posible retraso y examina la red para localizar actividades de alto riesgo o adelantos.
+	- El **método de la ruta crítica** calcula las fechas de inicio y finalización, mínimas y máximas, de todas las	actividades. Determina la ruta crítica que es la secuencia de actividades con el camino más largo en el	transcurso del proyecto.
+	- La **optimización de recursos** se utiliza para ajustar las fechas de inicio y finalización de las actividades al	uso planificado de recursos.
+	- La **compresión del cronograma** acorta o acelera la duración del cronograma, sin perjudicar el proyecto,	para responder a las restricciones, fechas u otros objetivos.
+	- El **cronograma del proyecto** es una salida de un modelo de programación y expone actividades vinculadas a fechas, hitos y recursos. Su presentación puede ser en forma de tabla o en forma gráfica; esta última, puede efectuarse mediante: Diagrama de barras, de hitos y de red del cronograma del proyecto.
+
+2.5. Controlar el cronograma
+++++++++++++++++++++++++++++
+
+.. note:: El proceso de controlar el cronograma consiste en monitorear el estado del proyecto para actualizar los calendarios de trabajo y realizar cambios en la linea de base inicial.
+
+Controlar el cronograma supone realizar una serie de **acciones**:
+
+- Comprobar el estado actual del cronograma del proyecto.
+- Considerar si el cronograma ha variado.
+- Intervenir en los factores que producen cambios en el cronograma.
+- Replantear las reservas de cronograma.
+- Administrar los cambios conforme van sucediendo.
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/tabla_controlar_cronograma.jpg
+   :width: 75%
+   :align: center
+
+2.5.1. Entradas
+---------------
+
+En el proceso de controlar el cronograma se producen las siguientes entradas:
+
+- **Plan para la dirección del proyecto**: 
+
+	- **Plan de gestión del cronograma**: indica la frecuencia con la que se actualizará el cronograma y el modo de controlarlo.
+	- **Línea base del cronograma**: se compara con los resultados reales para averiguar si es preciso introducir un cambio o una acción preventiva/correctiva.
+	- **Línea base del alcance**: el desglose del trabajo (EDT/WBS), los entregables, las restricciones y los supuestos enunciados en la línea base del alcance, son considerados en el monitoreo y control de la linea base del cronograma.
+	- **Línea base para la medición del desempeño**: se coteja con los datos reales para concluir si es necesario llevar a cabo una modificación o una acción preventiva/correctiva.
+
+- **Documentos del proyecto**:
+
+	- **Registro de lecciones aprendidas**: el conocimiento adquirido en las fases iniciales del proyecto puede ser útil para mejorar el control del cronograma.
+	- **Calendarios del proyecto**: un modelo de programación puede demandar más de un calendario de proyecto para representar diversos periodos de trabajo referidos a algunas actividades.
+	- **Cronograma del proyecto**: es la versión actualizada del calendario de trabajo. Incorpora anotaciones con modificaciones, las actividades finalizadas y aquellas que se iniciaron en fecha establecida.
+	- **Calendarios de recursos**: muestran la disponibilidad de recursos físicos y de equipo profesional.
+	- **Datos del cronograma**: requieren revisión y actualización durante el proceso de controlar el cronograma.
+- **Datos de desempeño del trabajo**: Información sobre el estado del proyecto. Por ejemplo, actividades iniciadas o completadas, su avance, etc.
+- **Activos de los procesos de organización**: Que pueden **condicionar el proceso**:
+
+	- Políticas, procedimientos y guías relativas al proceso.
+	- Herramientas de control del cronograma.
+	- Métodos de monitoreo y elaboración de informes.
+
+2.5.2. Herramientas y técnicas
+------------------------------
+
+En el proceso de controlar el cronograma se producen las siguientes herramientas y técnicas:
+
+- **Análisis de datos**:
+
+	- **Análisis del valor ganado**: las medidas de desempeño del cronograma se utilizan para averiguar la desviación en comparación con la línea base original del cronograma.
+	- **Gráfica del trabajo pendiente de iteración**: efectúa el seguimiento del trabajo que queda por completar en las	repeticiones. Se emplea para establecer la variación con respecto al trabajo pendiente en la planificación de las iteraciones.
+	- **Revisiones del desempeño**: miden, comparan y analizan la ejecución del cronograma en relación a la línea base.
+	- **Análisis de tendencias**: examina el desempeño del proyecto en un espacio de tiempo para comprobar su evolución.
+	- **Análisis de variación**: identifica las alteraciones en las fechas (inicio y finalización) y en las duraciones planificadas en comparación con las reales. Determina la causa, el grado y las implicaciones de esas desviaciones.
+	- **Análisis de escenarios**: evalúa diferentes acontecimientos con el fin de ajustar el modelo de programación con el plan	para la dirección.
+
+- **Método de la ruta crítica**: Analizar el **avance** de las actividades en la ruta crítica permite establecer el estado del cronograma. Y en las rutas casi criticas, identifica riesgos.
+
+- **Sistema de información para la dirección de proyectos (PMIS)**: **Software** de programación para hacer un seguimiento de las fechas planificadas frente a las reales, alertar sobre desviaciones en el avance y pronosticar las consecuencias de las modificaciones en el modelo de programación.
+
+- **Optimización de recursos**: Consiste en **programar** las actividades y los recursos necesarios, teniendo en cuenta la disponibilidad de estos últimos y el tiempo ofrecido.
+
+- **Adelantos y retrasos**: Este ajuste se utiliza durante el análisis de la red para **solucionar** retrasos en las actividades del proyecto.
+
+- **Comprensión del cronograma**: Se usa para resolver demoras en las actividades mediante **ejecución rápida o intensificando** el cronograma del trabajo restante.
+
+2.5.3. Salidas
+--------------
+
+En el proceso de controlar el cronograma se producen las siguientes salidas:
+
+- **Información de desempeño del trabajo**: **Comparándola con la línea base del cronograma**. Las variaciones en las fechas de inicio y finalización y las duraciones se pueden calcular, por ejemplo, a nivel de los paquetes de trabajo.
+- **Pronósticos del cronograma**: Son estimaciones o predicciones de condiciones futuras con información disponible en el presente.
+- **Solicitudes de cambio**: **Derivadas del análisis** de la variación del cronograma, las revisiones de los informes de avance, los resultados de las medidas de desempeño y las modificaciones del alcance.
+- **Actualizaciones al plan para la dirección del proyecto**:
+
+	- **Plan de gestión del cronograma**: se puede reajustar para indicar cualquier cambio en la administración del cronograma.
+	- **Línea base del cronograma**: renovaciones para responder a solicitudes de cambio aprobadas y referidas a modificaciones en el alcance, en los recursos o en las estimaciones de duración de las actividades.
+	- **Línea base de costes**: incorpora los cambios aprobados sobre el alcance del proyecto, los recursos o las estimaciones de costes.
+	- **Línea base para la medición del desempeño**: como consecuencia de los cambios aprobados en el alcance, en el desempeño del cronograma o en las estimaciones de costes.
+
+- **Actualizaciones a los documentos de proyecto**
+
+	- **Registro de supuestos**: la ejecución del cronograma puede suponer la revisión de las predicciones sobre la secuenciación, las duraciones y la productividad de las actividades.
+	- **Base de estimaciones**: como resultado del desempeño del cronograma, puede ser necesario analizar la forma en que se realizaron las predicciones de la duración.
+	- **Registro de lecciones aprendidas**: incorporar las técnicas que fueron efectivas en el mantenimiento del cronograma, las causas de las variaciones y las medidas correctivas adoptadas con estas alteraciones.
+	- **Cronograma del proyecto**: a partir del modelo de programación completado con la última información sobre temporalidad.
+	- **Calendarios de recursos**: para plasmar las modificaciones procedentes de la optimización de recursos, la compresión del cronograma y las acciones correctivas/preventivas.
+	- **Registro de riesgos**: tras la aplicación de técnicas de compresión del cronograma.
+	- **Datos del cronograma**: con duraciones y modificaciones aprobadas.
+
+.. note:: 
+
+	- El **plan de gestión del cronograma** indica la frecuencia con la que se actualizará el cronograma y el modo de controlarlo.
+	- Un **modelo de programación** puede demandar más de un calendario de proyecto para representar diversos periodos de trabajo referidos a algunas actividades.
+	- La **gráfica del trabajo** pendiente de iteración, efectúa el seguimiento del trabajo que queda por completar en las repeticiones. Se emplea para establecer la variación con respecto al trabajo pendiente.
+	- El **análisis de variación** identifica las alteraciones en las fechas (inicio y finalización) y en las duraciones planificadas en comparación con las reales. Determina la causa, el grado e implicaciones de esas desviaciones.
+	- El **método de la ruta crítica** analiza el avance de las actividades en la ruta crítica permite establecer el estado del cronograma. Y en las rutas casi criticas, identifica riesgos.
+	- Los **adelantos y los retrasos** se utilizan durante el análisis de la red para solucionar retrasos en las actividades del proyecto.
+	- La **compresión del cronograma** se usa para resolver demoras en las actividades mediante ejecución rápida o intensificando el cronograma del trabajo restante.
+
+
+3. Procesos de gestión de los costos del proyecto
+*************************************************
+
+A lo largo de este epígrafe se expondrán los procesos de gestión de los costes del proyecto, estos son:
+
+- Estimar costes.
+- Desarrollar el presupuesto.
+- Controlar los costes.
+
+3.1. Introducción a la materia: coste
++++++++++++++++++++++++++++++++++++++
+
+.. note:: La **gestión de los costes del proyecto** se ocupa fundamentalmente del importe económico derivado de la adquisición de los recursos necesarios para ejecución de las actividades del proyecto.
+
+En la gestión de costes es recomendable prestar atención a estas **cuestiones**:
+
+- El efecto que puede provocar determinadas decisiones económicas, tomadas inicialmente, en costes posteriores.
+- Los interesados del proyecto, miden los costes de diferente manera.
+- La predicción y el análisis financiero del producto se pueden llevar a cabo dentro o fuera del proyecto.
+
+Las principales **prácticas** en la gestión de los costes del proyecto que se están llevando a cabo en la actualidad, son:
+
+- **Gestión del valor ganado (EVM)**: utiliza las **medidas**:
+
+	- **Valor ganado (EV)**: es la cantidad de trabajo ejecutado en una fecha y se expresa en términos de presupuesto autorizado.
+	- **Valor Planificado (PV)**: es el presupuesto autorizado que se ha asignado al trabajo planificado.
+
+	La **fórmula** para calcular la gestión del valor ganado es: ``Valor ganado - Valor planificado``.
+
+- **Cronograma ganado (ES)**: Es una extensión del modelo (EVM) pero reemplaza sus medidas (valor ganado y valor planificado) por las de:
+
+	- Cronograma ganado (ES).
+	- Tiempo real (AT).
+
+	La **fórmula** para deducir el cronograma ganado es: ``Cronograma ganado - Tiempo real``.
+
+Debido a que cada proyecto es único, el director tiene que modificar los métodos de gestión de los costes, basándose en las siguientes **premisas**:
+
+- **Administración del conocimiento**: Si la organización cuenta con bases de datos financieros o si se pueden consultar.
+- **Estimación y presupuesto**: Existen políticas, guías o procedimientos sobre estimación de costes y elaboración de presupuestos.
+- **Gestión del valor ganado**: Si se utiliza o no, este tipo de gestión en la entidad.
+- **Uso del enfoque ágil**: Se utiliza esta metodología en la dirección de proyectos o se recurre a otra.
+- **Gobernanza**: La empresa tiene políticas, procedimientos o guías sobre gerencia y auditoría. En proyectos con un alto grado de incertidumbre o en los que su alcance no está muy definido, se puede recurrir a métodos de estimación más sencillos. Que generen un pronóstico rápido de los costes laborales y que se pueda reajustar con facilidad.
+
+.. note:: La **planificación de la gestión de la gestión de los costes** es la acción de estimar, presupuestar, administrar y controlar los gastos del proyecto.
+
+**Factores ambientales** de la empresa que intervienen en la planificación de la gestión de costes:
+
+- Cultura y estructura de la organización.
+- Condiciones del mercado local y global.
+- Tasas del cambio de divisas.
+- Publicaciones comerciales con informacion sobre costes.
+- Diferencias en la productividad según el país.
+
+3.2. Estimar costes
++++++++++++++++++++
+
+.. note:: El proceso de **estimar los costes** evalúa los recursos económicos necesarios para concluir convenientemente todo el trabajo del proyecto.
+
+**Cuestiones a valorar** en el proceso de estimación de costes:
+
+- **Costes**: Los **costes** incluyen todos los recursos del proyecto (personal, materiales, equipamiento, servicios, instalaciones, factor de inflación y coste de financiación o contingencia).
+- **Información**: Se basa en la **información** disponible en un momento determinado.
+- **Balance**: Tener en cuenta el **balance** entre costes y riesgos, la utilización de recursos compartidos, la opción de hacer frente a comprar o la posibilidad de alquilar en lugar de comprar.
+- **Predicciones**: Revisar y actualizar estas **predicciones económicas** en el transcurso del proyecto para ir incorporando medidas adicionales.
+- **Estrategias**: Requiere la identificación y consideración de diversas **estrategias de cálculo de costes**.
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/tabla_estimar_costes.jpg
+   :width: 75%
+   :align: center
+
+3.2.1. Entradas
+---------------
+
+En el proceso de estimar los costes se producen las siguientes **entradas**:
+
+- **Plan para la dirección del proyecto**:
+
+	- **Plan de gestión de costes**: describe los métodos de estimación a 	utilizar y el nivel de precisión y exactitud que se requiere.
+	- **Plan de gestión de calidad**: expone las actividades y los recursos necesarios para alcanzar los objetivos de calidad definidos.
+	- **Línea base del alcance**: contiene:
+
+		- **Enunciado del alcance del proyecto**: incluye las restricciones (de financiamiento u otras) y los supuestos financieras.
+		- **Estructura de desglose del trabajo (EDT/WBS)**: especifica las relaciones entre los entregables y sus componentes.
+		- **Diccionario de la EDT/WBS**: identifica los entregables y describe el trabajo en cada componente de la EDT/WBS para producir estos.
+
+- **Documentos del proyecto**:
+
+	- **Registro de lecciones aprendidas**: conocimiento adquirido en las fases iniciales del proyecto sobre estimación de costes que puede aplicarse posteriormente para mejorar el proceso.
+	- **Cronograma del proyecto**: incluye el tipo, cantidad y espacio de tiempo que los recursos estarán activos. Las estimaciones de la duración condicionarán las estimaciones sobre costes.
+	- **Requisitos de recursos**: consisten en el tipo y la cantidad de recursos requeridos en cada paquete de trabajo o actividad.
+	- **Registro de riesgos**: detalla los riesgos identificados y priorizados y que requieren una respuesta. Esta información es útil en el proceso de estimación de los costes.
+
+- **Factores ambientales de la empresa**: Que podrían **intervenir** en el proceso:
+
+	- Condiciones del mercado (local y global).
+	- Información comercial pública (tarifas de los recursos, listas de precios, etc.).
+	- Tasas de cambio e inflación (en proyectos a gran escala).
+
+- **Activos de los procesos de organización**: A **valorar** en el proceso de estimación de costes:
+
+	- Políticas sobre estimación de costes.
+	- Plantillas para los cálculos económicos.
+	- Información histórica.
+	- Lecciones aprendidas.
+
+3.2.2. Herramientas y técnicas
+------------------------------
+
+En el proceso de estimar los costes se producen las siguientes herramientas y técnicas:
+
+- **Juicio de expertos**: Tener en cuenta sus **conocimientos especializados** en:
+
+	- Métodos de estimación de costes.
+	- Proyectos similares.
+	- Industria.
+	- La disciplina o área de aplicación del proyecto.
+
+- **Estimación análoga**: Emplea valores o atributos de un proyecto anterior similar al actual como base para predecir el mismo parámetro en este último.
+- **Estimación paramétrica**: Calcula la previsión económica mediante una relación estadística entre datos históricos relevantes y otras variables a considerar.
+- **Estimaciones ascendentes**:Se computa el coste de cada paquete de trabajo o actividad lo más exactamente posible. Estos resultados se suman en niveles superiores.
+- **Estimaciones basadas en tres valores**: Para definir el rango aproximado de costes, analiza los **valores**:
+
+	- **Más probable (cM)**: se predice el coste de la actividad en base a un análisis realista del esfuerzo requerido para el trabajo y cualquier gasto previsto.
+	- **Optimista (cO)**: el coste se deduce a partir del mejor escenario posible para esa actividad.
+	- **Pesimista (cP)**: el coste se calcula en base al peor escenario pronosticado para la actividad.
+
+		Fórmulas para calcular el **coste esperado (cE)**:
+
+		- **Distribución triangular**: cE = (cO+cM+cP)/3
+		- **Distribución beta**: cE = (cO+4cM+cP)/6
+
+- **Análisis de datos**:
+
+	- **Análisis de alternativas**: evalúa varias opciones identificadas para seleccionar la más adecuada.
+	- **Análisis de reserva**: la reserva es el presupuesto, dentro de la línea base de costes, que se destina a riesgos identificados.
+	- **Coste de calidad**: analizar la inversión adicional que supone implementar los parámetros de calidad en la previsión de coste.
+
+
+- **Sistema de información para la dirección de proyectos (PMIS)**: Incluye hojas de cálculo, software de simulación y herramientas de análisis estadístico.
+- **Toma de decisiones**: **Votación**: entre las técnicas más apropiadas para la tomar de decisiones en la estimación de costes, está la votación. Esta, involucra a los miembros del equipo en el proceso, aumentando su nivel de compromiso.
+
+3.2.3. Salidas
+--------------
+
+En el proceso de estimar los costes se producen las siguientes salidas:
+
+- **Estimaciones de costes**: Comprenden las evaluaciones cuantitativas del importe económico probable, una suma destinada a contingencias y la reserva para cubrir el trabajo no planificado.
+- **Base de estimaciones**: **Documentación de apoyo** que proporciona información de la forma en que se obtuvo la previsión de costes. Puede incluir:
+
+	- Fundamentos de la estimación.
+	- Supuestos realizados.
+	- Restricciones identificadas.
+	- Riesgos valorados en el cálculo de costes.
+	- Rango de las estimaciones posibles.
+	- Nivel de confianza de la predicción.
+
+- **Actualizaciones a los documentos de proyecto**:
+
+	- **Registro de supuestos**: Modificar este documento para incorporar nuevas hipótesis o restricciones o constatar variaciones producidas en las ya existentes.
+	- **Registro de lecciones aprendidas**: Anotar las técnicas que resultaron eficaces en el proceso de estimación de costes.
+	- **Registro de riesgos**: Introducir las respuestas a los riesgos que se acordaron durante la estimación de los costes.
+
+.. note::
+
+	- El plan de gestión de costes describe los métodos de estimación a utilizar y el nivel de precisión y exactitud que se requiere.
+	- La estimación basada en tres valores, calcula el rango aproximado de costes analizando el valor:
+
+		- **Más probable (cM)**: se predice el coste de la actividad en base a un análisis realista del esfuerzo requerido para el trabajo y cualquier gasto previsto.
+		- **Optimista (cO)**: el coste se deduce a partir del mejor escenario posible para esa actividad.
+		- **Pesimista (cP)**: el coste se calcula en base al peor escenario pronosticado para la actividad.
+
+	- Fórmulas para calcular el coste esperado (CE):
+
+		- **Distribución triangular**: cE = (cO+cM+cP)/3
+		- **Distribución beta**: cE = (cO+4cM+cP)/6
+
+	- La **reserva** es el presupuesto, dentro de la linea base de costes, que se destina a riesgos identificados.
+	- Entre las **técnicas más apropiadas para la tomar de decisiones** en la estimación de costes, está la votación. Esta, involucra a los miembros del equipo en el proceso, aumentando su nivel de compromiso.
+
+3.3. Desarrollar el presupuesto
++++++++++++++++++++++++++++++++
+
+.. note:: El proceso de **determinar el presupuesto** suma las cantidades económicas asignadas a cada actividad individual o paquete de trabajo para calcular la línea base de costes autorizada.
+
+**Especificaciones** sobre el presupuesto:
+
+- El presupuesto de un proyecto se refiere a todos los fondos económicos autorizados para ejecutar dicho proyecto.
+- La línea base de costes es la versión aprobada del presupuesto. Incluye las reservas para contingencias, pero no las destinadas a gestión.
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/tabla_desarrollar_presupuesto.jpg
+   :width: 75%
+   :align: center
+
+3.3.1. Entradas
+---------------
+
+En el proceso de determinar el presupuesto se producen las siguientes entradas:
+
+- **Plan para la dirección del proyecto**:
+
+	- **Plan de gestión de los costes**: explica la estructuración de los gastos en el presupuesto del proyecto.
+	- **Plan de gestión de los recursos**: ofrece información sobre las tarifas, precios de viajes y otros costes previstos, a considerar en el presupuesto total.
+	- **Línea base del alcance**: comunica el alcance del proyecto, la estructura de desglose de trabajo (EDT/WBS) y los detalles del diccionario de la EDT/WBS, utilizados para la estimación y la gestión de los costes.
+
+- **Documentos del proyecto**:
+
+	- **Base de las estimaciones**: debería indicar los supuestos básicos adoptados en relación con la inclusión/exclusión de costes indirectos y los restantes importes económicos del presupuesto.
+	- **Estimaciones de costes**: las previsiones del coste de cada actividad se suman para obtener el total de cada uno de los paquetes de trabajo.
+	- **Cronograma de proyecto**: incorpora las fechas planificadas de inicio y finalización de las actividades, los hitos, los paquetes de trabajo y las cuentas de control.
+	- **Registro de riesgos**: revisar para considerar los costes que supone sufragar las contingencias.
+
+- **Documentos de negocio**:
+
+	- **Caso de negocio**: determina los factores críticos que condicionan el éxito del proyecto.
+	- **Plan de gestión de beneficios**: informa de la rentabilidad que se espera, el plazo para obtenerla y las métricas para cuantificarla.
+
+- **Acuerdos**: En la elaboración del presupuesto se incluye información aplicable referida al contrato y los costes que supone la adquisición de productos, servicios o resultados.
+- **Factores ambientales de la empresa**: Las tasas de cambio pueden influir en este proceso. Estas, en algunas ocasiones, se extienden por varios años con múltiples divisas. Cuestión que debe contemplarse en el presupuesto.
+- **Activos de los procesos de la organización**: Que condicionan el proceso:
+
+	- Políticas, procedimientos y guias sobre la elaboración de presupuestos.
+	- Información histórica y lecciones aprendidas.
+	- Herramientas para la realización de presupuestos.
+	- Métodos para la preparación de informes.
+
+
+3.3.2. Herramientas y técnicas
+------------------------------
+
+En el proceso de determinar el presupuesto se producen las siguientes **herramientas y técnicas**:
+
+- **Juicio de expertos**: Valorar el **conocimiento especializado** de individuos o grupos en:
+
+	- Principios, requisitos y fuentes de financiamiento.
+	- Proyectos similares.
+	- La industria, disciplina o área de aplicación.
+
+- **Costes agregados**: Las previsiones de costes se suman por paquetes de trabajo en función de la estructura de desglose de trabajo (EDT/WBS). Después, se **juntan** para las estimaciones de niveles superiores de la EDT/WBS y finalmente, para todo el proyecto.
+- **Análisis de datos**: **Análisis de reserva**: establece las reservas de gestión, que son cantidades específicas del presupuesto destinadas a cubrir el trabajo no previsto. Este importe, no se incluye en la línea base de costes pero forma parte del presupuesto total y de los requisitos de financiamiento.
+- **Revisar la información histórica**: Para desarrollar estimaciones **análogas o paramétricas**. La información histórica puede revelar ciertas características de un proyecto (parámetros) que permiten construir modelos matemáticos. Las predicciones análogas/paramétricas son más fiables, **cuando**:
+
+	- La información histórica es exacta.
+	- Los parámetros son cuantificables.
+	- Los modelos son escalables (funcionan en distintos proyectos y fases).
+
+- **Conciliación del límite de financiamiento**: El gasto planificado se debe **ajustar** a los limites de financiamiento establecidos. una variación puede requerir una nueva programación del trabajo.
+- **Financiamiento**: Es la adquisición de fondos económicos provenientes de **fuentes externas** (entidad financiera). Procedimiento común en proyectos de infraestructura, industriales y de servicios públicos a largo plazo.
+
+3.3.3. Salidas
+--------------
+
+En el proceso de determinar el presupuesto se producen las siguientes salidas:
+
+- **Línea base de costes**: Es la versión aprobada del presupuesto del proyecto. Se realiza sumando los presupuestos aprobados para las diferentes actividades del cronograma y no incluye la reserva de gestión.
+- **Requisitos de financiamiento del proyecto**: Pueden ser totales o periódicos (trimestrales, anuales, etc.)y se derivan de la línea base de costes. Frecuentemente, el financiamiento se produce a través de varias cantidades que se van incrementando en el tiempo, lo que dificulta su distribución homogénea.
+- **Actualizaciones a los documentos del proyecto**:
+
+	- **Estimaciones de costes**: se modificarán para añadir cualquier información adicional.
+	- **Cronograma del proyecto**: incluir los costes previstos para cada actividad.
+	- **Registro de riesgos**: incorporar los nuevos riegos identificados durante el proceso de determinar el presupuesto.
+
+.. note::
+
+	- El **plan de gestión** de los costes explica la estructuración de los gastos en el presupuesto del proyecto.
+	- El **documento caso de negocio**, determina los factores críticos que condicionan el éxito del proyecto.
+	- El **plan de gestión de beneficios** informa de la rentabilidad que se espera, el plazo para obtenerla y las métricas para cuantificarla.
+	- Las **tasas de cambio** pueden influir en el proceso de determinar el presupuesto. Estas, en algunas ocasiones, se extienden por varios años con múltiples divisas. Cuestión que debe contemplarse en elpresupuesto.
+	- Las **reservas de gestión** son cantidades específicas del presupuesto destinadas a cubrir el trabajo no previsto. Este importe, no se incluye en la linea base de costes, pero forma parte del presupuesto total y de los requisitos de financiamiento.
+	- La **revisión de información histórica** puede revelar ciertas características de un proyecto (parámetros) que permiten construir modelos matemáticos.
+	- El **financiamiento** es la adquisición de fondos económicos provenientes de fuentes externas (entidad financiera). Procedimiento común en proyectos de infraestructura, industriales y de servicios públicos a largo plazo.
+
+3.4. Controlar los costes
++++++++++++++++++++++++++
+
+.. note:: El proceso de **controlar los costes** consiste en monitorear el estado del proyecto para actualizar su importe económico y realizar las modificaciones oportunas en la linea base prevista.
+
+La actualización del presupuesto requiere un conocimiento de los costes reales producidos hasta esa fecha. un incremento con respecto a la previsión presupuestaria solo se puede aprobar a través del proceso de realizar el control integrado de cambios.
+
+El control de costes **implica**:
+
+- Monitorear la ejecución de los costes.
+- Intervenir en los factores que producen cambios en la línea base de costes.
+- Garantizar que se lleven a cabo todas las solicitudes de cambio.
+- Gestionar los cambios.
+- Asegurar que los gastos no superan los fondos autorizados.
+- Intentar que los excesos de costes se mantengan dentro de unos límites aceptables.
+- Vigilar la inclusión de cambios no aprobados en los informes.
+- Comunicar a los interesados del proyecto los cambios aprobados y los costes que conllevan.
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/tabla_secuencia_actividades.jpg
+   :width: 75%
+   :align: center
+
+3.4.1. Entradas
+---------------
+
+En el proceso de controlar los costes se producen las siguientes entradas:
+
+- **Plan para la dirección del proyecto**:
+
+	- **Plan de gestión de los costes**: especifica el modo en que se administrarán y supervisarán los costes del proyecto.
+	- **Línea base de costes**: se compara con los resultados reales para decidir si es preciso implementar un 'correctiva). cambio o una acción preventiva.
+	- **Línea base para la medición del desempeño**: tras realizar un contraste con los datos reales se determina si es necesario efectuar una modificación o una actuación preventiva/correctiva.
+
+- **Documentos del proyecto**: **Registro de lecciones aprendidas**: es uno de los documentos considerados como una entrada a este proceso. El conocimiento adquirido en las fases iniciales del proyecto sobre control de costes se aplica posteriormente, para mejorar esta revisión.
+- **Requisitos de financiamiento del proyecto**: Se refieren a **gastos proyectados y obligaciones anticipadas**.
+- **Datos de desempeño del trabajo**: Información del **estado** económico del proyecto. Como por ejemplo, los costes que han sido autorizados, incurridos, facturados o pagados.
+- **Activos de los procesos de la organización**: Que pueden **condicionar** este proceso:
+
+	- Políticas, procedimientos y guias acerca del control de costes.
+	- Herramientas para el seguimiento de los costes.
+	- Métodos de monitoreo y elaboración de informes.
+
+3.4.2. Herramientas y técnicas
+------------------------------
+
+En el proceso de controlar los costes se producen las siguientes herramientas y técnicas:
+
+- **Juicio de expertos**: Tener en cuenta su **conocimiento especializado** en:
+
+	- Análisis de variación y del valor ganado.
+	- Análisis financiero.
+	- Pronósticos.
+
+- **Análisis de datos**: 
+
+	- **Análisis del valor ganado (EVA)**: la **gestión del valor ganado (EVM)** integra las lineas base de alcance, costes y cronograma para producir la línea base de medición del desempeño (PMB). Monitorea tres **dimensiones**:
+
+		- **Valor planificado (PV)**: es el presupuesto autorizado que se ha asignado al trabajo programado. En ocasiones, se le denomina línea base para la medición del desempeño (PMB) o presupuesto hasta la conclusión (BAC).
+		- **Valor ganado (EV)**: es el trabajo realizado expresado en términos de presupuesto autorizado.
+		- **Coste real (AC)**: es el valor del trabajo realizado en una actividad. Tiene que coincidir con lo que se presupuestó en el PV y se midió en el EV.
+
+	- **Análisis de variación**: calcula lo siguiente:
+
+		- **Variación del cronograma (SV)**: es una medida de desempeño del cronograma que manifiesta la diferencia entre el valor ganado (EV) y el valor planificado (PV). Fórmula: ``SV = EV - PV``
+
+		- **Variación del coste (CV)**: es una medida del desempeño del coste de un proyecto que es igual al valor ganado (EV) menos el coste real (AC). Fórmula: ``CV = EV - AC``
+
+		- **Índice de desempeño del cronograma (SPI)**: medida de eficiencia del cronograma que se determina mediante el cociente entre el valor ganado (EV) y el valor planificado (PV). Fórmula: ``SPI = EV/PV``
+
+		- **Índice de desempeño del coste (CPI)**: medida de eficiencia del coste de los recursos presupuestados y se estima dividiendo el valor ganado (EV) entre el coste real (AC). Fórmula: ``CPI = EV/AC``
+
+	- **Análisis de tendencias**: estudia el desempeño del proyecto en el transcurso del tiempo con el fin de averiguar si su **evolución** es favorable o no. Técnicas:
+
+		- **Diagramas**: gráficas que representan el valor ganado, valor planificado y coste real por periodos o de forma acumulativa.
+		- **Pronósticos**: A medida que el proyecto avanza, el equipo puede desarrollar una predicción de la estimación a la conclusión (EAC). La EAC es el coste total previsto para completar el trabajo y se calcula sumando el coste real (AC) hasta la fecha y la estimación hasta la conclusión (ETC). 
+
+		Fórmula de la estimación a conclusión: ``EAC = AC + ETC ascendente (basándose en el trabajo completado)``.
+
+	- **Análisis de reserva**: con el propósito de supervisar el estado de los fondos destinados a contingencias y gestión. Comprobando así, si el proyecto necesita todavía estos repuestos, si puede prescindir de ellos o si se han de solicitar otros adicionales.
+
+
+- **Índice de desempeño del trabajo por completar (TCPI)**: **Tasa** resultante del coste que supone culminar el trabajo pendiente (trabajo restante) entre el presupuesto disponible (fondos restantes). **Fórmula** del TCPI según el presupuesto hasta la conclusión (BAC): ``TCPI = (BAC-EV) /(BAC - AC)``
+
+- **Sistemas de información para la dirección de proyectos**: Se utilizan con el fin de **monitorear** las tres dimensiones de la gestión de valor ganado (EVM):
+
+	- Valor planificado (PV).
+	- Valor ganado (EV).
+	- Coste real (AC).
+
+Así como, para **representar** gráficamente tendencias o proyectar posibles resultados finales.
+
+3.4.3. Salidas
+--------------
+
+En el proceso de controlar los costes se producen las siguientes **salidas**:
+
+- **Información de desempeño del trabajo**: Datos de la ejecución laboral en **comparación** con la línea base de costes. Las variaciones se documentan para su inclusión en los informes de desempeño del trabajo.
+- **Pronósticos de costes**: El valor de la predicción de la **estimación a la conclusión (EAC)** calculado o ascendente tiene que documentarse y comunicarse a los interesados.
+- **Solicitudes de cambio**: Tras el **análisis del desempeño del proyecto** puede ser necesario realizar solicitudes de cambio en las lineas base de costes y del cronograma o en otros elementos del plan para la dirección del proyecto.
+- **Actualizaciones al plan para la direccióndel proyecto**: 
+
+	- **Plan de gestión de los costes**: se incorporan las modificaciones llevadas a cabo para administrar los gastos, como, por ejemplo, variaciones en los umbrales de control o en los niveles de exactitud.
+	- **Línea de base de costes**: como respuesta a las solicitudes de cambio aprobadas, se agregan las variaciones en el alcance del proyecto, en los recursos o en las estimaciones de costes.
+	- **Línea base para la medición del desempeño**: atendiendo a las solicitudes de cambio autorizadas, se incluyen las alteraciones en el alcance del proyecto, en el desempeño del cronograma o en las estimaciones de costes.
+
+- **Actualizaciones a los documentos del proyecto**:
+
+	- **Registro de supuestos**: añadiendo predicciones sobre la productividad de los recursos u otros factores que condicionan el coste del proyecto.
+	- **Base de las estimaciones**: en el supuesto de que exista la necesidad de revisar la base original de las estimaciones.
+	- **Estimaciones de costes**: para constatar la eficiencia real del coste.
+	- **Registro de lecciones aprendidas**: completándolo con técnicas eficaces para el mantenimiento del presupuesto, el análisis de variación o del valor ganado y los pronósticos. ASÍ como, con las acciones correctivas usadas en las variaciones del coste.
+	- **Registro de riesgos**: cuando los cambios en el coste han cruzado o pueden cruzar el umbral establecido.
+
+En la siguiente tabla se exponen los **términos** que aparecen en las técnicas de análisis de datos, para su mejor comprensión:
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/tabla_terminos.jpg
+   :width: 75%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/tabla_terminos_2.jpg
+   :width: 75%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/tabla_terminos_3.jpg
+   :width: 75%
+   :align: center
+
+.. note::
+
+	- El **plan de gestión** de los costes especifica el modo en que se administrarán y supervisarán los costes del proyecto.
+	- La **línea base de costes** se compara con los resultados reales para decidir si es preciso implementar un cambio o una acción preventiva/correctiva).
+	- Los **requisitos de financiamiento** del proyecto se refieren a los gastos proyectados y las obligaciones anticipadas.
+	- Los **datos de desempeño** del trabajo es la información del estado económico del proyecto. Como por ejemplo, los costes que han sido autorizados, incurridos, facturados o pagados.
+	- La **información de desempeño** del trabajo son los datos de la ejecución laboral en comparación con la línea base de costes. Las variaciones se documentan para su inclusión en los informes de desempeño del trabajo.
+	- Tras el **análisis del desempeño** del proyecto puede ser necesario realizar solicitudes de cambio en las lineas base de costes y del cronograma o en otros elementos del plan para la dirección del proyecto.
+	- El **valor de la predicción** de la estimación a la conclusión (EAC) calculado o ascendente tiene que documentarse y comunicarse a los interesados.
+
+4. Resumen
+**********
+
+- En la guia PMBOK la dirección de proyectos se compone de diversos procesos que se estructuran en **grupos y áreas de conocimiento**. Los grupos, se establecen en base a los objetivos específicos a alcanzar y las áreas de conocimiento, en función de sus requisitos técnicos.
+- La **gestión del tiempo** en un proyecto, requiere una planificación, el establecimiento de la duración y secuenciación de las actividades y el desarrollo de un cronograma supeditado a revisión y control.
+- La **administración de los costes** del proyecto, exige una estimación de gastos, la elaboración de un presupuesto y una verificación constante para comprobar el cumplimento de las previsiones económicas.
+- Todos estos procesos, imprescindibles en el manejo de los calendarios y presupuestos de un plan empresarial, al igual que los restantes de dirección, se definen por sus **entradas, herramientas y técnicas y salidas**.
+
+5. Actividades
+**************
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/actividades/actividad_1_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/actividades/actividad_1_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/actividades/actividad_1_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/actividades/actividad_2_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/actividades/actividad_2_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/actividades/actividad_2_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/actividades/actividad_3_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/actividades/actividad_3_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/actividades/actividad_3_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/actividades/actividad_4_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/actividades/actividad_4_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/actividades/actividad_4_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/actividades/actividad_5_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/actividades/actividad_5_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/actividades/actividad_5_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/actividades/questionnaire_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/actividades/questionnaire_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/actividades/questionnaire_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/actividades/questionnaire_4.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/actividades/questionnaire_5.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/actividades/questionnaire_6.jpg
+   :width: 70%
+   :align: center
