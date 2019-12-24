@@ -1171,3 +1171,31 @@ En el proceso de controlar las adquisiciones se producen las siguientes salidas:
 .. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.8_grupo_materia_adquisiciones_comunicaciones/actividades/actividad_8_4.jpg
    :width: 70%
    :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.8_grupo_materia_adquisiciones_comunicaciones/actividades/questionnaire_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.8_grupo_materia_adquisiciones_comunicaciones/actividades/questionnaire_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.8_grupo_materia_adquisiciones_comunicaciones/actividades/questionnaire_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.8_grupo_materia_adquisiciones_comunicaciones/actividades/questionnaire_4.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.8_grupo_materia_adquisiciones_comunicaciones/actividades/questionnaire_5.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.8_grupo_materia_adquisiciones_comunicaciones/actividades/questionnaire_6.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.8_grupo_materia_adquisiciones_comunicaciones/actividades/questionnaire_7.jpg
+   :width: 70%
+   :align: center
