@@ -1189,15 +1189,9 @@ El **beneficio clave** de este proceso es que identifica el tipo, cantidad y car
 
 Este proceso se lleva a cabo **periódicamente**, según sea necesario.
 
-+-----------------------------------------------+---------------------------------------------------+
-| **Entradas**                                  | **Salidas**                                       |
-+-----------------------------------------------+---------------------------------------------------+
-|                                               | 1. Requisitos de recursos.                        |
-| 1. Plan para la dirección del proyecto.       | 2. Base de las estimaciones.                      |
-| 2. Documentos del proyecto.                   | 3. Estructura de desglose de recursos.            |
-| 3. Factores ambientales de la empresa.        | 4. Actualizaciones a los documentos del proyecto. |
-| 4. Activos de los procesos de la organización |                                                   |
-+-----------------------------------------------+---------------------------------------------------+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/tabla_estimar_recursos.jpg
+   :width: 70%
+   :align: center
 
 Las **necesidades del proyecto** determinan qué **componentes** del plan para la dirección del proyecto y qué **documentos** del proyecto son necesarios.
 
@@ -1264,9 +1258,9 @@ Las **necesidades del proyecto** determinan qué **componentes** del plan para l
 4.3.18. Planificar la gestión de riesgos
 ----------------------------------------
 
-.. note:: La **estimación de los recursos de las actividades** es el proceso de estimar los recursos del equipo y el tipo y las cantidades de materiales, equipamiento y suministros necesarios para ejecutar el trabajo del proyecto.
+.. note:: La **planificación de la gestión de los riegos** consiste en definir cómo realizar las actividades de gestión de riesgos de un proyecto.
 
-El **beneficio clave** de este proceso es que identifica el tipo, cantidad y características de los recursos necesarios para completar el proyecto.
+El **beneficio clave** de este proceso es que se asegura que el nivel, el tipo y la visibilidad de gestión de riesgos son proporcionales tanto a los riesgos como a la importancia del proyecto para la organización y otros interesados.
 
 Este proceso se lleva a cabo **una única vez o en puntos predefinidos del proyecto**, según sea necesario.
 
@@ -1279,6 +1273,8 @@ Este proceso se lleva a cabo **una única vez o en puntos predefinidos del proye
 | 4. Factores ambientales de la empresa.        |                                |
 | 5. Activos de los procesos de la organización |                                |
 +-----------------------------------------------+--------------------------------+
+
+Las necesidades del proyecto determinan qué componentes del plan para la dirección del proyecto son necesarios.
 
 Al planificar la gestión de los riesgos del proyecto se deben tener en cuenta todos los componentes disponibles del plan para ladirección del proyecto, a fin de asegurar que la gestión de riegos sea **consistente con las necesidades del proyecto**.
 

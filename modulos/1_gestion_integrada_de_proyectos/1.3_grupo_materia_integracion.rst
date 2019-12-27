@@ -558,7 +558,7 @@ Incluyen los **planes de gestión de**:
 
 - **Alcance**: establece el modo en que el alcance será definido, desarrollado, monitoreado, controlado y validado.
 - **Requisitos**: establece cómo se analizarán, documentarán y gestionarán los requisitos.
-- **Cronograma**:
+- **Cronograma**: establece los criterios y las actividades a llevar a cabo para desarrollar, monitorear y controlar el cronograma.
 - **Costes**: establece la forma en que se planificaran, estructurarán y controlarán los Costes.
 - **Calidad**: establece la forma en que las políticas, metodologías y estándares de  calidad de una organización se implementarán en el proyecto.
 - **Recursos**: proporciona una guía sobre cómo se deberían categorizar, asignar, gestionar y liberar los recursos del proyecto.

@@ -365,7 +365,7 @@ En el proceso de efectuar las adquisiciones se producen las siguientes salidas:
 1.4. Control de gestión de adquisiciones
 ++++++++++++++++++++++++++++++++++++++++
 
-.. note:: **Controlar las adquisiciones** es el proceso de recibir una respuesta por parte del proveedor. El proceso incluye la selección de un vendedor calificado y adjudicación de un contrato. 
+.. note:: **Controlar las adquisiciones** es el proceso de seguimiento en la ejecución de los contratos, cambios, correcciones y cierre de los contratos. 
 
 Tanto comprador como vendedor, deben estar seguros que ambas partes **cumplen con sus obligaciones estipuladas** por contrato y sus derechos deben estar protegidos. Cuando se trata de proyectos más complejos o que intervengan múltiples proveedores es clave mantener una correcta comunicación entre los distintos proveedores. 
 
@@ -1047,7 +1047,6 @@ En el proceso de controlar las adquisiciones se producen las siguientes salidas:
 
 	- **Plan de gestión de las comunicaciones** puede someterse a un cambio con el fin de que la comunicación de vuelva más eficaz. 
 	- **Plan de involucramiento de los interesados** puede ser actualizado para reflejar las necesidades de comunicación de los interesados. 
-
 
 - **Actualizaciones en la documentación**: Los documentos que pueden actualizarse si se requiere llevar a cabo el proceso de cambio son: 
 
