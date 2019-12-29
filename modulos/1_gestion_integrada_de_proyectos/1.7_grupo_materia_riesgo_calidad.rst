@@ -1289,7 +1289,25 @@ La forma en que se aplican los **procesos de gestión de la calidad depende del 
 
 La **planificación, aseguramiento y control de la calidad del proyecto tienen tres etapas básicas**: las entradas necesarias para llevar a cabo el proceso, las herramientas y técnicas que se pueden aplicar durante el proceso y las salidas que se pueden/deben obtener.
 
-3. Actividades
+3. Descargas
+************
+
+- **Formato PDGR**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.7_grupo_materia_riesgo_calidad/ficheros/formato_pdgr.pdf>`
+- **Plan de gestión de riesgos**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.7_grupo_materia_riesgo_calidad/ficheros/plan_gestion_riesgos.pdf>`
+- **Lista de peligros y riesgos**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.7_grupo_materia_riesgo_calidad/ficheros/lista_peligros_riesgos.pdf>`
+- **Lista de riesgos**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.7_grupo_materia_riesgo_calidad/ficheros/lista_riesgos.pdf>`
+- **Lista de riesgos 1**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.7_grupo_materia_riesgo_calidad/ficheros/lista_riesgos_2.pdf>`
+- **Análisis cualitativo**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.7_grupo_materia_riesgo_calidad/ficheros/analisis_cualitativo.pdf>`
+- **Matriz de probabilidad e impacto**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.7_grupo_materia_riesgo_calidad/ficheros/matriz_probabilidad_impacto.pdf>`
+- **Informe de gestión de riesgos**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.7_grupo_materia_riesgo_calidad/ficheros/informe_gestion_riesgos.pdf>`
+- **Análisis cuantitativo**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.7_grupo_materia_riesgo_calidad/ficheros/analisis_cuantitativo.pdf>`
+- **Control de la gestión de los riesgos**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.7_grupo_materia_riesgo_calidad/ficheros/control_gestion_riesgos.pdf>`
+- **Plan de acción de riesgos**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.7_grupo_materia_riesgo_calidad/ficheros/plan_accion_riesgos.pdf>`
+- **Gestión de la calidad**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.7_grupo_materia_riesgo_calidad/ficheros/gestion_calidad.pdf>`
+- **Plan de gestión de la calidad**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.7_grupo_materia_riesgo_calidad/ficheros/plan_gestion_calidad.pdf>`
+
+
+4. Actividades
 **************
 
 .. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.7_grupo_materia_riesgo_calidad/actividades/actividad_1_1.jpg

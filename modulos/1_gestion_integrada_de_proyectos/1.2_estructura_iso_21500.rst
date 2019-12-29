@@ -2,7 +2,7 @@ Estructura de la norma ISO 21500
 ================================
 
 .. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/mapa_conceptual.jpg
-   :width: 50%
+   :width: 60%
    :align: center
 
    Mapa conceptual de la estructura de la norma ISO 21500
@@ -16,20 +16,9 @@ Surgión con el **propósito** de generar consenso entre los grupos interesados 
 
 Se estructura en **39 procesos** que se pueden casificar atendiendo a:
 
-+-----------------------+----------------------+
-| 10 grupos de materias | 5 grupos de procesos |
-+-----------------------+----------------------+
-| - Integración         | - Inicio             |
-| - Coste               | - Planificación      |
-| - Partes interesadas  | - Implementación     |
-| - Riesgo              | - Control            |
-| - Alcance             | - Cierre             |
-| - Calidad             |                      |
-| - Recursos.           |                      |
-| - Adquisiciones       |                      |
-| - Tiempo              |                      |
-| - Comunicación        |                      |
-+-----------------------+----------------------+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/tabla_materias_procesos.jpg
+   :width: 60%
+   :align: center
 
 
 2. Definiciones de conceptos generales de la norma
@@ -68,39 +57,45 @@ Estas **requieren** que las organizaciones que se hagan cargo de sus proyectos c
 3.2. Clasificación de los procesos en grupos de proceso y grupos de materias
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-+-------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Grupos de materias**  | **Grupos de procesos**                                                                                                                                                                                                        |
-|                         +------------------------------------+------------------------------------------------+------------------------------------------+-------------------------------------------------+--------------------------------------------+
-|                         | **Inicio**                         | **Planificación**                              | **Implementación**                       | **Control**                                     | **Cierre**                                 |
-+-------------------------+------------------------------------+------------------------------------------------+------------------------------------------+-------------------------------------------------+--------------------------------------------+
-| **Integración**         | Desarrollar el acta del proyecto   | Desarrollar planes de proyecto                 | Dirigir las tareas del proyecto          | Controlar las tareas del proyecto y los cambios | - Cerrar la fase de proyecto o el proyecto |
-|                         |                                    |                                                |                                          |                                                 | - Recolectar las lecciones aprendidas      |
-+-------------------------+------------------------------------+------------------------------------------------+------------------------------------------+-------------------------------------------------+--------------------------------------------+
-| **Partes interesadas**  | Identificar las partes interesadas |                                                | Gestionar las partes interesadas         |                                                 |                                            |
-+-------------------------+------------------------------------+------------------------------------------------+------------------------------------------+-------------------------------------------------+--------------------------------------------+
-| **Alcance**             |                                    | - Definir el alcance.                          |                                          | Controlar el alcance                            |                                            |
-|                         |                                    | - Crear la estructura de desglose de trabajos. |                                          |                                                 |                                            |
-|                         |                                    | - Definir actividades.                         |                                          |                                                 |                                            |
-+-------------------------+------------------------------------+------------------------------------------------+------------------------------------------+-------------------------------------------------+--------------------------------------------+
-| **Recursos**            | Establecer el equipo de proyecto   | - Estimar recursos.                            | Desarrollar el equipo de proyecto        | - Controlar los recursos.                       |                                            |
-|                         |                                    | - Definir la organización del proyecto.        |                                          | - Gestionar el equipo de proyecto.              |                                            |
-+-------------------------+------------------------------------+------------------------------------------------+------------------------------------------+-------------------------------------------------+--------------------------------------------+
-| **Tiempo**              |                                    | - Establecer la secuencia de actividades.      |                                          | Controlar el cronograma                         |                                            |
-|                         |                                    | - Estimar la duración de actividades.          |                                          |                                                 |                                            |
-|                         |                                    | - Desarrollar el cronograma                    |                                          |                                                 |                                            |
-+-------------------------+------------------------------------+------------------------------------------------+------------------------------------------+-------------------------------------------------+--------------------------------------------+
-| **Coste**               |                                    | - Estimar costes.                              |                                          | Controlar los costes                            |                                            |
-|                         |                                    | - Desarrollar el presupuesto.                  |                                          |                                                 |                                            |
-+-------------------------+------------------------------------+------------------------------------------------+------------------------------------------+-------------------------------------------------+--------------------------------------------+
-| **Riesgo**              |                                    | - Identificar los riesgos.                     | Tratar los riesgos.                      | Controlar los riesgos.                          |                                            |
-|                         |                                    | - Evaluar los riesgos.                         |                                          |                                                 |                                            |
-+-------------------------+------------------------------------+------------------------------------------------+------------------------------------------+-------------------------------------------------+--------------------------------------------+
-| **Calidad**             |                                    | Planificar la calidad.                         | Realizar el aseguramiento de la calidad. | Realizar el control de la calidad.              |                                            |
-+-------------------------+------------------------------------+------------------------------------------------+------------------------------------------+-------------------------------------------------+--------------------------------------------+
-| **Comunicación**        |                                    | Planificar las comunicaciones.                 | Distribuir la información.               | Gestionar la comunicación.                      |                                            |
-+-------------------------+------------------------------------+------------------------------------------------+------------------------------------------+-------------------------------------------------+--------------------------------------------+
-| **Adquisiciones**       |                                    | Planificar las adquisiciones.                  | Seleccionar los proveedores.             | Administrar los contratos.                      |                                            |
-+-------------------------+------------------------------------+------------------------------------------------+------------------------------------------+-------------------------------------------------+--------------------------------------------+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/tabla_integracion.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/tabla_partes_interesadas.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/tabla_alcance.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/tabla_recursos.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/tabla_tiempo.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/tabla_coste.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/tabla_riesgo.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/tabla_calidad.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/tabla_comunicacion.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/tabla_adquisiciones.jpg
+   :width: 70%
+   :align: center
 
 4. El estándar en la dirección de proyectos PMBOK
 *************************************************
@@ -116,15 +111,9 @@ El **estándar PMBOK** fue desarrollado utilizando un proceso basado en los conc
 
 **PMBOK se estructura en 49 procesos de acuerdo a la versión 6**. Estos se pueden organizar atendiendo a cico grupos de procesos muy similares a los de la ISO 21500:
 
-+--------------------------------+----------------------+
-| 5 Grupos de procesos ISO 21500 | PMBOK                |
-+--------------------------------+----------------------+
-| - Inicio                       | - Inicio             |
-| - Planificación                | - Planificación      |
-| - Implementación               | - Ejecución          |
-| - Control                      | - Monitoreo y control|
-| - Cierre                       | - Cierre             |
-+--------------------------------+----------------------+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/relacion_pmbok_procesos.jpg
+   :width: 60%
+   :align: center
 
 Además, define conceptos clave de la dirección y gestión de proyectos como:
 
@@ -1422,8 +1411,8 @@ Este proceso se lleva a cabo de **manera continua a lo largo de todo el proyecto
 +-----------------------------------------------+-------------------------------------------------------------------------------------------------------------+
 | 1. Plan para la dirección del proyecto.       |                                                                                                             |
 | 2. Documentos del proyecto.                   | 1. Solicitudes de cambio.                                                                                   |
-| 3. Factores ambientales de la empresa.        | 2. Actualizaciones al plan para la dirección del proyecto.3. Actualizaciones a los documentos del proyecto. |
-| 4. Activos de los procesos de la organización |                                                                                                             |
+| 3. Factores ambientales de la empresa.        | 2. Actualizaciones al plan para la dirección del proyecto.                                                  |
+| 4. Activos de los procesos de la organización | 3. Actualizaciones a los documentos del proyecto.                                                           |
 +-----------------------------------------------+-------------------------------------------------------------------------------------------------------------+
 
 Las necesidades del proyecto determinan qué componentes del plan para la dirección del proyecto y qué documentos del proyecto son necesarios.
@@ -2656,8 +2645,15 @@ Las **necesidades del proyecto** determinan qué **componentes** del plan para l
 
 - Se pueden establecer **relaciones entre la norma ISO 21500 y** otros estándares de gestión de proyecto como **PMBOK y PRINCE2**.
 
+6. Descargas
+************
 
-6. Actividades
+* Clasificación de los procesos atendiendo a los grupos de procesos y materias: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/ficheros/clasificacion_procesos_ grupos_procesos_materias.pdf>`
+* Relación entre los grupos de materias de la ISO 21500 y PMBOK: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/ficheros/relacion_grupo_materia_ISO21500_PMBOK.pdf>`
+* Relación entre losas áreas de conocimiento y los grupos de procesos: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/ficheros/relacion_areas_conocimiento_grupos_procesos.pdf>`
+* Componentes del plan para la dirección del proyecto y documentos del proyecto :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/ficheros/componentes_plan_direccion_proyecto_documentos_proyecto.pdf>`
+
+7. Actividades
 **************
 
 .. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.2_estructura_iso_21500/actividades/actividad_1_1.jpg

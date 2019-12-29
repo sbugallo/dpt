@@ -967,7 +967,21 @@ En la siguiente tabla se exponen los **términos** que aparecen en las técnicas
 - La **administración de los costes** del proyecto, exige una estimación de gastos, la elaboración de un presupuesto y una verificación constante para comprobar el cumplimento de las previsiones económicas.
 - Todos estos procesos, imprescindibles en el manejo de los calendarios y presupuestos de un plan empresarial, al igual que los restantes de dirección, se definen por sus **entradas, herramientas y técnicas y salidas**.
 
-5. Actividades
+5. Descargas
+************
+
+- **Cronograma de actividades**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/ficheros/cronograma_actividades.pdf>`
+- **Cronogramas**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/ficheros/cronogramas.pdf>`
+- **Diagrama de red**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/ficheros/diagrama_red.pdf>`
+- **Sistemas de informacion**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/ficheros/sistemas_informacion.pdf>`
+- **Plan de gestión de costes**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/ficheros/plan_gestion_costes.pdf>`
+- **Presupuesto**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/ficheros/presupuesto.pdf>`
+- **Estimación de la duración de las actividades**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/ficheros/estimacion_duracion_actividades.pdf>`
+- **Plantilla de estimación de la duración de las actividades**: :download:`xls <../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/ficheros/estimacion_duracion_actividades.xls>`
+- **Términos en las técnicas de anális de datos**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/ficheros/terminos_tecnicas_analisis_datos.pdf>`
+- **Plantilla de enunciado del alcance**: :download:`doc <../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/ficheros/plantilla_enunciado_alcance.doc>`
+
+6. Actividades
 **************
 
 .. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.6_grupo_materia_tiempo_coste/actividades/actividad_1_1.jpg

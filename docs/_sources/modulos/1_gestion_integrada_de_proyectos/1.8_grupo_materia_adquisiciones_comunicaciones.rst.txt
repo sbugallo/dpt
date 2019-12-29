@@ -1063,8 +1063,22 @@ En el proceso de controlar las adquisiciones se producen las siguientes salidas:
 - La comunicación del tipo push es transmitida directamente a una persona especifica mientras que la comunicación tipo pull engloban los conjuntos de información complejos y cuantiosos. 
 - Los objetos de comunicación del proyecto se apoyan en los informes de desempeño, estado de los entregables, actualizaciones del cronograma, costes, presentaciones e información adicional requerida por los interesados. 
 
+3. Descargas
+************
 
-3. Actividades
+- **Gestión de adquisiciones**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.8_grupo_materia_adquisiciones_comunicaciones/ficheros/gestion_adquisiciones.pdf>`
+- **Plan de gestión de las adquisiciones**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.8_grupo_materia_adquisiciones_comunicaciones/ficheros/plan_gestion_adquisiciones.pdf>`
+- **Plan de gestión de las comunicaciones**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.8_grupo_materia_adquisiciones_comunicaciones/ficheros/plan_gestion_comunicaciones.pdf>`
+- **Plan de gestión de las comunicaciones 2**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.8_grupo_materia_adquisiciones_comunicaciones/ficheros/plan_gestion_comunicaciones_2.pdf>`
+- **Matriz de comunicaciones**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.8_grupo_materia_adquisiciones_comunicaciones/ficheros/matriz_comunicaciones.pdf>`
+- **Roles de los involucrados en la comunicación**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.8_grupo_materia_adquisiciones_comunicaciones/ficheros/roles_involucrados_comunicacion.pdf>`
+- **Guía PMBOK de gestión de las comunicaciones**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.8_grupo_materia_adquisiciones_comunicaciones/ficheros/guia_pmbok_gestion_comunicaciones.pdf>`
+- **Matriz poder-influencia**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.8_grupo_materia_adquisiciones_comunicaciones/ficheros/matriz_poder_influencia.pdf>`
+- **Tabla de requerimientos de comunicacion**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.8_grupo_materia_adquisiciones_comunicaciones/ficheros/requerimientos_comunicaciones.pdf>`
+- **Informe de estado del proyecto**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.8_grupo_materia_adquisiciones_comunicaciones/ficheros/informe_estado_proyecto.pdf>`
+- **Indicadores de proyectos**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.8_grupo_materia_adquisiciones_comunicaciones/ficheros/indicadores_proyectos.pdf>`
+
+4. Actividades
 **************
 
 .. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.8_grupo_materia_adquisiciones_comunicaciones/actividades/actividad_1_1.jpg

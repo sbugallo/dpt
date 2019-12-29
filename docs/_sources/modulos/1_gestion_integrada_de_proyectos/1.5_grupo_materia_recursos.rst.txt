@@ -643,7 +643,20 @@ La dirección de proyectos se compone de diferentes procesos que se estructuran 
 Los seis procesos que permiten gestionar los recursos de un proyecto son los siguientes:
 planificar la gestión de recursos, estimar los recursos de las actividades, adquirir recursos, desarrollar el equipo, dirigir al equipo y controlar los recursos. Estos procesos, al igual que los restantes de dirección, se definen por sus entradas, herramientas y técnicas y salidas.
 
-3. Actividades
+3. Descargas
+************
+
+- **Plan de gestión de recursos humanos**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.5_grupo_materia_recursos/ficheros/plan_gestion_recursos_humanos.pdf>`
+- **Plan de gestión de recursos humanos 2**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.5_grupo_materia_recursos/ficheros/plan_gestion_recursos_humanos_2.pdf>`
+- **Matriz de asignación de actividades**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.5_grupo_materia_recursos/ficheros/matriz_asignacion_responsabilidades.pdf>`
+- **Matriz raci**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.5_grupo_materia_recursos/ficheros/matriz_raci.pdf>`
+- **Matriz de asignación de responsabilidades**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.5_grupo_materia_recursos/ficheros/matriz_responsabilidad.pdf>`
+- **Calendario  de recursos**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.5_grupo_materia_recursos/ficheros/calendario_recursos.pdf>`
+- **Línea base del cronnograma**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.5_grupo_materia_recursos/ficheros/linea_base_cronograma.pdf>`
+- **Línea base de coste**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.5_grupo_materia_recursos/ficheros/linea_base_coste.pdf>`
+
+
+4. Actividades
 **************
 
 .. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.5_grupo_materia_recursos/actividades/actividad_1_1.jpg

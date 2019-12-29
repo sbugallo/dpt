@@ -140,19 +140,16 @@ La ISO 21500 se divide en 4 partes:
 La norma se estructura en 39 procesos que se pueden clasificar atendiendo a:
 
 - **10 grupos de materias**:
-	.. hlist::
-	    :columns: 2
-
-	    * Integración
-	    * Coste
-	    * Partes interesadas
-	    * Riesgo
-	    * Alcance
-	    * Calidad
-	    * Recursos
-	    * Adquisiciones
-	    * Tiempo
-	    * Comunicación
+	    - Integración
+	    - Coste
+	    - Partes interesadas
+	    - Riesgo
+	    - Alcance
+	    - Calidad
+	    - Recursos
+	    - Adquisiciones
+	    - Tiempo
+	    - Comunicación
 	
 - :**5 grupos de procesos**:
 
@@ -203,30 +200,13 @@ Hoy en día existe una gran variedad de metodologías, estándares y métodos de
 3.1. Relación con PMBOK
 +++++++++++++++++++++++
 
-+-----------------------+-------------------+
-| 10 Materias ISO 21500 | 10 Áreas PMBOK    |
-+-----------------------+-------------------+
-| - Integración         | - Integración     |
-| - Partes interesadas  | - Interesados     |
-| - Alcance             | - Alcance         |
-| - Recursos            | - Recursos Humanos|
-| - Tiempo              | - Tiempo          |
-| - Costes              | - Costes          |
-| - Riesgos             | - Riesgos         |
-| - Caliad              | - Calidad         |
-| - Adquisiciones       | - Adquisiciones   |
-| - Comunicaciones      | - Comunicaciones  |
-+-----------------------+-------------------+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.1_introduccion_iso_21500/relacion_pmbok_materias.jpg
+   :width: 60%
+   :align: center
 
-+--------------------------------+----------------------+
-| 5 Grupos de procesos ISO 21500 | PMBOK                |
-+--------------------------------+----------------------+
-| - Inicio                       | - Inicio             |
-| - Planificación                | - Planificación      |
-| - Implementación               | - Ejecución          |
-| - Control                      | - Monitoreo y control|
-| - Cierre                       | - Cierre             |
-+--------------------------------+----------------------+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.1_introduccion_iso_21500/relacion_pmbok_procesos.jpg
+   :width: 60%
+   :align: center
 
 .. note:: La norma ISO 21500 se estructura en 39 procesos, mientras que el estándar PMBOK lo hace en 49.
 
@@ -239,14 +219,9 @@ Con respecto a su **alcance**, si bien la norma **ISO 21500 está dirigida funda
 3.2. Relación con PRINCE2
 +++++++++++++++++++++++++
 
-+---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------+
-| ISO 21500                                                                                   | PRINCE2                                                                                        |
-+---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------+
-| - Es un estándar                                                                            | - Es un método                                                                                 |
-| - Define el "qué" de forma prescriptiva                                                     | - Define el "cómo" de forma descriptiva                                                        |
-| - Incluye los apartados de adquisiciones y de las competencias de la dirección del proyecto | - No incluye los apartados de adquisiciones y de las competencias de la dirección del proyecto |
-| - Gestiona el proyecto desde el punto de vista de la organización ejecutable                | - Gestiona el proyecto desde el punto de vista del cliente                                     |
-+---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.1_introduccion_iso_21500/relacion_prince2.jpg
+   :width: 70%
+   :align: center
 
 Además, al contrario que PMBOK que complementa la ISO 21500, PRINCE2 ha tenido poca influencia en dicha norma. No obstante, lato la ISO como el método comparten gran parte de los principios, actividades y prácticas de la gestión de proyectos, por lo que podría llegar a complementarse. Se puede decir que **la norma ISO 21500 reúne lo mejor del estándar PMBOK y del método PRINCE2**.
 

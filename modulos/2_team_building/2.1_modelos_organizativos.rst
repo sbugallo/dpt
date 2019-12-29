@@ -474,7 +474,12 @@ La organización mediante recursos como la formación, los incentivos, el coachi
 - El **Desarrollo Organizacional** se define como un esfuerzo planificado de amplitud organizacional dirigido desde cúspide para incrementar la efectividad y salud organizacional, través de intervenciones planificadas en los procesos organizacionales y usando el conocimiento de las ciencias del comportamiento. 
 - El **coaching** está relacionada can el **cambio y mejora** las habilidades actuales, las nuevas técnicas de aprendizaje y las valores, creencias y comportamientos de transformación, tanto en el ámbito personal como organizativo. 
 
-7. Actividades
+7. Descargas
+************
+
+- **Rasgos de la organización**: :download:`pdf <../../_static/2_team_building/2.1_modelos_organizativos/ficheros/rasgos_organizacion.pdf>`
+
+8. Actividades
 **************
 
 .. figure:: ../../_static/2_team_building/2.1_modelos_organizativos/actividades/actividad_1_1.png

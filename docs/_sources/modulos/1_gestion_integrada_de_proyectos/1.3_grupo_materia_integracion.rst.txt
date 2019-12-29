@@ -125,24 +125,9 @@ Este **enfoque colaborativo** puede mejorarse aún más cuando el personal del e
 	Este proceso se lleva a cabo **una única vez o en puntos predefinidos del proyecto**.
 
 
-+------------------------------------------------+---------------------------------------------+---------------------------------------+
-| **Entradas**                                   | **Herramientas y Técnicas**                 | **Salidas**                           |
-+------------------------------------------------+---------------------------------------------+---------------------------------------+
-|                                                | 1. Juicio de expertos.                      |                                       |
-|                                                | 2. Recopilación de datos:                   |                                       |
-|                                                |                                             |                                       |
-| 1. Documentos de negocio:                      |     - Tormenta de ideas                     |                                       |
-|                                                |     - Grupos focales.                       |                                       |
-|     - Caso de negocio.                         |     - Entrevistas.                          |                                       |
-|     - Plan de gestión de beneficios.           |                                             | 1. Acta de constitución del proyecto. |
-|                                                | 3. Habilidades interpersonales y de equipo: | 2. Registro de suspuestos.            |
-| 2. Acuerdos.                                   |                                             |                                       |
-| 3. Factores ambientales de la empresa.         |     - Gestión de conflictos.                |                                       |
-| 4. Activos de los procesos de la organización  |     - Facilitación.                         |                                       |
-|                                                |     - Gestión de reuniones.                 |                                       |
-|                                                |                                             |                                       |
-|                                                | 4. Reuniones.                               |                                       |
-+------------------------------------------------+---------------------------------------------+---------------------------------------+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.3_grupo_materia_integracion/tabla_acta_constitucion.jpg
+   :width: 70%
+   :align: center
 
 El **acta de constitución del proyecto** supone las siguientes **consideraciones**:
 
@@ -359,25 +344,9 @@ A un alto nivel, el acta de constitución del proyecto asegura una comprensión 
 
 	Este proceso se lleva a cabo **una única vez o en puntos predefinidos del proyecto**.
 
-+-------------------------------------------------+---------------------------------------------+----------------------------------------+
-| **Entradas**                                    | **Herramientas y Técnicas**                 | **Salidas**                            |
-+-------------------------------------------------+---------------------------------------------+----------------------------------------+
-|                                                 | 1. Juicio de expertos.                      |                                        |
-|                                                 | 2. Recopilación de datos:                   |                                        |
-|                                                 |                                             |                                        |
-|                                                 |     - Tormenta de ideas.                    |                                        |
-|                                                 |     - Lista de verificación.                |                                        |
-| 1. Acta de constitución del proyecto.           |     - Grupos focales.                       |                                        |
-| 2. Salidas a otros procesos.                    |     - Entrevistas.                          |                                        |
-| 3. Factores ambientales.                        |                                             | 1. Plan para la dirección del proyecto |
-| 4. Activos de los procesos de la organización.  | 3. Habilidades interpersonales y de equipo: |                                        |
-|                                                 |                                             |                                        |
-|                                                 |     - Gestión de conflictos.                |                                        |
-|                                                 |     - Facilitación.                         |                                        |
-|                                                 |     - Gestión de reuniones.                 |                                        |
-|                                                 |                                             |                                        |
-|                                                 | 4. Reuniones.                               |                                        |
-+-------------------------------------------------+---------------------------------------------+----------------------------------------+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.3_grupo_materia_integracion/tabla_plan_direccion.jpg
+   :width: 70%
+   :align: center
 
 El **plan para la dirección del proyecto** supone las siguientes **consideraciones**:
 
@@ -579,31 +548,9 @@ Aunque el plan para la dirección del proyecto es uno de los documentos principa
 
 	Este proceso se lleva a cabo **de manera continua a lo largo de todo el proyecto**.
 
-+-------------------------------------------------+-----------------------------------------------------------+----------------------------------------------------------------------+
-| **Entradas**                                    | **Herramientas y Técnicas**                               | **Salidas**                                                          |
-+-------------------------------------------------+-----------------------------------------------------------+----------------------------------------------------------------------+
-| 1. Plan para la dirección del proyecto:         | 1. Juicio de expertos.                                    |                                                                      |
-|                                                 | 2. Sistema de información para la dirección de proyectos. | 1. Entregables.                                                      |
-|                                                 | 3. Reuniones.                                             | 2. Datos de desempeño del trabajo.                                   |
-|    - Cualquier componente.                      |                                                           | 3. Registro de incidencias.                                          |
-|                                                 |                                                           | 4. Solicitudes de cambio.                                            |
-|                                                 |                                                           | 5. Actualizaciones al plan para la dirección del proyecto:           |
-| 2. Documentos del proyecto.                     |                                                           |                                                                      |
-|                                                 |                                                           |     - Cualquier componente.                                          |
-|    - Registro de cambios.                       |                                                           |                                                                      |
-|    - Registro de lecciones aprendidas.          |                                                           | 6. Actualizaciones a los documentos del proyecto:                    |
-|    - Lista de hitos.                            |                                                           |                                                                      |
-|    - Comunicaciones del proyecto.               |                                                           |     - Lista de actividades.                                          |
-|    - Cronograma del proyecto.                   |                                                           |     - Registros de supuestos.                                        |
-|    - Matriz de trazabilidad de requisitos.      |                                                           |     - Registro de lecciones aprendidas.                              |
-|    - Registro de riesgos.                       |                                                           |     - Documentación de requisitos.                                   |
-|    - Informe de riesgos.                        |                                                           |     - Registro de riesgos.                                           |
-|                                                 |                                                           |     - Registro de interesados.                                       |
-| 3. Solicitudes de cambio aprobadas.             |                                                           |                                                                      |
-| 4. Factores ambientales de la empresa.          |                                                           | 7. Actualizaciones a los activos de los procesos de la organización. |
-| 5. Activos de los procesos de la organización.  |                                                           |                                                                      |
-|                                                 |                                                           |                                                                      |
-+-------------------------------------------------+-----------------------------------------------------------+----------------------------------------------------------------------+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.3_grupo_materia_integracion/tabla_gestionar_trabajo.jpg
+   :width: 70%
+   :align: center
 
 Dirigir y gestionar el trabajo del proyecto **supone**:
 
@@ -879,32 +826,14 @@ Los **documentos del proyecto que pueden actualizarse** como resultado de llevar
 
 	Este proceso se lleva a cabo **de manera continua a lo largo de todo el proyecto**.
 
-+-------------------------------------------------+---------------------------------------------+----------------------------------------------------------------------+
-| **Entradas**                                    | **Herramientas y Técnicas**                 | **Salidas**                                                          |
-+-------------------------------------------------+---------------------------------------------+----------------------------------------------------------------------+
-| 1. Plan para la dirección del proyecto:         | 1. Juicio de expertos.                      |                                                                      |
-|                                                 | 2. Gestión de conocimiento.                 |                                                                      |
-|    - Todos los componentes.                     | 3. Gestión de la información.               |                                                                      |
-|                                                 | 4. Habilidades interpersonales y de equipo: | 1. Registro de lecciones aprendidas.                                 |
-| 2. Documentos del proyecto.                     |                                             |                                                                      |
-|                                                 |     - Escuchar de forma activa.             | 2. Actualizaciones al plan para la dirección del proyecto:           |
-|    - Registro de lecciones aprendidas.          |     - Facilitación.                         |                                                                      |
-|    - Asignaciones del equipo del proyecto.      |     - Liderazgo.                            |     - Cualquier componente.                                          |
-|    - Criterios de selección de proveedores.     |     - Creación de relaciones de trabajo.    |                                                                      |
-|                                                 |     - Conciencia política.                  | 3. Actualizaciones a los activos de los procesos de la organización. |
-| 3. Entregables                                  |                                             |                                                                      |
-| 4. Factores ambientales de la empresa.          |                                             |                                                                      |
-| 5. Activos de los procesos de la organización.  |                                             |                                                                      |
-|                                                 |                                             |                                                                      |
-+-------------------------------------------------+---------------------------------------------+----------------------------------------------------------------------+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.3_grupo_materia_integracion/tabla_gestionar_conocimiento.jpg
+   :width: 70%
+   :align: center
 
 El **conocimiento** comúnmente **se divide en**:
 
-+--------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
-| **Explícito**                                                                        | **Tácito**                                                                                                       |
-+--------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
-| Conocimiento que puede codificarse fácilmente mediante palabras, imágenes y números. | Conocimiento que es personal y difícil de expresar como creencias, percepciones, experiencia y el "saber hacer". |
-+--------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+- **Explícito**: Conocimiento que puede codificarse fácilmente mediante palabras, imágenes y números.
+- **Tácito**: Conocimiento que es personal y difícil de expresar como creencias, percepciones, experiencia y el "saber hacer".
 
 La **gestión del conocimiento** se ocupa de dirigir tanto el conocimiento tácito como el explícito con **2 propósitos**:
 
@@ -1155,31 +1084,9 @@ El **conocimiento existente** también puede ser codificado o incorporado por pr
 
 	Este proceso se lleva a cabo **de manera continua a lo largo de todo el proyecto**.
 
-+------------------------------------------------+------------------------------------+-----------------------------------------------------------+
-| **Entradas**                                   | **Herramientas y Técnicas**        | **Salidas**                                               |
-+------------------------------------------------+------------------------------------+-----------------------------------------------------------+
-| 1. Plan para la dirección del proyecto:        |                                    | 1. Informes de desempeño del trabajo.                     |
-|                                                |                                    | 2. Solicitudes de cambio.                                 |
-|     - Cualquier componente.                    |                                    | 3. Actualizaciones a plan para la dirección del proyecto: |
-|                                                |                                    |                                                           |
-| 2. Documentos del proyecto:                    | 1. Juicio de expertos.             |     - Cualquier componente.                               |
-|                                                | 2. Análisis de datos:              |                                                           |
-|     - Registro de supuestos.                   |                                    | 4. Actualizaciones a los documentos del proyecto:         |
-|     - Base de las estimaciones.                |     - Análisis de alternativas.    |                                                           |
-|     - Pronósticos de costes.                   |     - Análisis de coste-beneficio. |                                                           |
-|     - Registro de incidentes.                  |     - Análisis de valor ganado.    |     - Pronósticos de costes.                              |
-|     - Registro de lecciones aprendidas.        |     - Análisis de causa raíz.      |     - Registros de incidentes.                            |
-|     - Lista de hitos.                          |     - Análisis de tendencias.      |     - Registro de lecciones aprendidas.                   |
-|     - Informes de calidad.                     |     - Análisis de variación.       |     - Registro de riesgos del cronograma.                 |
-|     - Registro de riesgos.                     |                                    |                                                           |
-|     - Informe de riesgos.                      | 3. Toma de decisiones.             |                                                           |
-|     - Pronósticos del cronograma.              | 4. Reuniones                       |                                                           |
-|                                                |                                    |                                                           |
-| 3. Información de desempeño del trabajo.       |                                    |                                                           |
-| 4. Acuerdos.                                   |                                    |                                                           |
-| 5. Factores ambientales de la empresa.         |                                    |                                                           |
-| 6. Activos de los procesos de la organización. |                                    |                                                           |
-+------------------------------------------------+------------------------------------+-----------------------------------------------------------+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.3_grupo_materia_integracion/tabla_controlar_trabajo.jpg
+   :width: 70%
+   :align: center
 
 .. note:: El **monitoreo** es un aspecto de la dirección del proyecto que se realiza a lo largo de todo el proyecto. Consiste en recopilar, medir y evaluar las medidas y las tendencias que van a permitir efectuar mejoras al proceso.
 
@@ -1475,6 +1382,10 @@ Los **documentos del proyecto que pueden actualizarse** como resultado de llevar
 
 	Este proceso se lleva a cabo **de manera continua a 10 largo de todo el proyecto**.
 
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.3_grupo_materia_integracion/tabla_control_integrado_cambios.jpg
+   :width: 70%
+   :align: center
+
 .. note:: Este proceso se lleva a cabo desde el inicio del proyecto hasta su finalización y es responsabilidad última de la dirección del proyecto.
 
 Las **solicitudes de cambio** pueden impactar el alcance del proyecto y del producto, así como en cualquier componente del plan para la dirección del proyecto o cualquier documento del proyecto. Cualquier parte interesada involucrada en el proyecto puede solicitar cambios, los cuales pueden ocurrir en cualquier momento a lo largo del ciclo de vida del proyecto.
@@ -1754,34 +1665,9 @@ Un documento del proyecto que normalmente se actualiza como resultado de este pr
 
 	Este proceso se lleva a cabo **una única vez 0 en puntos predefinidos del proyecto**.
 
-+------------------------------------------------------------------------------+----------------------------------+---------------------------------------------------------------------+
-| **Entradas**                                                                 | **Herramientas y Técnicas**      | **Salidas**                                                         |
-+------------------------------------------------------------------------------+----------------------------------+---------------------------------------------------------------------+
-|                                                                              |                                  | 1. Actualizaciones a los documentos del proyecto:                   |
-| 1. Acta de constitución del proyecto.2. Plan para la dirección del proyecto: |                                  |                                                                     |
-|                                                                              |                                  |     - Registros de lecciones aprendidas.                            |
-|     - Todos los componentes                                                  |                                  |                                                                     |
-|                                                                              |                                  | 2. Transferencia del producto, servicio o resultado final.          |
-| 3. Documentos del proyecto:                                                  |                                  | 3. Informe final                                                    |
-|                                                                              |                                  | 4. Actualizaciones a los activos de los procesos de la organización |
-|     - Registro de supuestos.                                                 | 1. Juicio de expertos.           |                                                                     |
-|     - Base de las estimaciones.                                              | 2. Análisis de datos:            |                                                                     |
-|     - Registro de cambios                                                    |                                  |                                                                     |
-|     - Registro de incidentes                                                 |     - Análisis de documentación. |                                                                     |
-|     - Lista de hitos                                                         |     - Análisis de regresión.     |                                                                     |
-|     - Comunicaciones del proyecto.                                           |     - Análisis de tendencias.    |                                                                     |
-|     - Mediciones de control de calidad.                                      |     - Análisis de variaciones.   |                                                                     |
-|     - Informes de calidad.                                                   |                                  |                                                                     |
-|     - Documentación de requisitos.                                           | 3. Reuniones                     |                                                                     |
-|     - Registro de riesgos.                                                   |                                  |                                                                     |
-|     - Informe de riesgos.                                                    |                                  |                                                                     |
-|                                                                              |                                  |                                                                     |
-| 4. Entregables aceptados.                                                    |                                  |                                                                     |
-| 5. Documentos de  negocio.                                                   |                                  |                                                                     |
-| 6. Acuerdos.                                                                 |                                  |                                                                     |
-| 7. Documentación de las adquisiciones.                                       |                                  |                                                                     |
-| 8. Activos de los procesos de la organización.                               |                                  |                                                                     |
-+------------------------------------------------------------------------------+----------------------------------+---------------------------------------------------------------------+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.3_grupo_materia_integracion/tabla_cerrar_proyecto.jpg
+   :width: 70%
+   :align: center
 
 8.1. Entradas
 +++++++++++++
@@ -2055,7 +1941,24 @@ Si el proyecto se da por **concluido antes de su terminación**, la **documentac
 - Los **enfoques iterativos y ágiles** promueven el compromiso del personal del equipo como personas expertas locales en la gestión de la integración. Determinan cómo han de integrarse planes y componentes. La dirección del proyecto debe establecer un **entorno colaborativo para la toma de decisiones** y en asegurar que el equipo tenga la capacidad de responder a los cambios.
 - **Cada proceso de gestión de la integración** del proyecto supone ciertas consideraciones a tener en cuenta y se estructura **en entradas, herramientas y técnicas, y salidas.**
 
-10. Actividades
+10. Descargas
+*************
+
+- **Acta constitutiva del projecto**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.3_grupo_materia_integracion/ficheros/acta_constitutiva_proyecto.pdf>`
+- **Acta de constitución Haiti**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.3_grupo_materia_integracion/ficheros/acta_constitucion_haiti.pdf>`
+- **Ejemplo de un acta de constitución de un parque**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.3_grupo_materia_integracion/ficheros/ejemplo_acta_constitucion_parque.pdf>`
+- **Modelo de acta de constitución de proyecto**: :download:`docx <../../_static/1_gestion_integrada_de_proyectos/1.3_grupo_materia_integracion/ficheros/modelo_acta_constitucion_proyecto.docx>`
+- **Plantilla de plan de dirección de un proyecto**: :download:`doc <../../_static/1_gestion_integrada_de_proyectos/1.3_grupo_materia_integracion/ficheros/plantilla_plan_direccion_proyectos.doc>`
+- **Plan de dirección de un proyecto de sistema de información**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.3_grupo_materia_integracion/ficheros/plan_direccion_proyecto_sistema_informacion.pdf>`
+- **Plan de gestión del alcance**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.3_grupo_materia_integracion/ficheros/plan_gestion_alcance.pdf>`
+- **Plan de gestión del alcance 2**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.3_grupo_materia_integracion/ficheros/plan_gestion_alcance_2.pdf>`
+- **Plan de gestión del alcance 3**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.3_grupo_materia_integracion/ficheros/plan_gestion_alcance_3.pdf>`
+- **Enunciado del alcance del proyecto**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.3_grupo_materia_integracion/ficheros/enunciado_alcance_proyecto.pdf>`
+- **Matriz de trabilidad de requisitos**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.3_grupo_materia_integracion/ficheros/matriz_trazabilidad_requisitos.pdf>`
+- **Matriz de trabilidad de requisitos 2**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.3_grupo_materia_integracion/ficheros/matriz_trazabilidad_requisitos_2.pdf>`
+- **Plan de gestión de costes**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.3_grupo_materia_integracion/ficheros/plan_gestion_costes.pdf>`
+
+11. Actividades
 ***************
 
 .. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.3_grupo_materia_integracion/actividades/actividad_1_1.jpg

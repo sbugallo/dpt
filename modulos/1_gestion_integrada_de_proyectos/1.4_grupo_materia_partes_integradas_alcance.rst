@@ -107,31 +107,9 @@ El **propósito de invitar a las partes interesadas** a las reuniones y revision
 
 	Este proceso se lleva a cabo **periódicamente**, según sea necesario.
 
-+---------------------------------------------------+--------------------------------------------+------------------------------------------------------------+
-| **Entradas**                                      | **Herramientas y Técnicas**                | **Salidas**                                                |
-+---------------------------------------------------+--------------------------------------------+------------------------------------------------------------+
-|                                                   |                                            | 1. Registro de interesados.                                |
-| 1. Acta de constitución del proyecto.             |                                            | 2. Solicitudes de cambio.                                  |
-| 2. Documentos del proyecto:                       | 1. Juicio de expertos.                     | 3. Actualizaciones al plan para la dirección del proyecto: |
-|                                                   | 2. Recopilación de datos:                  |                                                            |
-|     - Caso de negocio.                            |                                            |     - Plan de gestión de los requisitos.                   |
-|     - Plan de gestión de beneficios.              |     - Cuestionarios y encuestas.           |     - Plan de gestión de las comunicaciones.               |
-|                                                   |     - Tormenta de ideas.                   |     - Plan de gestión de los riesgos.                      |
-| 3. Plan para la dirección del proyecto:           |                                            |     - Plan de involucramiento de los interesados.          |
-|                                                   | 3. Análisis de datos:                      |                                                            |
-|     - Plan de gestión de las comunicaciones.      |                                            | 4. Actualizaciones a los documentos del proyecto:          |
-|     - Plan de involucramiento de los interesados. |     - Análisis de interesados.             |                                                            |
-|                                                   |     - Análisis de documentos.              |     - Registro de supuestos.                               |
-| 4. Documentos del proyecto:                       |                                            |     - Registro de incidentes.                              |
-|                                                   | 4. Representación de datos:                |     - Registro de riesgos.                                 |
-|     - Registro de cambios.                        |                                            |                                                            |
-|     - Registro de incidentes.                     |     - Mapeo/representación de interesados. |                                                            |
-|     - Documentación de requisitos.                |                                            |                                                            |
-|                                                   | 5. Reuniones                               |                                                            |
-| 5. Acuerdos                                       |                                            |                                                            |
-| 6. Factores ambientales de la empresa.            |                                            |                                                            |
-| 7. Activos de los procesos de la organización.    |                                            |                                                            |
-+---------------------------------------------------+--------------------------------------------+------------------------------------------------------------+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/tabla_identificar_interesados.jpg
+   :width: 75%
+   :align: center
 
 .. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/diagrama_de_flujo.jpg
    :width: 50%
@@ -362,30 +340,9 @@ El **beneficio clave** es que proporciona un plan factible para interactuar de m
 
 Este proceso se lleva a cabo **periódicamente**, según sea necesario.
 
-+------------------------------------------------+--------------------------------------------------------------------+------------------------------------------------+
-| **Entradas**                                   | **Herramientas y Técnicas**                                        | **Salidas**                                    |
-+------------------------------------------------+--------------------------------------------------------------------+------------------------------------------------+
-|                                                | 1. Juicio de expertos.                                             | 1. Plan de involucramiento de los interesados. |
-| 1. Acta de constitución del proyecto.          | 2. Recopilación de datos:                                          |                                                |
-| 2. Plan para la dirección del proyecto:        |                                                                    |                                                |
-|                                                |     - Estudios comparativos                                        |                                                |
-|     - Plan de gestión de los recursos.         |                                                                    |                                                |
-|     - Plan de gestión de las comunicaciones.   | 3. Análisis de datos:                                              |                                                |
-|     - Plan de gestión de riesgos.              |                                                                    |                                                |
-|                                                |     - Análisis de supuestos y restricciones.                       |                                                |
-| 3. Documentos del proyecto:                    |     - Análisis de causa raíz.                                      |                                                |
-|                                                |                                                                    |                                                |
-|     - Registro de supuestos.                   | 4. Toma de decisiones:                                             |                                                |
-|     - Registro de cambios.                     |                                                                    |                                                |
-|     - Registro de incidentes.                  |     - Priorización/clasificación.                                  |                                                |
-|     - Cronograma del proyecto.                 |                                                                    |                                                |
-|     - Registro de riesgos.                     | 5. Representación de datos:                                        |                                                |
-|     - Registro de interesados.                 |                                                                    |                                                |
-|                                                |     - Mapeo mental.                                                |                                                |
-| 4. Acuerdos                                    |     - Matriz de evaluación de la participación de los interesados. |                                                |
-| 5. Factores ambientales de la empresa.         |                                                                    |                                                |
-| 6. Activos de los procesos de la organización. | 6. Reuniones                                                       |                                                |
-+------------------------------------------------+--------------------------------------------------------------------+------------------------------------------------+
+.. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/tabla_gestion_interesados.jpg
+   :width: 75%
+   :align: center
 
 .. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/diagrama_de_flujo_involucramiento.jpg
    :width: 50%
@@ -2046,7 +2003,19 @@ En las **salidas** del proceso de **control del alcance** se pueden encontrar:
 - Los **procesos dentro de la gestión del alcance son 6**: planificar la gestión del alcance, recopilar requisitos, definir el alcance, crear la ED AVBS, validar el alcance y control del alcance.
 
 
-4. Actividades
+4. Descargas
+*************
+
+- **Gestión de los interesados del proyecto**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/ficheros/gestion_interesados.pdf>`
+- **Descripción general de la gestión del alcance del proyecto**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/ficheros/descripcion_gestion_alcance.pdf>`
+- **Plan de gestión de los interesados**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/ficheros/plan_gestion_interesados.pdf>`
+- **Plan de gestión de los interesados 2**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/ficheros/plan_gestion_interesados_2.pdf>`
+- **Modelo de registro de interesados**: :download:`doc <../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/ficheros/modelo_registro_interesados.doc>`
+- **Plan de gestión del alcance del proyecto**: :download:`doc <../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/ficheros/alcance_proyecto.doc>`
+- **Plan de gestión del alcance del proyecto 2**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/ficheros/plan_gestion_alcance.pdf>`
+- **EDT**: :download:`pdf <../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/ficheros/edt.pdf>`
+
+5. Actividades
 **************
 
 .. figure:: ../../_static/1_gestion_integrada_de_proyectos/1.4_grupo_materia_partes_integradas_alcance/actividades/actividad_1_1.jpg
