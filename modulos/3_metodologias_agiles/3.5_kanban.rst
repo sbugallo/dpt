@@ -1,92 +1,715 @@
 3.5 Kanban
 ==========
 
+En la actualidad, la necesidad de producir de manera eficiente, sin causar alteraciones ni retrasos en la entrega de un resultado, se ha convertido en un factor relevante para aquellas empresas que desean permanecer activas en un mercado caracterizado por las respuestas rápidas y el cumplimiento relativo a la calidad, la cantidad y los tiempos de conclusión. 
+
+La metodología Kanban resulta muy útil en los centros de trabajo en los que los equipos y productos dependen de las personas. Soluciona problemas relacionados con demoras en las entregas, carga de trabajo no equilibrada, formación de cuellos de botellas o reparto de multitareas. 
+
+La mayoría de las empresas han implantado o están en proceso de adoptar este sistema (Kanban) porque les permite mejorar su capacidad de respuesta a las demandas del cliente, acortar los tiempos para resolver cambios imprevistos, aprovechar la capacidad de los recursos y equipos y disminuir los desperdicios; logrando así, aumentar la rentabilidad y alcanzar todos los objetivos planteados. 
+
+.. figure:: ../../_static/3_metodologias_agiles/3.5_kanban/mapa_conceptual.jpg
+   :width: 70%
+   :align: center
+
 1. Proyectos de software
 ************************
+
+Con el progreso tecnológico, la innovación y la facilidad para agilizar los procesos operativos diarios del ser humano, el **mercado mundial ha confluido en un incremento** considerable del desarrollo de proyectos de software. 
+
+Gran cantidad de **empresas han difundido internacionalmente su nombre**, gracias al éxito de sus sistemas informáticos que contribuyen a contrarrestar la competencia de otras importantes compañías mundiales. 
 
 1.1. Concepto
 +++++++++++++
 
+Como argumenta el autor Pressman, "El **software de computadora** se ha convertido en el alma mater (...). Es la máquina que conduce a la toma de decisiones comerciales. Sirve de base para la investigación científica moderna y de resolución de problemas de ingeniería. Es el factor clave que diferencia los productos y servicios modernos. Está inmerso en sistemas de todo tipo: de transportes, médicos, de telecomunicaciones, militares, procesos industriales, entretenimientos, productos de oficina..., la lista es casi interminable (...)". 
+
+.. note:: Un **proyecto software** se define como un conjunto de acciones plan'ficadas, no repetitivas, de duración determinada, formalmente organizadas, utilizando unos determinados recursos, y que requieren de un control durante su ejecución, con el objetivo de obtener unos resultados técnicos (en costes y en plazos) y sin olvidar la necesidad de proporcionar la máxima satisfacción al cliente. 
+
+Las fases en el desarrollo de un proyecto de software son: 
+
+1. **Investigar los requisitos de los usuarios**: Requiere que el desarrollador se convierta en un especialista en el entorno del beneficiario para ayudarlo y guiarlo en la definición de sus exigencias. 
+2. **Definir claramente las características necesarias para el sistema**: Consiste en la especificación de requisitos, recogiendo de forma exacta cuál es la actuación solicitada. 
+3. **Crear o adaptar una solución adecuada al problema**: Ejecución del proyecto que busca desarrollar una respuesta que atienda a los requisitos, en base a la experiencia acumulada. Se necesita innovar en cierto nivel, generando varias alternativas posibles y proponiendo alguna métrica para seleccionar una de ellas. 
+4. **Desarrollar la solución propuesta**: Se implementa la aplicación. Es el momento de escribir el código, documentarlo y prepararlo para ser testado, corregir cualquier error que se detecte, y enviar informaciones al proyectista, analista, testador y/o integrador. 
+5. **Garantizar que la solución responde al problema originalmente propuesto y que esta funciona correctamente en el contexto a ser ejecutada**: Es la etapa de la integración, en la cual, se llevan a cabo diferentes pruebas. 
+6. **Modificar las soluciones de trabajo cuando nuevos requisitos son presentados e identificados**: Es la fase del mantenimiento. Las necesidades de los usuarios evolucionan y varían a lo largo del tiempo y, por más exhaustivos hayan sido los test, estos pueden no descubrir todos los problemas antes de la entrega del software. Los cambios en los requerimientos pueden originar nuevos análisis, implementaciones y pruebas extras o trabajo adicional en el proyecto. 
+
+En el desarrollo de un proyecto de software, tienen lugar alguno de estos **estados**: 
+
+- **Successful**: Se finaliza a tiempo y dentro del presupuesto, con todas las características y funciones. 
+- **Challenged**: Se completa y es operacional, pero con un incremento del presupuesto y del tiempo estimado y con solo ciertas características y funciones de las formuladas al comienzo. 
+- **Failed**: Es cancelado antes de completarse.
+
 1.2. Dificultades
 +++++++++++++++++
+
+Aunque las **inversiones en el desarrollo de proyectos software** no han cesado de aumentar, el número de fracasos en su ejecución no ha descendido Io suficiente. 
+
+.. note:: El **desarrollo de proyectos software** continúa enfrentándose a dificultades como el exceso de costes respecto a los inicialmente estimados, incumplimiento de plazos de entrega o insatisfacción de los clientes. 
+
+Para **solucionar las limitaciones** que se producen en la realización de proyectos de software, se han llevado a cabo determinadas **estrategias orientadas a las 3 P's**: 
+
+- **Product**: Se intenta mejorar el nivel de la calidad del producto entregable mediante modelos, documentos, código, etc. Un ejemplo, fue la utilización del Lenguaje Unificado de Modelado (UML). 
+- **Proceso**: Proceso de desarrollo Mediante la adopción de modelos de ciclo de desarrollo, modelos de calidad y de estimación, que implican el aprendizaje de técnicas de gestión por parte de los administradores de los proyectos. Se usaron tecnologías como la de Capability Mature Model. 
+- **Personal**: Se intenta implementar un modelo de equipo de trabajo que permita manejar la complejidad del sistema a ejecutar. Citar, las actuaciones relacionadas con la organización, el liderazgo y la motivación y herramientas como el Team o Personal Software Process. 
+
+Se han efectuado diferentes aportaciones y mejoras orientadas al producto, al proceso o al personal. Pero, cada uno de estos enfoques, denominados las 3 P's, han tenido un éxito parcial y relativo en el desarrollo de software. 
 
 1.3. Éxito
 ++++++++++
 
+.. note:: El **éxito** de los proyectos software depende de la sincronización que se pueda tener entre diferentes aspectos: humanos, técnicos, económicos, tiempo y alcance. 
+
+Un proyecto de software bien ejecutado cumple con los siguientes **objetivos del producto**: 
+
+- Máxima satisfacción de usuarios.
+- Alta correctitud. 
+- Defectos mínimos.
+- Buena extensibilidad. 
+- Tiempo de respuesta mínimo. 
+- Robustez. 
+- Buena mantenibilidad. 
+
+Sin considerar el tamaño del proyecto software, su alcance o duración, existen **cinco indicadores de satisfacción del cliente**: 
+
+- Proveer el producto en el espacio de tiempo acordado. 
+- Ofrecer una calidad en concordancia con el precio. 
+- Entregar el producto que el cliente desea o necesita. 
+- Contar con un sistema de soporte o resolución de conflictos. 
+- Proporcionar el nivel de retroalimentación que el usuario demanda. 
+
+Cuestiones esenciales para alcanzar una **administración eficiente de proyectos software**: 
+
+- Iniciar un proyecto con un objetivo bien definido. 
+- Invertir tiempo en la planificación. 
+- Involucrar al equipo de trabajo en la planificación y el control. 
+- Establecer las líneas de base antes de la ejecución. 
+- Fomentar la cohesión del grupo de trabajo. 
+- Mantener claro el objetivo principal del proyecto.
+- Establecer un proceso para monitorear y controlar. 
+- Prevenir problemas. 
+- Atender los puntos críticos, primeramente. 
+- Destinar el tiempo necesario para cerrar el proyecto. 
+
 1.4. Factor Humano
 ++++++++++++++++++
+
+.. note:: Un **proyecto de software** se lleva a cabo por un equipo humano, constituido fundamentalmente por los jefes de proyecto, indagadores de requerimientos, desarrolladores y analistas de pruebas. 
+
+Para afrontar los retos que supone la creación de software, el **grupo de profesionales tiene que poseer estas características**: 
+
+- Buena relación 
+- Liderazgo 
+- Experiencia 
+- Motivación 
+- Trabajo en equipo
+- Disponibilidad 
+- Skills (habilidades y destrezas) 
+
+Podría considerarse que **si una de estas cualidades falla o está ausente** dentro del equipo de trabajo, **se producen las siguientes situaciones**: 
+
+- Pobre estructura organizacional. 
+- Falta de liderazgo. 
+- Carencia de apoyo a nivel gerencial. 
+- Escasez de esfuerzo. 
+- Choques de personalidades. 
+- Uso inefectivo de métodos de desarrollo de software. 
+- Procesos de negocio y de asignación de recursos inapropiados. 
+- Gestión de proyectos improcedente. 
+- Herramientas de seguimiento inadecuadas. 
+
+Los **proyectos software** son muy **distintos** a otros **proyectos de ingeniería** caracterizados por emplear materiales físicos. En estos últimos, el coste de los materiales puede llegar al 50% o más del coste total del proyecto, pero en un proyecto típico de software, los costes de mano de obra suponen casi al 100% del gasto total. 
+
+Como el **gasto en recursos humanos** constituye la **mayor parte del total de los costes** del ciclo de vida del software, estos proyectos necesitan enfocarse más que otros, en optimizar los objetivos relacionados con la ejecución por parte del grupo de profesionales. Tienen que lograr los siguientes **propósitos**: 
+
+- Calendario corto. 
+- Fecha de entrega predecible. 
+- Bajo coste. 
+- Equipo pequeño. 
+- Flexibilidad ante requisitos modificados. 
+
+Algunos proyectos necesitan producir un software con un nivel de perfección supremo, es el caso del software para los equipos médicos, la aviación o los viajes espaciales. Otros proyectos, precisan entregar su software con una fiabilidad correcta, pero con un calendario corto y un bajo coste. 
 
 2. Principios y tableros
 ************************
 
+**Kanban** consiste una aproximación a la gestión del cambio, un acercamiento a la introducción de modificaciones en el ciclo de vida de desarrollo de software o en la metodología de gestión de proyectos ya existente. 
+
+Es una metodología ágil que tiene como **objetivo administrar** de manera general cómo se van completando las **tareas**. 
+
 2.1. Sistema Kanban
 +++++++++++++++++++
+
+El **sistema tradicional de producción** se denomina **Push**. En este sistema, los procesos de producción se programan y los materiales necesarios para la obtención del producto final se ordenan y se fabrican con el fin de crear un stock (existencias) basado en la previsión de la demanda. Los procesos van empujando a los siguientes procesos a producir. Su principal desventaja es la fabricación de grandes cantidades, lo que conlleva un coste elevado del stock en curso. 
+
+Gráfico del **sistema tradicional de producción Push**: 
+
+
+.. figure:: ../../_static/3_metodologias_agiles/3.5_kanban/produccion_push.jpg
+   :width: 70%
+   :align: center
 
 2.1.1. Pull
 -----------
 
+Para la implementación del sistema Kanban es necesario que la empresa tenga **aplicado un sistema de control de producción tipo Pull**. Este sistema planifica la producción de solo lo que se le enviará al cliente. Significa producir en función de la demanda; todo lo que se produzca fuera de la planificación se considerará sobreproducción y será una fuente de desperdicio importante para la entidad. 
+
+Gráfico del **sistema de control de producción Pull**: 
+
+.. figure:: ../../_static/3_metodologias_agiles/3.5_kanban/produccion_pull.jpg
+   :width: 70%
+   :align: center
+
 2.1.2. Misión del sistema Kanban
 --------------------------------
+
+Una **cadena de suministro** o producción está formada por una serie de centros de trabajo que están conectados entre sí y por los que el flujo de información y materiales circula desde el inicio hasta el fin. Cada uno de estos centros está constituido por equipos que pueden ser máquinas y/o operarios que trabajan en paralelo y efectúan las actividades asignadas. 
+
+.. note:: La **misión del sistema Kanban** es el control de los materiales para conseguir que el inventario de producto semiterminado recorra toda la cadena de suministro de una empresa desde el cliente hasta los proveedores. Cada proceso que tiene lugar en esta cadena debe producir en función de la necesidad de productos y hacer reposición de las unidades consumidas. 
 
 2.1.3. Datos que aporta el sistema Kanban
 -----------------------------------------
 
+Kanban consiste en un sistema de señales visuales de control de producción que mantiene activo el proceso de reabastecimiento. Para mandar la señal de reabastecimiento existen una amplia variedad de métodos, desde tarjetas o tableros, señales visuales o electrónicas. 
+
+El sistema Kanban proporciona a los miembros del equipo y a las partes interesadas visibilidad sobre los efectos de sus acciones (o falta de acción). Proporciona datos sobre aquellos aspectos que impactan al rendimiento de la organización en términos de la cantidad de trabajo entregado y el ciclo de tiempo requerido para finalizarlo. 
+
+Kanban, ofrece información relativa a: 
+
+- Cuellos de botella. 
+- Colas. 
+- Variabilidad. 
+- Desperdicios.
+
+Un diseño adecuado del sistema Kanban es esencial para la gestión y control de la producción. Este, permite generar las cantidades necesarias en el momento requerido, reducir inventario y eliminar actividades que no aportan valor en la cadena de suministro; reduciendo así, los elevados costes de producción. 
+
+
 2.1.4. Reglas
 -------------
+
+La metodología Kanban está fundamentada en **seis reglas**: 
+
+- Evitar especulaciones. 
+- Estabilizar y racionalizar el proceso. 
+- Balancear (equilibrar) la producción. 
+- El producto defectuoso no debe pasar a los procesos que siguen. 
+- Los procesos posteriores solicitarán únicamente lo que es necesario. 
+- Producir solo la cantidad exacta requerida por el proceso siguiente. 
 
 2.1.5. Objetivos
 ----------------
 
+Los **objetivos** que se pretenden alcanzar con el sistema Kanban son:
+
+- Establecer una programación en la que se pueda visualizar la producción. 
+- Vigilar el flujo de material. 
+- Minimizar el producto en proceso. 
+- Evitar la sobreproducción. 
+- Controlar los inventarios. 
+- Incrementar y mejorar la comunicación entre procesos y centros de trabajo. 
+- Impulsar el mantenimiento de los procesos estandarizados.
+
 2.1.6. Implementación
 ---------------------
+
+Para la implementación correcta del sistema Kanban será preciso efectuar una serie de pasos: 
+
+1. **Iniciación**: Formar a todo el equipo de trabajo en la metodología Kanban y tomar conciencia de los beneficios y ventajas que presenta este sistema. 
+2. **Orientación**: Analizar los centros de trabajo con más dificultades para detectar posibles anomalías que se desconocían e implementar Kanban en estos. Al principio, no es necesario llevar a cabo esta práctica en todos los procesos de la cadena. 
+3. **Clarificación**: Aplicar Kanban en el resto de los centros de trabajo. El operario perteneciente a un determinado centro de trabajo será la fuente de información más importante, podrá aportar ideas y opiniones para mejorar el sistema. 
+4. **Integración**: Mantenimiento y revisión continua del sistema Kanban. 
 
 2.2. Principios de Kanban
 +++++++++++++++++++++++++
 
+La metodología Kanban parte de dos premisas: 
+
+- **Justo a tiempo (just in time o JIT)**: Filosofía de gestión de operaciones que propone un sistema que produce solo lo requerido, en el momento necesario, con la calidad especificada y sin desperdiciar los recursos disponibles. 
+- **Trabajo en curso (work in progress o WIP)**: Este debería limitarse y solo deberíamos empezar algo nuevo, cuando un bloque de trabajo anterior, ya ha sido entregado o se ha derivado a otra función posterior de la cadena de producción. 
+
+**Los principios que se promueven en Kanban son**: 
+
+- **Calidad perfecta a la primera**: todo lo que se hace debe de hacerse bien. Supone más tiempo realizar algo rápido y tener que arreglarlo después, que hacerlo correctamente desde un principio. 
+- **Minimización del despilfarro**: efectuando lo justo y necesario, sin retrasarse con otras tareas secundarias o innecesarias (principio YAGNI). 
+- **Mejora continua**: perfeccionando constantemente los desarrollos, teniendo en cuenta los objetivos a alcanzar. 
+- **Flexibilidad**: se deciden las actividades a realizar conforme a las tareas pendientes. Los trabajos entrantes se pueden priorizar y condicionar en función de necesidades puntuales. 
+- **Construcción y mantenimiento de una relación a largo plazo con proveedores**. 
+
+Las **prácticas del método Kanban se sostienen en las siguientes capacidades** por parte de los miembros del equipo de trabajo: 
+
+- Honestidad 
+- Comunicación 
+- Confianza 
+- Coraje 
+- Respeto 
+
+Se propone que estas cualidades (honestidad, comunicación, confianza, etc.) vayan surgiendo de manera natural y sin resistencia por parte del equipo. Logrando de este modo, un cambio positivo en el trabajo de cada uno de los miembros y una mejora en la satisfacción del cliente. 
+
 2.3. El tablero
 +++++++++++++++
+
+.. note:: El **método Kanban** está orientado a dar visibilidad al flujo de trabajo. Para ello, utiliza técnicas visuales que permiten comprobar la situación de cada tarea. La herramienta que más se ha utilizado es un tablero, al que se le incorporan pequeñas hojas de papel (pósit) para 'indicar el estado en el que se encuentran las actividades a realizar. 
+
+Gráfico de un **tablero Kanban está formado por**: 
+
+.. figure:: ../../_static/3_metodologias_agiles/3.5_kanban/tablero.jpg
+   :width: 70%
+   :align: center
+
+El término japonés Kanban se compone de la palabra kan que hace referencia a algo visual y de ban que significa tarjeta. Su traducción sería tarjetas visuales. 
 
 2.3.1. Acciones que permite
 ---------------------------
 
+El **uso de un tablero Kanban permite las siguientes acciones**: 
+
+- **Medir el tiempo** en completar una tarea. 
+- **Visualizar el trabajo y las fases** del ciclo de producción o flujo de trabajo (workflow). 
+- **Determinar el trabajo en curso** (work in progress o WIP). 
+
+El empleo de un tablero Kanban brinda la posibilidad de explicitar las políticas de procesos de la organización y de usar modelos para evaluar oportunidades de mejora. 
+
 2.3.2. Características relevantes
 ---------------------------------
+
+.. note:: Una de las **características más relevantes de la metodología Kanban es la exposición** de las distintas tareas que componen el proyecto en un tablero (tablero Kanban). 
+
+Cada tarea se presentará en una tarjeta que se colocará en el tablero en función del estado en el que se encuentre. El tablero está dividido en columnas que se corresponden con la situación de la actividad; el número y denominación de estas, se puede modificar en función del flujo de trabajo de la empresa. Lo más habitual, es que las **columnas** sean: **Por hacer, Realizando y Realizadas**. 
+
+Con esta **presentación visual se consiguen** estos **objetivos**: 
+
+- El flujo de trabajo está bien definido. 
+- Cada miembro del equipo tendrá claro qué tareas tiene que realizar. 
+- Todo el equipo conoce el estado de las actividades que componen el proyecto. 
+- Aseguramos que el proceso se completa, que no se quedan tareas pendientes. 
 
 2.3.3. Principios básicos
 -------------------------
 
+.. note:: Uno de los **principios básicos de la metodología Kanban** es establecer el límite de tareas en progreso (work In progress o WIP). Se determina el número de actividades que el equipo puede tener en el estado de desarrollo, consiguiendo de esta manera, que los miembros del grupo se centren en terminar estas, antes de pasar a otras con carácter adicional. 
+
+Se puede decidir si la aplicación del work in progress es estricta o flexible, siempre y cuando el equipo en su conjunto acuerde las condiciones para poder sobrepasar el WIP. Para **obtener un valor de WIP**: 
+
+- **Inicial**: tener en cuenta conceptos como el número de personas del equipo y el grado de colaboración entre ellas. 
+- **Posterior**: adaptando el valor inicial en función de la experiencia y conocimiento del grupo de trabajo. 
+
 2.3.4. Tareas en progreso
 -------------------------
+
+En la **concreción del número de tareas en progreso** es recomendable considerar que: 
+
+- **Valores altos del WIP**: Existe la posibilidad de que se queden tareas sin realizar. Al haber tareas disponibles donde elegir, se tiende a dejar para el final, aquellas consideradas más difíciles o que no agradan tanto. 
+- **Valores bajos del WIP**: Puede darse el caso de que algunos miembros del equipo se queden sin actividades que ejecutar. Para fijar un WIP pequeño, es preciso considerar si se produce un alto grado de colaboración en el grupo para así, garantizar el aprovechamiento de los recursos disponibles. 
 
 2.3.5. Tiempos de ejecución
 ---------------------------
 
+.. note:: Otra **prestación que nos ofrece Kanban** es la de poder medir el tiempo destinado a completar cada tarea del proyecto. 
+
+Refiriéndonos **al tiempo que ocupa la ejecución** de una determinada tarea, podemos distinguir dos **tipos de valores**: 
+
+- **Lead time**: es el tiempo que se tarda en terminar la tarea, contabilizado desde que se recibe la petición hasta que se hace la entrega de la misma. 
+- **Cycle time**: espacio temporal que se inicia cuando el equipo empieza a trabajar en una determinada tarea y concluye en el momento en que se finaliza dicha actividad. 
+
+.. figure:: ../../_static/3_metodologias_agiles/3.5_kanban/tiempos.jpg
+   :width: 40%
+   :align: center
+
 2.3.6. Análisis de valores
 --------------------------
+
+**Analizando los valores lead/cicle time** se puede optimizar el flujo de trabajo: 
+
+- **Cycle time subiendo**: el grupo está desmotivado, existen bloqueos en el trabajo o la actividad se ha hecho más compleja. 
+- **Cycle time bajando**: el equipo mejora y el proceso es más fluido. 
+- **Lead time subiendo**: se hacen muchos pedidos o el grupo está subdimensionado. 
+- **Lead time bajando**: no se hacen nuevos pedidos, el equipo mejora o está sobredimensionado. 
 
 2.3.7. Tablero Kanban físico
 ----------------------------
 
+.. note:: El **tablero Kanban físico** consiste en una pizarra con tarjetas pegadas que tienen un significado compartido por los miembros del equipo de un proyecto. Cada parte del tablero (sintaxis) tiene su propio sentido (semántica) y se utiliza basándose en una serie de gestos (normas) soportados por el tablero y consensuados por el grupo. 
+
+Las **posibilidades y limitaciones de los tableros físicos Kanban son**: 
+
+- **Posibilidades**: 
+
+	- Facilidad de manejo. 
+	- Flexibilidad. 
+	- Visibilidad. 
+	- Concurrencia de múltiples usuarios. 
+
+- **Limitaciones**: 
+
+	- Portabilidad. 
+	- Dificultad para generar reportes (en general). 
+	- Incapacidad para generar reportes digitales. 
+	- Persistencia de la información. 
+	- Historia. 
+	- Cálculo de métricas relevantes. 
+
+Las **características** de un posible **tablero físico Kanban** son: 
+
+- **Sintaxis**: 10 columnas, 8 filas, tarjetas del mismo tipo, texto en las tarjetas pegadas. 
+- **Semántica**: Cada columna representa un estado, las tarjetas (kanbans) son de distintos colores, los títulos de las filas y columnas son etiquetas con un tipo de letra específico. 
+- **Gestos**: Agregar, eliminar y modificar kanbans, filas y columnas. Se pueden mover kanbans entre columnas, no entre filas. Cada actividad parte con una fila asignada. Se puede agregar, eliminar y modificar la información en cualquiera de los campos existentes. 
+
 2.3.8. Tablero Kanban virtual
 -----------------------------
+
+.. note:: El **tablero Kanban virtual** surge de la necesidad de modernizar un sistema de administración que resultaba ya muy sencillo (tablero físico) y así poder, coordinar equipos que no trabajan juntos, hacer mediciones sobre datos contenidos, acceder a la información desde cualquier lugar u obtener la historia de un proyecto. 
+
+Los tableros Kanban virtuales pretenden **solucionar las desventajas de los tableros físicos**, pero dependiendo de la herramienta seleccionada, **poseen sus propias limitaciones**: 
+
+- Las herramientas disponibles para tableros virtuales **imponen una semántica** y definen una sintaxis, evitando que se puedan realizar las personalizaciones, que si se pueden efectuar en un tablero físico. 
+- Algunos de los sistemas de tableros Kanban **no permiten todas las posibles combinaciones de movimientos** más utilizadas en los físicos como, por ejemplo, atributos en las tarjetas o ubicación personalizada de partes y componentes del tablero. 
 
 3. Kanban aplicado a proyectos de mantenimiento
 ***********************************************
 
-3.1. Actividades de mantemiento de software
-+++++++++++++++++++++++++++++++++++++++++++
+Kanban ha demostrado ser útil en equipos que realizan **desarrollo ágil de software**. Su uso es adecuado en aquellos centros de trabajo en los que los productos y equipos dependen de las personas. Se está introduciendo para transformar la cultura de las organizaciones y solucionar retrasos en las entregas, carga de trabajo no equilibrada, cuellos de botellas o reparto de multitareas. 
+
+
+La mayoría de las empresas han implantado o están en proceso de adoptar el sistema Kanban porque este, les **permite**:
+
+- Alcanzar los objetivos definidos. 
+- Mejorar su capacidad de respuesta a la demanda del cliente.
+- Mayor rapidez de respuesta ante cambios imprevistos. 
+- Reducir las esperas. 
+- Aprovechar la capacidad de los recursos y equipos. 
+- Disminuir los desperdicios hasta llegar a eliminarnos. 
+- Aumentar la rentabilidad. 
+
+3.1. Actividades de mantenimiento de software
++++++++++++++++++++++++++++++++++++++++++++++
+
+.. note:: Dentro de la Ingeniería del software, el **mantenimiento de software** es la modificación de un producto después de la entrega para corregir errores, mejorar su rendimiento o modificar/implementar requisitos. 
+
+Las **actividades de mantenimiento de software** pueden ser de tipo: 
+
+- **Adaptable**: modificaciones en el sistema del software con el fin de responder al entorno. 
+- **Perfectivo**: implementar o cambiar requerimientos para mejorar la funcionalidad del software. 
+- **Correctivo**: diagnosticar y subsanar errores. 
+- **Preventivo**: aumentar la fiabilidad del software para evitar posibles problemas en el futuro.
+
+La **etapa de mantenimiento de software requiere** de las siguientes actuaciones:
+
+- Gran comunicación con el cliente/usuario. 
+- Flexibilidad en el proceso para incorporar los cambios solicitados. 
+- Rapidez para obtener resultados. 
+
+Kanban se adecúa bien a las actividades de mantenimiento de software y, además, ofrece la posibilidad de tener una visión del flujo de trabajo y del estado de cada tarea. La aplicación de la metodología Kanban en cada una de las **actividades demandadas en la fase de mantenimiento son**: 
+
+- **Comunicación**: Comunicación con el usuario: el interesado, que ya está utilizando el software, informa de un fallo o de la necesidad de incorporar una nueva funcionalidad. Esta nueva prestación es trasladada al tablero Kanban para que sea atendida por el equipo. 
+- **Incorporación**: Incorporación de cambios: cuando se identifiquen modificaciones necesarias se registrarán en el tablero mediante una tarjeta con las tareas a realizar para resolver la solicitud. 
+- **Resultados**: Resultados: debido a que las tareas se incorporan al flujo de trabajo normal, no se producirá una demora en la constatación de las soluciones por parte del usuario. 
+
+.. note:: Al **aplicar Kanban** en proyectos de mantenimiento de software es primordial determinar el trabajo en progreso (work in progress). Con el WIP, se limita el número de tarjetas que puede haber en el estado de desarrollo; y ajustando este valor, se consigue un buen ritmo de trabajo entregado y se fomenta la calidad y el rendimiento. 
+
+Obteniendo un **flujo continuo** de trabajo y una buena **calidad** en el producto desarrollado, se logra establecer una cadencia de entrega, que ofrece confianza a los usuarios y al resto de integrantes de la empresa. 
+
+Con Kanban, se logra una **mejora continua** en los proyectos de mantenimiento de software y un alto grado de colaboración entre los miembros de la organización. 
 
 3.2. El árbol de alto rendimiento
 +++++++++++++++++++++++++++++++++
 
+.. note:: La autora Adkins, L. en su obra Coanching Agile Teams plantea el **árbol de alto rendimiento** (The high performance tree), una metáfora que compara la constitución de un equipo diferenciado por su excelente desempeño con el crecimiento de un árbol. 
+
+El **desarrollo de un equipo de alto rendimiento**, como si de un árbol se tratase, demanda tiempo, cuidados y dedicación constante para que crezca, madure y dé sus frutos. Las raíces del árbol son los valores que sustentan al equipo, las hojas constituyen los buenos comportamientos y los frutos son los resultados que se van a obtener. 
+
+- **Características del equipo**:
+
+	- Autoorganización. 
+	- Empoderamiento. 
+	- Buscan consenso. 
+	- Puede resolver cualquier problema. 
+	- Dueño de sus decisiones y compromisos. 
+	- Confianza . 
+	- Desacuerdo constructivo. 
+	- Equipo exitoso. 
+
+- **Frutos**:
+
+	- Espacio para crecimiento individual y de equipo. 
+	- Equipo que puede hacer cualquier cosa. 
+	- Lograr resultados extraordinarios. 
+	- Obtener valor de negocio adecuado. 
+	- Obtener valor de negocio más rápido. 
+
+- **Valores**
+
+Continuando con la analogía del árbol de alto rendimiento, **la metodología Kanban ofrece las bases (raíces)** para que un proyecto de mantenimiento de software se ejecute de manera óptima. 
+
+Según Kanban, las **raíces que alimentan un proyecto son**: 
+
+- Visualización y transparencia. 
+- Limitar el trabajo a la capacidad del equipo. 
+- Mejora continua. 
+- Entregas frecuentes. 
+- Priorización en función del valor. 
+
+La **instauración de las bases de Kanban** en el desarrollo de un proyecto de mantenimiento software, aporta los siguientes **beneficios concatenados**: 
+
+- Se fomenta la **honestidad y comunicación** hasta el punto de crear confianza. 
+- La **confianza** deriva en respeto entre los miembros del grupo. 
+- Cada una de las partes tiene, ahora, el **coraje** suficiente para afrontar el cambio. 
+- Emerge la **autoorganización** y el desarrollo de las fases del proyecto es óptimo. 
+- Surge la **comunicación**, sin ningún tipo de restricción, entre el cliente y los miembros del equipo. 
+
 4. Diferencias con Scrum
 ************************
+
+Kanban y Scrum son dos herramientas de proceso que nos **asisten para trabajar más eficazmente**. 
+
+**Scrum**, es también una metodología ágil orientada a adoptar una estrategia de desarrollo incremental, en lugar de una planificación completa del producto; pero resulta más restrictivo que Kanban al dejar menos opciones abiertas. 
+
+
+El término Scrum proviene del Rugby. Se denomina así, a una estrategia empleada en este deporte, consistente en que todos los integrantes del equipo actúan juntos para avanzar con la pelota y ganar posiciones en el campo de juego. 
 
 4.1. Scrum
 ++++++++++
 
+.. note:: Se puede entender **Scrum** como un tipo de Ingeniería social que pretende lograr la satisfacción de todos los que participan en el desarrollo de un proyecto, fomentando la cooperación y cohesión grupal a través de la autoorganización. Su finalidad es que los miembros del equipo trabajen juntos y de forma eficiente para obtener productos complejos y de calidad. 
+
+La **planificación en Scrum se realiza del siguiente modo**: 
+
+- División de la organización en equipos pequeños, interdisciplinarios y autoorganizados. 
+- Fragmentación del trabajo en una lista de entregables pequeños y concretos.Ordenación de esta, estableciendo prioridades y estimando el esfuerzo destinado a cada elemento. 
+- Distribución del tiempo en iteraciones cortas de longitud fija (entre una y cuatro semanas), con un código potencialmente entregable y demostrado después de cada iteración. 
+- Optimización del plan de entregas y actualización de las prioridades en colaboración con el cliente, basándose en los conocimientos adquiridos mediante la inspección del producto después de cada iteración. 
+- Perfeccionamiento del proceso, valiéndose de las retrospectivas de cada iteración.
+
 4.2. Kanban VS Scrum
 ++++++++++++++++++++
 
+Las herramientas Kanban y Scrum son **similares** en estos aspectos: 
+
+- Pertenecen a las metodologías lean y ágiles. 
+- Establecen límites WIP.
+- Su objetivo prioritario es la entrega temprana y frecuente de software. 
+- Emplean sistemas de planificación tipo pull. 
+- Necesitan dividir el trabajo en partes. 
+- Recurren a la visibilidad del proceso como base para la mejora. 
+- Trabajan con equipos autoorganizados. 
+- Revisan y perfeccionan continuamente el plan del producto con datos empíricos. 
+
+**Scrum y Kanban difieren en las siguientes cuestiones**: 
+
+- **Roles**
+	**Scrum prescribe principalmente tres roles**: 
+
+	- Dueño de producto (establece la visión del producto y las prioridades).
+	- Equipo (implementa el producto). 
+	- Scrum Master (elimina los impedimentos y proporciona liderazgo en el proceso). 
+
+	**Kanban no establece ningún rol**. Tabla comparativa 
+
+- **Iteracciones**:
+	**Scrum se basa en iteraciones de tiempo fijo**. Se puede elegir su duración, pero se debe mantener la misma longitud durante un período de tiempo, estableciendo así una cadencia. En una iteración de Scrum se combina la planificación, la mejora de procesos y la entrega. 
+
+	En **Kanban no se prescriben iteraciones de tiempo fijo**. Se puede escoger el momento de efectuar la planificación, la mejora de procesos y la entrega. 
+
+- **Límite de tareas en progreso**: 
+	Scrum y Kanban **limitan el work in progress**, pero de diferentes maneras. 
+
+	**Scrum limita el WIP por iteración** Los equipos de Scrum suelen medir la velocidad, referida a cuántos elementos/unidades se realizan por iteración. 
+
+	**Kanban limita el WIP por estado en flujo de trabajo**. 
+
+- **Cambios**: 
+	**Scrum se resiste a los cambios durante la iteración**. Si un equipo Scrum se compromete a A+B+C+D en un sprint y se añade posteriormente E como prioritario, se incorpora este último, a la pila de producto para ser atendido en el siguiente sprint. 
+
+	En **Kanban se agrega libremente** E a la columna Pendiente, pero si hay un límite de dos tareas en esta columna, se tendrá que retirar Co D. Se está trabajando en Ay B y, en cuanto 
+
+- **Tablero**:
+	**El tablero sprint se limpia entre iteraciones**. 
+
+	En **Kanban**, el tablero normalmente **es algo persistente**. No es necesario limpiarlo, para volver a empezar. 
+
+- **Equipos multifuncionales**:
+	**Scrum prescribe equipos multifuncionales** que posean los conocimientos necesarios para completar todos los elementos de la iteración. Cualquier interesado puede visualizar un tablero Scrum, pero sólo su equipo Scrum tiene la potestad de editarlo. 
+
+	En **Kanban los equipos multifuncionales son opcionales**. El tablero está relacionado con un flujo de trabajo, no necesariamente con un grupo de trabajo, por lo que no requiere estar en manos de un equipo específico. 
+
+- **Tamaño de los elementos**: 
+	Los **elementos de la pila de producto deben caber en un sprint**. Si un elemento es demasiado grande, el equipo y el propietario del entregable lo fragmentarán en pedazos más pequeños para que se pueda abordar en un sprint. 
+
+	Los **equipos de Kanban minimizan el tiempo de entrega y el nivel de flujo**, generándose así, un aliciente para descomponer los elementos en pedazos relativamente pequeños. 
+
+- **Estimación y velocidad**: 
+	**Scrum prescribe la estimación y la velocidad**. Los equipos tienen que estimar la cantidad de trabajo de cada elemento (tamaño relativo) al que se comprometen. Sumando el tamaño de cada elemento completado al final de cada sprint, obtenemos la velocidad. 
+
+	En **Kanban no se establece la estimación**. Si se requiere un compromiso es preciso decidir la forma de garantizar esa previsibilidad. 
+
+- **Priorización**: 
+	**Scrum determina una pila de producto priorizada**.En Scrum, la priorización se hace siempre ordenando la pila de producto y los cambios en las prioridades tienen efecto en el siguiente sprint. 
+
+	En **Kanban se puede elegir cualquier esquema de priorización** (incluso ninguno) y los cambios se producen, en cuanto la capacidad esté disponible. 
+
+- **Reuniones**: 
+	**En Scrum se establecen reuniones diarias**. Un equipo Scrum tiene una reunión corta (de unos quince minutos) cada día, en el mismo lugar y a la misma hora. Su finalidad, es compartir información sobre lo que está sucediendo, planificar la jornada de trabajo e identificar cualquier incidente significativo. 
+
+	Las **reuniones diarias no se plantean en Kanban**, pero la mayoría de los equipos las efectúan de todos modos. 
+
+- **Gráficos Burndown**: 
+	**En Scrum se usan diagramas de Burndown**. Este gráfico representa, diariamente, la cantidad de trabajo restante en la iteración actual. 
+
+	En **Kanban no se prescriben gráficos Burndown**. Pero sí se permite usar cualquier tipo de gráfico que se estime conveniente. 
+
+.. figure:: ../../_static/3_metodologias_agiles/3.5_kanban/scrum_vs_kanban.jpg
+   :width: 70%
+   :align: center
+
 4.3. Scrumban
 +++++++++++++
+
+.. note:: Las **semejanzas entre las metodologías Scrum y Kanban** son más importantes que las diferencias. Factor que permitió el nacimiento Scrumban, una metodología híbrida asentada en aplicar Io mejor de Scrum y de Kanban; contempla componentes y conceptos de ambas que se complementan entre sí, para lograr una mayor optimización del proceso de desarrollo. 
+
+El **Scrumban adopta las siguientes características del**: 
+
+- **Scrum**:
+
+	- **Roles**: clientes, equipo o Scrum Master (con los perfiles que se necesiten). 
+	- **Reuniones**: una reunión diaria. 
+	- **Herramientas**: la pizarra Scrum. 
+
+- **Kanban**:
+
+	- Flujo visual. 
+	- Realizar lo necesario, cuando sea preciso y sólo en la cantidad requerida. 
+	- Limitar la cantidad de trabajo, a través del denominado work in process. 
+	- Optimización del proceso.
+
+
+En la actualidad, muchas entidades definen a Scrumban como un enfoque avanzado y orientado a la mejora del proceso de desarrollo, porque permite adoptar una combinación de reglas que ambas metodologías (Scrum y Kanban) por separado, no permitían. 
+
+**Scrumban** como enfoque mixto que es brinda dos posibilidades: 
+
+- **SCRUM → KANBAN**: Se **destacan algunos elementos de Scrum** que son aplicados directamente a la metodología de Kanban. El proceso se inclina mayormente hacia Kanban. 
+- **SCRUM ←  KANBAN**: Algunos **elementos de Kanban** son aplicados al enfoque de Scrum. El proceso se postula más, en la dirección de Scrum. 
+
+Las **características de la herramienta Scrumban son**: 
+
+- **Visualización del flujo de trabajo**: Ayuda a identificar los cuellos de botellas en el flujo del proceso y a sincronizar el equipo, gracias a la observación en el tablero de en qué está trabajando cada integrante. 
+- **Cola de trabajo**: Permite modificar los sprints sin generar grandes impactos. 
+- **Reglas explícitas**: Para que todos los miembros del equipo puedan autoorganizarse, con el fin de conseguir flujos de trabajo más dinámicos y efectivos. 
+
+Es apropiado **aplicar Scrumban en proyectos**: 
+
+- **De mantenimiento**: en este tipo de productos es imprescindible incorporar mejoras para poder seguir avanzando. 
+- **Con variación de requisitos**: facilidad para incorporar las modificaciones requeridas por el cliente, durante el desarrollo, y mostrar la nueva petición. 
+- **Con errores de ejecución**: se podrá incorporar la tarea que subsana el error detectado. 
+
+5. Resumen
+**********
+
+- El **desarrollo de proyectos software** tiene dificultades como el exceso de costes respecto a los inicialmente estimados, incumplimiento de plazos de entrega o insatisfacción de los clientes. Su éxito depende de la sincronización que se pueda dar entre diferentes factores: humanos, técnicos, económicos, tiempo y alcance. 
+- El **sistema Kanban** proporciona a los miembros del equipo y a las partes interesadas visibilidad sobre los efectos de sus acciones (o falta de acción). 
+- Dentro de la **ingeniería del software**, el mantenimiento de software es la modificación de un producto después de la entrega para corregir errores, mejorar su rendimiento o modificar/implementar requisitos. 
+- Si se **compara Kanban frente a Scrum**, se descubren algunas discrepancias. La principal diferencia entre estas dos metodologías, es que mientras Kanban, está más orientada a optimizar el flujo de trabajo, Scrum, lo está hacia el desarrollo del producto. 
+- **Scrumban** es una metodología híbrida fundamentada en aplicar Io mejor de Scrum y de Kanban; contempla componentes y conceptos de ambas que se complementan entre sí, para lograr una mayor optimización del proceso de ejecución de proyectos.
+
+
+6. Actividades
+**************
+
+.. figure:: ../../_static/3_metodologias_agiles/3.5_kanban/actividades/actividad_1_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/3_metodologias_agiles/3.5_kanban/actividades/actividad_1_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/3_metodologias_agiles/3.5_kanban/actividades/actividad_1_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/3_metodologias_agiles/3.5_kanban/actividades/actividad_1_4.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/3_metodologias_agiles/3.5_kanban/actividades/actividad_2_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/3_metodologias_agiles/3.5_kanban/actividades/actividad_2_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/3_metodologias_agiles/3.5_kanban/actividades/actividad_2_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/3_metodologias_agiles/3.5_kanban/actividades/actividad_2_4.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/3_metodologias_agiles/3.5_kanban/actividades/actividad_3_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/3_metodologias_agiles/3.5_kanban/actividades/actividad_3_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/3_metodologias_agiles/3.5_kanban/actividades/actividad_3_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/3_metodologias_agiles/3.5_kanban/actividades/actividad_3_4.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/3_metodologias_agiles/3.5_kanban/actividades/actividad_4_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/3_metodologias_agiles/3.5_kanban/actividades/actividad_4_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/3_metodologias_agiles/3.5_kanban/actividades/actividad_4_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/3_metodologias_agiles/3.5_kanban/actividades/actividad_4_4.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/3_metodologias_agiles/3.5_kanban/actividades/actividad_5_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/3_metodologias_agiles/3.5_kanban/actividades/actividad_5_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/3_metodologias_agiles/3.5_kanban/actividades/actividad_5_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/3_metodologias_agiles/3.5_kanban/actividades/actividad_5_4.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/3_metodologias_agiles/3.5_kanban/actividades/questionnaire_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/3_metodologias_agiles/3.5_kanban/actividades/questionnaire_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/3_metodologias_agiles/3.5_kanban/actividades/questionnaire_3.jpg
+   :width: 70%
+   :align: center
+   
+.. figure:: ../../_static/3_metodologias_agiles/3.5_kanban/actividades/questionnaire_4.jpg
+   :width: 70%
+   :align: center
+   
+.. figure:: ../../_static/3_metodologias_agiles/3.5_kanban/actividades/questionnaire_5.jpg
+   :width: 70%
+   :align: center
+   
