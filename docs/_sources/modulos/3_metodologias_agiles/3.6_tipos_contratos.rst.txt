@@ -350,30 +350,205 @@ Las **contingencias** pueden ser de diversa índole:
 - **Cambios sustanciales**: En las hipótesis o condiciones básicas del proyecto, por causas ajenas a él, sobre todo cuando se están produciendo el aprovisionamiento y la construcción. El margen de maniobra del proyectista es escaso y la solución más cómoda que le queda es reconsiderar el conflicto por la vía del aumento del presupuesto. Solución a la que se apunta con prontitud el contratista. El gestor del proyecto debe, primero, desentrañar la autenticidad del problema, y después tratar de encontrar vías alternativas para intentar que no se incremente el presupuesto objetivo. Cambios sustanciales son, por ejemplo, el incremento de la sobrecarga de los forjados por cambio de las características de los posibles usuarios, modificación al alza de los consumos energéticos previstos, modificaciones de las condiciones del subsuelo no previstas en el estudio geotécnico, etc. 
 - **Cambios legislativos**: Este es el caso de los cambios en la ordenación urbanística, modificaciones en los aumento de impuestos sistemas de protección en el manejo de sustancias peligrosas o el endurecimiento de las condiciones medioambientales.
 
-
 2. Contratos ágiles 
 *******************
+
+Los **planteamientos ágiles**, entre otras cosas, están enfocados a gestionar riesgos. El cliente prioriza los objetivos del proyecto por el valor que le aportan y revisa el producto tangible a lo largo de todo el proyecto con el fin de asegurar desde los inicios del proyecto que el **producto real** ya desarrollado siempre esté **alineado con sus expectativas**. 
+
+El cliente dirige los resultados del proyecto para poder satisfacer sus necesidades reales, con el apoyo del proveedor. Así pues, los planteamientos ágiles protegen más al cliente de cosas que puede que no conozcan, ni él ni su proveedor. 
+
+Si se reconocen como adecuados los principios y prácticas ágiles para guiar la relación entre las partes, es conveniente explicitar estas reglas del juego en forma de **contratos ágiles**. 
+
+Estos contratos se pueden organizar en función de si las **variables alcance, importe y plazos son fijas o variables**. Un contrato queda definido sólo cuando se especifica el alcance de los servicios a contratar y la fórmula por la que se establece el precio de estos servicios. 
+
+Los **servicios a contratar** pueden ser muchos. En general, los servicios necesarios son los siguientes: 
+
+- El asesoramiento previo, que puede comprender estudios de viabilidad, de localización y otros. 
+- La cesión de la propiedad industrial del proceso. 
+- El desarrollo del proyecto básico o anteproyecto. 
+- El desarrollo del proyecto de detalle y su dirección. 
+- La gestión de adquisiciones. 
+- La puesta en marcha y el mantenimiento. 
+
+Todos estos servicios pueden llevarse a cabo por una sola organización proyectista, por dos o más, o por sociedades temporales constituidas por diversas ingenierías, consultorías, empresas constructoras e instaladoras y proveedores. 
 
 3. Contratos a precio cerrado 
 *****************************
 
+.. note:: Un **contrato a precio cerrado** es un tipo de contrato, llamado con frecuencia "llave en mano", en el que contratado se compromete a hacer entrega de una construcción completamente terminada y en estado de funcionamiento contra la entrega de una cantidad fija dividida en plazos, pactados previamente de acuerdo con el avance de un proyecto. 
+
+La **oferta** del contratado está **basada en un estudio del proyecto** suministrado por el contratista. Aunque los riesgos de errores en dicho proyecto se dan a entender como asumidos por el contratado, este debe hacer un **estudio completo y exhaustivo del proyecto** que le entrega el contratista y agregar en él todo aquello que considera que sea necesario, ya que la cifra de su oferta se puede dar como "cerrada" una vez rubricado el contrato. 
+
+El **contratado** se compromete a admitir exclusivamente la cantidad ofertada, agregando en ella todas aquellas cosas que en su opinión son necesarias para la **correcta fiscalización y funcionamiento** de la instalación, aunque no estuvieran añadidas en el proyecto recibido para el estudio de dicha oferta. 
+
 4. Gestor de proyectos 
 **********************
+
+.. note:: El **gestor de proyectos** es un profesional que posee la capacidad de liderazgo, es decir, domina las habilidades para influir en la manera de pensar o de actuar de las personas, motivándolas para que realicen sus tareas de manera eficiente, ayudando de esta forma a la consecución de los logros y utilizando distintas herramientas como el carisma y la seguridad al hablar, además de la capacidad de socializar. 
+
+No sólo se debe generalizar este término a la forma de cambiar de parecer a las personas, sino también a las **capacidades de**: 
+
+- Tomar la iniciativa. 
+- Proporcionar ideas innovadoras. 
+- Evaluar determinados proyectos de manera eficiente. 
+
+El líder debe **tener en cuenta las inquietudes y opiniones** que las personas que se encuentran bajo su cargo puedan ofrecer, lo que **genera seguridad** en los subordinados. Esto a su vez evita la discusión sobre su rol, dejando bien en claro la figura que representa. 
+
+En el entorno laboral es de vital importancia la presencia del líder, ya que se cree que dicho profesional puede guiar a un determinado grupo de personas a la **consecución de los objetivos de manera más rápida y efectiva** que si cada una de estas lo hiciera por sí sola. 
+
+En algunas ocasiones el liderazgo es ejercido utilizando **tácticas autoritarias** y de intimidación. En estos casos el líder puede llegar a ser respetado, pero de **manera obligatoria y no voluntaria**. 
+
+En la actualidad hay gran cantidad de personas que poseen las cualidades de un líder y que ejercen este rol de diferentes maneras, es por eso que el liderazgo se clasifica según el tipo de método que se utilice para dirigir a un determinado grupo de personas. Como se ha visto en unidades anteriores, destacan los siguientes **tipos de liderazgo**: 
+
+- Empresarial 
+- Autocrático 
+- Democrático 
+- Laissez faire 
+- Paternalista 
+- Carismático 
+- Lateral 
+- Situacional 
 
 5. Dinámica de grupo 
 ********************
 
+La **dinámica de grupo** busca explicar los cambios internos que se producen como resultado de las fuerzas y condiciones que influyen en los grupos como un todo. 
+
+Dentro de los grupos se han identificado **4 prototipos clásicos**, que, **según su rol son**: 
+
+- Portavoz 
+- Chivo expiatorio
+- Líder 
+- Saboteador 
+
 6. Trabajo en equipo 
 ********************
+
+Las **organizaciones actuales** están viviendo un **proceso de cambio continuado** generado por la creciente **competencia global** de los nuevos modelos de negocios que se anteponen por los ambientes dinámicos, inciertos y complejos que circundan la vida de las organizaciones. 
+
+Los **equipos** satisfacen las nuevas necesidades de las organizaciones, aportando una **mayor diversidad de conocimientos, habilidades y experiencias** que posibilitan dar respuestas rápidas, flexibles e innovadoras a los problemas y retos planteados en el momento actual. El **éxito de las organizaciones** y la producción global de conocimiento depende en gran medida de la **eficacia de los equipos**. 
+
+Los equipos son más eficaces que los individuos actuando en solitario, especialmente cuando el rendimiento requiere habilidades, juicios y experiencias múltiples. Aunque la mayor parte de la gente reconoce las capacidades de los equipos, con frecuencia se pasan por alto **oportunidades adicionales** que el equipo ofrece a los que forman parte de él. El trabajo en equipo exige **comprensión y compromiso** con las metas del grupo por parte de todos los miembros. Pero los equipos también **plantean muchos desafíos** a las organizaciones, en la medida en que exigen de una comunicación efectiva para solucionar conflictos de personalidades y egos.
+
+Por tanto, las **ventajas de los equipos de trabajo** se dan cuando estos, al actuar como tal, y centrarse tanto en las personas que los integran como en las tareas y resultados a alcanzar, **se adecuan a un estilo de liderazgo que le es apropiado** en función del grado de madurez de los mismos, provocando la sinergia o la integración de los **elementos que se quieren alcanzar**. 
+
+- Resultados superiores cuantitativa y cualitativamente (resultados). 
+- Satisfacción y orgullo de sus integrantes (personas). 
+- Calidad superior del trabajo y mayor conocimiento e información (procesos). 
+
+
+En cuanto a las **desventajas**, hay que tener en consideración las siguientes: 
+
+- Tomar las decisiones de forma precipitada. 
+- Que impere el dominio de pocas personas, en particular el de un líder. 
+- Consumir mucho tiempo en reuniones discutiendo soluciones y acciones, retrasando su puesta en marcha. 
+- Que existan presiones sobre miembros del equipo para aceptar soluciones. 
+- Que exista responsabilidad ambigua, ya que queda diluida en el grupo. 
+
+
+Hoy en día es necesario que las organizaciones cuenten con un grupo de **directivos entrenados para gestionar situaciones** y así poder afrontar el futuro con garantías de éxito. Para ello pueden seguir **2 estrategias**: 
+
+- Buscar fuera de la empresa. 
+- Descubrirlos dentro de la empresa. 
+
+Sin duda **la mejor opción es la de descubrir a esos directivos dentro de la propia organización**, ya que el líder no nace, sino que se hace. Es posible aprender a liderar mediante un proceso de preparación adecuado. 
+
+Las organizaciones deben aceptar que los **resultados empresariales son consecuencia directa** de los comportamientos **de todos los miembros**, siendo más relevante el comportamiento de los líderes, ya que son el modelo de referencia. En ese caso **el directivo tiene** que dejar de ser un mero gestor para convertirse en **un líder transformador**. Este nuevo rol sustituye estrategia por finalidad, estructura por procesos y sistemas por personas. 
 
 6.1. El proceso de coaching 
 +++++++++++++++++++++++++++
 
+El **proceso de coaching** es necesario para poder cambiar el rol del directivo. Este proceso es el adecuado para el perfeccionamiento de directivos individuales o en pequeños grupos de dirección y formación de líderes. 
+
+Según los objetivos de este proceso se pueden diferenciar **2 tipos de coaching**: 
+
+- Para el desarrollo del liderazgo (coaching for leadership). 
+- Para la mejora del desempeño (coaching por performance). 
+
+El **coaching para el desarrollo del liderazgo** se centra en los aspectos más intangibles y subjetivos, es decir, los que influyen en el comportamiento de las personas. 
+
+Por tanto, para lograr estos resultados es necesario utilizar **nuevas fórmulas de aprendizaje** que incluyan formación presencial en grupos reducidos a la comunicación, aplicación al trabajo y las fortalezas y áreas de mejora de cada miembro. Este **proceso estratégico** puede resultar lento, ya que **pretende cambiar hábitos** de la persona. Y los hábitos son el punto de intersección entre los conocimientos, las capacidades y la voluntad. 
+
+
+.. note:: Es necesario trabajar los tres aspectos si queremos modificar un hábito que genere nuevos comportamientos. El directivo tiene que razonar y reflexionar sobre los cambios que quiere realizar y asegurarse de que merecen la pena y son posibles de conseguir. 
+
+
 6.2. El feedback 360º
 +++++++++++++++++++++
 
+.. note:: El **feedback 360º** es una herramienta de evaluación y seguimiento del desempeño individual en el ámbito de la gestión empresarial. Se compone de una serie de cuestionarios que se pueden aplicar tanto de forma individual como colectiva. 
+
+Se utiliza desde los **años 60 en EE.UU**, sin embargo, es a **mediados de 1980** cuando aumentó mucho su aceptación y actualmente muchas empresas de todo el mundo lo están aplicando. 
+
+Esta herramienta se basa en el análisis que se hace sobre la **diferencia entre la imagen que tenemos de nosotros mismos y la que tiene los demás**. Esto es importante, ya que la percepción de los demás y la de nosotros mismos influye en la relación con los que nos rodean. 
+
+6.2.1. Áreas
+------------
+
+Esta herramienta **aporta un marco formal facilitador** para recibir y enviar feedback, ya que **enseña a cuestionarse**. Cuando se aplica esta herramienta se buscan resultados en las siguientes **áreas**:
+
+- **Desarrollo personal**: sobre todo frente al rendimiento profesional real. 
+- **Evaluación individual**: buscando mejorar el rendimiento profesional a corto y medio plazo. 
+
+6.2.2. Etapas
+-------------
+
+Este tipo de evaluación consta de **5 etapas**: 
+
+- **Cuestionario**: Confección de un cuestionario específico para una empresa determinada, o bien selección de un cuestionario estándar. 
+- **Respuesta**: Respuesta a los cuestionarios por parte del directivo que es objeto de la evaluación, así como por las personas relacionadas con él (más o menos diez personas en orden jerárquico). 
+- **Estadística**: Tratamiento estadístico de los datos obtenidos. 
+- **Resultado**: Comunicación de los resultados del tratamiento. 
+- **Planes de acción**: Trazado de los planes de acción en base a la interpretación de los datos obtenidos. 
+
+6.2.3. Repercusiones
+--------------------
+
+El uso de la evaluación a 360º requiere una serie de **precauciones**. Hay que utilizarla con acierto y precisión, porque puede tener algunas repercusiones importantes sobre las personas o la organización. Para ello se requieren **4 condiciones**: 
+
+- Contar con una herramienta clara y completa. 
+- Que las personas que intervienen en la evaluación sean suficientes en número y calidad de información. 
+- Para llevar a cabo este proceso conviene contar con un master coach, es decir, un especialista externo a la propia empresa y acostumbrado a trabajar en cuestiones de desarrollo directivo, para que coordine todo el sistema de evaluación. 
+- Por último, que todo este ejercicio esté orientado a la búsqueda de la mejora continua del propio interesado. 
+
+6.2.4. Prevenciones
+-------------------
+
+También se hace **indispensable**: 
+
+- Definir la finalidad de su aplicación. 
+- Verificar la oportunidad de su aplicación. 
+- Efectuar una correcta divulgación, a todos los niveles implicados, del objetivo de su uso. 
+
+
+De esta manera **se prevendrán posibles reticencias** que luego se traducirán en falta de sinceridad en las respuestas a los cuestionarios. 
+
+A la hora de llevar a cabo una evaluación 360º existen muchas **reticencias por parte de los directivos** de las organizaciones. Esto es un indicador de que se falla en una competencia directiva clave: **la autocrítica** o capacidad para evaluar con frecuencia y profundidad el propio comportamiento. 
+
+6.2.5. Interpretación de datos
+------------------------------
+
+Los resultados nos dan mucha información para conocernos, pero poca para comprendernos. Para ello se requiere una **buena interpretación de los datos** para determinar hacia dónde dirigir el plan de mejora y cuál es el potencial de esa persona. 
+
+Un **buen diagnóstico consta de 3 elementos**: 
+
+- **Concretar las áreas de mejora**: Hay veces que será evidente, pero otras muchas no. Como elemento imprescindible para concretar las áreas de mejora habrá tomar como referencia una media externa fiable como, por ejemplo, una base de datos de directivos amplia, con un nivel de desempeño semejante. 
+- **Determinar el potencial real de mejora**: Esta es la parte esencial del diagnóstico. El potencial de mejora de un directivo estará en función de tres factores: importancia de esa competencia para el puesto, actitud personal para la mejora de la competencia y factibilidad de la misma. 
+- **Sentido de la oportunidad**: Hay circunstancias que pueden aconsejar aplazar el plan de mejora para más adelante. 
+
 7. Inventario de tareas
 ***********************
+
+.. note:: El **inventario de tareas** es una lista con todas las tareas implicadas en el desarrollo de un trabaja a un flujo de trabajo. 
+
+Elaborar un inventario de tareas puede ser algo compleja. Suele hacerse por **encargados de Recursos Humanos** y sirve para **mejorar los procesos de negocio**. Aplicando un análisis de estas características conoceremos para cada puesto de trabajo las tareas que se realizan regularmente. 
+
+A continuación, veremos una serie de **características** sobre este concepto:
+
+- El inventario de tareas considera tareas esenciales las funciones propias de un puesto de trabajo específica. Estas tareas se consideran como rutinarias y se identifican fácilmente porque tienen lugar recurrentemente. 
+- La información para poder realizar el inventario de tareas se recopila mediante estudios, entrevistas, observación y cuestionarios. Las principales fuentes son los empleados y gerentes. 
+- El inventario de tareas, no es una descripción del trabajo, sino una manera de obtener una visión completa del flujo de trabajo para identificar todas las acciones que lo forman. 
+
 
 8. Autoorganización 
 *******************
