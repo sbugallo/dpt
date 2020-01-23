@@ -549,51 +549,261 @@ A continuación, veremos una serie de **características** sobre este concepto:
 - La información para poder realizar el inventario de tareas se recopila mediante estudios, entrevistas, observación y cuestionarios. Las principales fuentes son los empleados y gerentes. 
 - El inventario de tareas, no es una descripción del trabajo, sino una manera de obtener una visión completa del flujo de trabajo para identificar todas las acciones que lo forman. 
 
-
 8. Autoorganización 
 *******************
+
+La **autoorganización** de los equipos es un concepto fundamental recogido en el **Manifiesto Ágil** y reforzado todos y cada uno de los marcos de trabajo ágiles. Cómo conseguir que dicha autoorganización contribuya los objetivos de la compañía una de las claves de la que denominamos gestión ágil. En los siguientes epígrafes se exponen una serie de **prácticas para alcanzar la autoorganización**. 
 
 8.1 . Definición de objetivos 
 +++++++++++++++++++++++++++++
 
+Las personas que se encarguen de dirigir el proyecto precisan alga más que el simple esboza de una **descripción de los objetivos** de los que serán responsables. La ambigüedad en las objetivos puede conducir malos entendidos, desilusiones y caras repeticiones del trabaja. 
+
+Cuanto mejor se expresen los fines, mayar posibilidad de éxito. Los objetivos deben ser decididos por la **persona que dirija el proyecto**, por el **líder del equipo** que vaya trabajar en él y los **miembros de dicho equipo**, pues así no se minará la moral, ni se cuestionara capacidad del equipa. Y es que los equipas trabajan mejor cuando los objetivos son claros y están perfectamente delimitadas. 
+
+De todas formas, cuando las fines están especificadas, pero los medios no, los miembros del equipo **pueden basarse en sus conocimientos, habilidades y experiencias** para pensar y ejecutar una forma de operar que esté bien emparejada con el propósito y las circunstancias del equipa. 
+
+Consideremos este ejemplo de un objetivo no muy bien definido: "Desarrollar una página web capaz de proporcionar información rápida, exacta y coste efectivo sobre nuestros productos y satisfacer a nuestros clientes". Esta podría ser la forma en que un patrocinador describa el objetivo del proyecto en la carta. ¿Pero qué quiere decir exactamente? ¿Qué es "rápido"? ¿Cómo se define la exactitud? ¿Un error en mil transacciones es aceptable, o las expectativas del patrocinador son de un error en diez mil operaciones? ¿Hasta dónde debe llegar la efectividad de costes del sitio web? Cada una de estas preguntas debería contestarse consultando con el patrocinador y las principales partes interesadas. 
+
 8.2. Limitación en el tiempo 
 ++++++++++++++++++++++++++++
+
+Un aspecto fundamental es que las **objetivos** sean **medibles y específicos**, pues si na se hace así no existirá la forma de saber si el proyecto ha alcanzado sus objetivos. También debe haber un **límite de tiempo** para alcanzar esos objetivos, ya que el proyecta puede ser ilimitado. Según las circunstancias, el límite temporal debe ser firme, una situación con un tiempo establecida y de alcance variable. 
+
+Algunos proyectos definen el **tiempo como una constante**. Consideremos el caso de una editorial que decide sacar un nuevo curso cada mes. Dado que el tiempo es constante, el equipo encargado del proyecto debe ajustar el alcance de los nuevas lanzamientos (añadiendo a eliminando características del producto) para asegurar que haya una cursa nueva al mes. 
+
+Lo opuesto es indudable en situaciones que tienen un **alcance fijo y un tiempo variable**. Si el alcance del proyecto está fijado, entonces un límite temporal sólo se puede establecer después de que el director del proyecto y el equipo hayan tenido la oportunidad de desglosar cada objetivo en un conjunto de tareas y tras programar la duración de cada una de ellas. 
+
+"A enviar una sonda a Marte en el verano de 2003, el equipo de la NASA encargado del proyecto tenía una ventana de oportunidad limitada. Marte y la Tierra estaban inusualmente cerca en esos momentos. A finales de agosto, la distancia entre ambos planetas comenzaría a aumentar rápidamente. La NASA había de lanzar el vehículo explorador en julio o cancelar el proyecto. Con la premura de tiempo, la agencia tuvo que ser flexible en cuanto al alcance del vehículo espacial que estaba construyendo". 
+
+Una **buena manera de fijar el alcance de un proyecto** es reunir las principales partes interesadas y participantes en el proyecto en una sesión de brainstorming que busque específicamente describir qué debe entrar en el alcance del proyecto y qué no. 
+
+Todas las partes implicadas deberán realizar **concesiones** entre las opciones que surjan (que siempre serán más numerosas que el tiempo y los recursos de los que se disponga). Si la expectativa del patrocinador especifica las objetivos que quiere alcanzar, el plan del proyecto deberá **definir los medios en términos prácticos**. Con la **aprobación del patrocinador**, este plan se convierte en una etapa más que se habrá cubierto. 
+
+Queda evidenciada, pues, que un **plan de proyecto** es un elemento imprescindible para que el arranque del proyecto esté enfocado hacia la gran meta final. Además, proporciona mayor información sobre tareas, hitos, resultados, riesgos y cronogramas. Servirá coma una **hoja de ruta** para todos los implicados en el proyecto. 
 
 8.3. Toma de decisiones 
 +++++++++++++++++++++++
 
+Si antes de comenzar el trabajo en sí se establecen los **procedimientos y mecanismos operativos básicos**, el proyecto será realizado de una forma más llevadera, no habrá lugar a roces ni malos entendidos. Entre estos procedimientos y mecanismos se deben incluir **las decisiones**. 
+
+Un **director de proyectos** con experiencia sabe que una parte nuclear de su labor es la **toma de decisiones**. Un director de proyectos con experiencia sabe que una parte nuclear de su labor es la toma de decisiones. Y es que en realidad un proyecta es más que una cadena de decisiones con una meta final en el horizonte: lograr el objetivo final del proyecto. Por esa, uno de los primeros pasos que se deben dar es aclarar: ¿Cómo se tomarán las decisiones? ¿Quién las tomará? 
+
+Si no hay consenso entre los miembros, el proyecto se encontrará con muchos obstáculos. En un proyecto habrá mucha gente con interés en él, todos con distintas expectativas de éxito, ello, es importante **identificar y gestionar bien sus diversas aspiraciones**. La estructura organizativa puede ser desarrollada identificando las personas del grupo que pueden contribuir mejor su gestión eficaz. 
+
+El director del proyecto, el líder del equipo, cada uno de los miembros del equipo, el patrocinador y, en definitiva, cada una de las partes que conforman el grupo encargado del proyecto irá encontrándose la largo del mismo con una serie de **disyuntivas que pueden convertirse en un problema** si na se ha dejado bien claro desde el principio cuál será el protocolo de actuación en cada caso. 
+
+Algunas de las **decisiones que pueden surgir de improviso son**: 
+
+- ¿Cómo se decidirá cuando existan alternativas?
+- ¿Un objetivo menor debe cambiarse por otro? 
+- ¿El equipo puede tomar decisiones con respecto al tiempo o debe remitirse al comité de dirección? 
+- ¿Quién decidirá si deben recortarse gastos? 
+- ¿Qué consultor debe contratarse y con qué compromiso? 
+
+Tampoco quiere esto decir que el director del proyecta deberá prever, cuestionar, debatir y dejar programada la manera de actuar ante decisiones irrelevantes dentro del día día del proyecto. 
+
+Dentro de las unidades funcionales de negocios, **las decisiones son el dominio de directivos y jefes**. Estas personas identifican el problema, buscan y analizan alternativas y se asesoran en las fuentes adecuadas. Luego toman las decisiones y aceptan las responsabilidades de las consecuencias. 
+
+Aunque pueden buscar consenso y la aportación de otros, **no están obligados por esas opiniones**. Los equipos encargadas de proyecto deben tomar las decisiones de forma diferente. 
+
 8.3.1. Esferas de decisiones
 ----------------------------
+
+La **toma de decisiones** relacionadas con un proyecta es tan definida coma la toma de decisiones dentro de unidades operativas o departamentos.
+
+Los **patrocinadores y comités de dirección** tienen la autoridad para tomar decisiones con respecta a los objetivos del proyecto y el nivel de recursos asignados. También tienen la autoridad máxima sobre las siguientes **aspectos**: 
+
+- Personales. 
+- Gastos superiores a una determinada partida presupuestaria. 
+- Aportación de recursos extremos. 
+- Cambios en la política general u objetivos. 
+- Opciones que afectan los clientes, como precio o especificaciones. 
+- Cambios en los resultados que se quieren conseguir y objetivos. 
+
+También deben reconocer las opiniones de las principales partes interesadas que piden tener voz en estas decisiones. 
+
+Los **directores de proyecto**, otra lada, deben tener la **única autoridad sobre decisiones relacionadas con operaciones y procesos**, siempre que no hagan nada por: 
+
+- Alterar el objetivo o el resultado conseguir. 
+- Afectar de forma adversa el calendario.
+- Afectar de forma adversa el presupuesto. 
+
+Lo mismo se aplica los **líderes y miembros del equipo**. Estos participantes necesitan la autoridad de tomar decisiones dentro de sus limitadas esferas, excepto si sus decisiones pueden tener efectos negativos constatables sobre el trabajo de otros equipos. 
+
+Para **evitar discrepancias**, el director del proyecta debe asegurarse de que el equipo encargado de su proyecto, el patrocinador, las principales partes interesadas y la alta dirección tienen una visión unificada sobre las decisiones que pueden tomar cada una de las partes implicadas en el proyecto. 
 
 8.3.2. Quién toma las decisiones y cómo debe hacerlo
 ----------------------------------------------------
 
+El **director del proyecto** deberá ayudar al **líder del equipo** y los **demás miembros** del misma a acordar quién toma las decisiones y cómo debe hacerla. En el equipo, ¿las decisiones las tomará el líder a un subgrupo de miembros, o todos los implicadas tendrán la opción? ¿Cómo se tomarán las decisiones? ¿Mandará la mayoría o el grupo tendrá que alcanzar un consenso total? ¿Las decisiones serán definitivas? Si no, ¿qué clase de procesa de modificación seguirá el equipo? 
+
+Algunos **enfoques comunes de la toma de decisiones** son: 
+
+- **La mayoría manda**: los participantes exponen su posición en la reunión, discuten y luego votan. Las decisiones que reciben más del 50 de los votos de adoptan. 
+- **Consenso**: cada uno de los miembros del equipo debe estar de acuerdo antes de que se pueda tomar y adoptar una decisión. Si no se puede alcanzar el consenso, se deben desarrollar nuevas alternativas y presentarlas al grupo. 
+- **Un pequeño grupo decide**: se elige un grupo de personas con destacada experiencia y habilidades para que tome las decisiones. 
+- **El líder decide con datos**: el líder del equipo recoge información de los miembros y luego toma la decisión. 
+
+Al elegir un enfoque para tomar decisiones, los participantes deben sopesar los **pros y los contras de cada opción**. 
+
+Los enfoques de **consenso** y de **la mayoría** manda pueden ayudar establecer el compromiso del equipo. Pera hay un **inconveniente**: esos métodos **requieren tiempo**. Si el tiempo es un problema importante, el equipo podría considerar otros enfoques para llegar un acuerda colectiva sobre las cuestiones de mayor importancia para los miembros y emplear un enfoque más simplificado para las demás. 
+
+Cualquiera que sea la opción para tomar decisiones, debe ser **establecida durante los primeros pasos del proyecto**. Esta es una condición *sine gua non para* que el proyecto alcance el éxito esperado. Si na se hace así, sólo se pueden esperar discusiones y enfrentamientos que repercutirán de forma negativa en el proyecto, ralentizándolo. Esa sí, si el tiempo y las resultados indican que esas reglas no son efectivas, deberán ser sustituidas por otras, aunque el proyecto esté en marcha. 
+
 8.3.3. Seguimiento y tratamiento de cuestiones no resueltas
 -----------------------------------------------------------
+
+Inevitablemente, cuando finalizan muchas reuniones, **cuestiones importantes** que han surgido habrán quedado **sin resolver**, ya sea por falta de tiempo a porque los participantes no disponían de la información necesaria para formarse una opinión, o simplemente parque necesitaban tiempo para meditar. ¿Qué ocurre entonces con estas cuestiones? 
+
+Las **cuestiones sin resolver** pueden convertirse en un **obstáculo difícil de superar** en la carrera de fondo que se convierte la realización de un proyecta, un obstáculo que puede llegar a convertirse en causa de un tropiezo definitiva que acabe con la esperanza de llegar a la meta. 
+
+Una forma de hacer frente este tipo de cuestiones es reflejarlas en un **registro de seguimiento**. Esto conlleva **2 ventajas**:
+
+- ¿Las cuestiones sin resolver no se perderán? 
+- Se asegura un procedimiento para su oportuna resolución. 
+
+La simple creación de un registro **no elimina el problema de las cuestiones sin resolver**. Sencillamente, alguien se hace responsable de ellas y de volverlas a presentar ante el faro de decisiones en el momenta oportuno. Tanta persona que no haya podido plantear la cuestión como el director del proyecta deben compartir esa responsabilidad, unos parque san los que sostienen que sus cuestiones son importantes y el otra porque es quien determina la agenda. 
 
 8.3.4. Documentar decisiones y acciones
 ---------------------------------------
 
+Cuando se tienen varias reuniones al cabo del día, lo más probable es que se pierda la cuenta de qué decisiones se han tomado en unas, quiénes serán los encargados de realizar qué acciones, etc. Para evitar confusiones, es necesario disponer de un **método para tener presentes las decisiones tomadas por su grupo**. Las **minutas de las sesiones** y los **informes sobre progresos** pueden serle útiles este fin: 
+
+- **Minutas de las sesiones**: Son notas tomadas por una persona encargada. Las minutas se revisan y aprueban en la siguiente reunión, con enmiendas, si es necesario. Esas minutas aprobadas pasan luego a un fichero, donde los participantes las pueden consultar voluntad. 
+- **Informes sobre progresos**: Son documentos sobre las actividades que se llevan a cabo. Cada una de esas actividades debe informar de sus progresos y problemas al director del proyecto, quien debe digerir la información y emplearla para hacer el seguimiento de los progresos de toda el proyecto en general. Los informes necesarios los determina la situación y la información que el director del proyecta pide para mantener el control y llevar el esfuerzo adelante. Como las minutas, las informes sobre progresos deben archivarse ordenadamente para que sean accesibles. 
+
 8.3.5. Creación de un plan de comunicaciones 
 --------------------------------------------
+
+Un **plan de comunicaciones** es otro de los eslabones que se deben formar parte de la cadena llamada proyecta. La **importancia de dicho plan** varía en función del número de personas, departamentos y entidades que participarán, y de su dispersión geográfica. 
+
+.. note:: El inventario de tareas es una lista con todas las tareas implicadas en el desarrollo de un trabaja o un flujo de trabajo. 
+
+Los **proyectos pequeños** que implican un reducido número de personas que trabajan en el mismo sitio, tal vez no necesiten un plan, sino un lugar y una hora de reunión establecidos regularmente de antemano. Esas personas pueden compartir información en cualquier instante que se vean por los pasillos o hagan un descansa para tomarse un café. 
+
+En el otro extremo, un **proyecto grande** que reúne docenas de personas de muchas departamentos, varias localizaciones geográficas y diferentes empresas debe contar can un **plan de comunicaciones completo y muy estructurado**. 
+
+Conseguir que estas personas tan separadas entre sí hablen y compartan ideas es todo un reto y para hacerle frente hay que contar con una **infraestructura de comunicación**. Sin ella, los participantes de un proyecto grande no podrán coordinar sus esfuerzos, resolver problemas o cumplir can las plazas establecidas. 
+
+Todos los planes de comunicación **deben incluir protocolos para reuniones, correo electrónico e informes**. Las proyectos más grandes deberían disponer de una **sala especial de reuniones** para el equipo encargado del proyecto y **vinculaciones electrónicas**, como un sitio web para el proyecto, conferencias telefónicas y videoconferencias, que permitan conectar partes interesadas y miembros del equipo muy dispersados. 
 
 8.3.6. Las reuniones
 --------------------
 
+Los proyectas están repletos de **reuniones de todo tipo**: programadas con regularidad, sin programar, urgentes, de emergencia, etc.
+
+Las reuniones son **la actividad menos estimada** por las personas ocupadas, que prefieren la acción, pero **a menudo son la mejor forma de comunicar información**. Las reuniones también son foros en los que se pueden compartir ideas y tomar decisiones, y generalmente el progreso depende de esas decisiones. Por tanto, es fundamental saber cómo sacar el mayor provecho las reuniones. 
+
+Aprovechar las reuniones al máximo implica seguir lo más posible una **programación regular**. Si todo el mundo conoce que las reuniones del equipo encargado del proyecto son los miércoles de cinco a seis de la tarde, por ejemplo, podrán planificar sus otras responsabilidades alrededor de esos días y horas. Contar can una programación regular también evita la ardua tarea de encontrar una hora que a todo el mundo le convenga. 
+
+También debe existir una **política de asistencia asociada con las reuniones**. Na se pueden tomar decisiones cuando los principales implicados no están presentes, sino que se deben postergar hasta la siguiente reunión planificada, hecho que hace trizas la programación del trabajo, ralentizando el desarrollo del proyecto. 
+
+El **problema del absentismo** en las reuniones se hace particularmente grave cuando participantes clave en el proyecto mantienen una considerable responsabilidad por sus trabajos habituales. Hay que establecer la política que se va a desarrollar desde el comienzo. Si los viajes son un impedimento para asistir las reuniones, considere el uso de la tecnología de las comunicaciones para establecer contacto entre los viajeros y las reuniones. 
+
 8.3.7. El empleo de la tecnología
 ---------------------------------
+
+Hay veces en que el correa electrónico no sirve, por ejemplo, cuando las miembros de un equipo deben reunirse para hablar de su trabajo. **En algunos casos, la capacidad de comunicarse verbalmente es suficiente. En otros, las personas necesitan verse** o visualizar los objetivos físicos en las que está trabajando la parte contraria: una persona que acaba de integrarse en el equipo, un prototipo, etc. A veces, pueden querer ver la adaptación que un cliente ha hecho de un producto, para que sea más eficaz, etc. 
+
+En la actualidad, disponemos de muchas **tecnologías que posibilitan diferentes formas de comunicación**: 
+
+- **Correo electrónico**: Es la herramienta de comunicación que más destaca. Los mensajes se pueden transmitir casi inmediatamente y con un coste ínfima. Archivos, fotos, documentos y diapositivas se pueden añadir y transmitir toda velocidad. Todos los miembros de un proyecto deben disponer de una dirección de correo electrónica, así como de las direcciones de todas los demás participantes. El director del proyecto debe asegúrese de que todos los integrantes del proyecto estén informados sobre las decisiones que les afectan y que las personas que necesitan participar en determinadas decisiones sean consultadas. Los emails pueden ayudar establecer pistas virtuales y proporcionar información importante si aparecen interpretaciones erróneas o conflictos. 
+- **Conferencia telefónica**: Es una forma rápida y fácil que tiene el equipa virtual de comunicarse verbalmente y ostenta una característica que el correo electrónico no tiene: proporciona la oportunidad de mantener conversaciones dinámicas. Esa ventaja hace que la comunicación telefónica sea un excelente medio cuando el objetivo es discutir, generar ideas, resolver problemas o tomar decisiones. 
+- **Videoconferencia**: Ofrece otra canal muy importante de comunicación para las proyectos. Sirve para reunir equipas sin gastar tiempo a dinero en comidas, viajes y alojamientos. Actualmente, gracias al avance de la informática en general, las videoconferencias son una de las mejores herramientas para las reuniones. 
+
+Cuando se trabaja en equipo, **la distancia es un factor importante**: cuanto mayor sea la cercanía física entre las participantes de un proyecto, mayor será la posibilidad de que interactuen y compartan ideas de forma regular. 
+
+Las personas tienden a comunicarse con quienes están más cerca suya. Por lo tanto, las personas individuales y las grupos se pueden posicionar de modos que promuevan o inhiban la comunicación. Así, **la ubicación física de los miembros de un equipo tiene un impacto importante** en la profundidad de la comunicación y en el acto de compartir conocimientos. 
 
 8.3.8. Sala del equipo
 ----------------------
 
+.. note:: Una **sala del equipo** es un espacio dedicado al trabajo del equipo y sus miembros. Actúa como un espacio para reuniones, un lugar donde los miembros pueden reunirse para compartir ideas y donde se pueden exhibir a guardar todos los artefactos físicas y registras del trabajo desarrollado por el equipa. 
+
+Algunos de los **elementos** que se pueden incluir **en la sala de reunión** son: 
+
+- Productos desmontados de la competencia. 
+- Informes de pruebas e investigaciones. 
+- Prototipos actuales del equipo. 
+- Biblioteca especializada de libros y publicaciones técnicas. 
+- Equipo de videoconferencia. 
+- Caballete de hojas. 
+- Pizarra para marcador. 
+
+
+Además, esta sala también puede presentar los siguientes elementos en las **paredes**: 
+
+- Un **gran diagrama de Gantt**, que marca la programación y los hitos del proyecto de principio a fin. 
+- La **copia original de la carta del equipo**, firmada par el patrocinador. 
+- El **presupuesto** del equipo, incluyendo las variaciones actuales. 
+
+En general, la sala del equipo y su equipamiento **facilita el trabajo y fomenta la identidad de equipo**. 
+
+La sala que acabamos de describir, tal vez na sea posible si los participantes de un proyecto están ampliamente diseminados por un gran edificio de oficinas o con fronteras de por medio, pero se pueden conseguir algunos de los mismos **beneficios a través de una página web del proyecto**. Se puede establecer una sala virtual en la página web usando "cuatro paredes", coma si se tratase de una habitación real. **Cada pared representaría una sección para**: 
+
+- **Propósitos**: Esta sección incluye la carta o documento base del equipo, sus objetivos, tareas, una lista de resultados deseables y los resultados actuales.
+- **Personas**: Esta sección identifica los miembros del equipo e indica sus funciones. Aquí, los usuarias pueden descubrir quién está implicado con diferentes aspectos del proyecto. 
+- **Documentos**: Esta parte del sitio web contiene un calendario de las próximas reuniones y sus órdenes del día. También se almacenarían aquí las minutas de reuniones anteriores, así como las presentaciones hechas en cualquier reunión. Los miembros pueden servirse de esta "pared" para presentar sus trabajas a la espera de la revisión de sus colegas. Esas revisiones y los comentarios también se pueden colgar. 
+- **Comunicaciones**: Esta sección contiene vínculos e información que conectan a todas las personas que forman el equipo. 
+
+Las **páginas web** son un **gran activo**, pero **requieren cuidado**. Alguien tiene que vigilar y actualizar el sitio. Dependiendo del alcance del proyecto, esta importante función podría ser **labor exclusiva de una persona del equipo**. 
+
 9. Modelos PMI y CMMI hacia ágil 
 ********************************
+
+Como se ha visto en módulos anteriores, **PMI** son las siglas de **"Project Management Institute"**, una organización internacional sin ánimo de lucro que se dedica al estudia y promoción de dirección de proyectas. Esta organización pretende **establecer un conjunto de directrices que orienten la dirección y gestión de proyectos**, proponiendo aquellos procesos de gestión más habituales que la práctica ha demostrado que son efectivos. 
+
+Este tipo de **modelo PMI** define el proyecta como un emprendimiento temporal que se lleva a cabo para crear un producto o servicio. Es un proceso, con una duración determinada y un fin concreto, compuesto por actividades y tareas diferentes, que puede ser elaborado de manera gradual. 
+
+En cuanto modela **CMMI** (Capability Maturity Model Integration, Integración de sistemas modelos de madurez de capacidades), surge con la idea de ser aplicada a la mejora de procesos en un amplio espectro de organizaciones y es reconocida como un estándar en la industria, principalmente de TI (Tecnologías de Información). 
+
+Inicialmente CMMI se componía de un único modelo. Con el tiempo y gracias al éxito obtenido se desarrollaron **3 modelos diferentes**:
+
+- **CMMI-DEV (Development)**: sirve como guía para medir, monitorear y administrar el proceso de desarrollo y mantenimiento de productos y servicios. 
+- **CMMI-ACQ (Acquisition)**: sirve coma guía para mejorar el proceso de adquisición de productos y servicios. 
+- **CMMI-SVC (Services)**: sirve como guía para proporcionar servicios internos en una organización y a clientes externos. 
 
 10. Trabajar con proyectos tradicionales
 ****************************************
 
+A la largo del tiempo se han desarrollada **metodologías para la gestión de proyectos**, sabre toda **vinculadas a procesos industriales o proyectos de construcción**. En los que se ha necesitado gestionar unos recursos y un equipa durante un periodo de tiempo para poder desarrollar un procesa en el cual se obtiene un resultado o producto. 
+
+Si nos fijamos en las diferentes **metodologías tradicionales** que existen, vemos que se han basado en **dividir el proyecto en diferentes etapas o procesos** en los que se gestionan unas tareas similares y que se ejecutan de manera secuencial. De manera que al realizar las tareas de una etapa conseguimos orientarnos para resolver las tareas de la siguiente etapa. 
+
+10.1. Etapas
+++++++++++++
+
+A continuación, se hace un repaso de las *etapas más comunes**: 
+
+1. **Inicialización**: en esta fase se realizará la definición del proyecto, reflejando su alcance y objetivos. Es importante identificar todas las necesidades las que el proyecta tiene que dar respuesta. 
+2. **Planificación**: se elaboran todos los planes de gestión para el desarrollo del proyecto. Fijando las tareas que hay que desarrollar, el tiempo que se tardará, los costes y recursos necesarias. 
+3. **Ejecución**: en esta fase se tienen que realizar las tareas que se han planteada en la fase anterior, de modo que se alcancen las hitos y objetivos planteados. 
+4. **Seguimiento**: se encarga de controlar la ejecución de las tareas, comparándolas con las planificadas e introduciendo medidas en casa de que se observen diferencias. 
+5. **Finalización**: es la etapa de comprobar que el producto obtenido es el que se había definido en la fase de inicialización 
+
+10.2. Aplicación de la metodología
+++++++++++++++++++++++++++++++++++
+
+Estas metodologías se suelen aplicar en proyectos en los que los **objetivos** están **bien definidos** y se pueden descomponer en **tareas bien acotadas**, tanto nivel de costes como de tiempo. De esta forma es posible planificar desde un inicio de una forma bastante aproximada. Aun así, **la experiencia influirá en obtener una planificación más acertada**. 
+
+Como hemos visto, en la **planificación tradicional** todas las fases están bien definidas y acotadas temporalmente, y aunque algunas tareas de una fase se realicen en otras fases, **la interacción entre estas es mínima**. 
+
+10.3. Etapa final
++++++++++++++++++
+
+Por ejemplo, es en la fase de finalización en la que se analiza el proceso que se ha desarrollado, identificando los posibles problemas que se han dada, las causas que lo han generado y las soluciones adoptadas. **Esta información** no sirve para mejorar el proyecto actual, sino que **pasa a formar parte de la experiencia y se podrá aplicar en la planificación de nuevos proyectos**. 
+
+En el planteamiento tradicional **la validación por el cliente se produce en la etapa final**, si el proyecto estaba abierto o los requisitos para el cliente han cambiado drásticamente, implicará que el producto obtenida no será válido y habrá que redefinir la definición y repetir las distintas fases, malgastando tiempo y recursos. Para intentar **solucionar este tipo de circunstancias**, se introduce el concepto de **ciclo de vida del proyecto**, que consiste en aplicar varias iteraciones de cada una de las fases descritas. De esta manera se obtienen resultados parciales y **se pueden introducir cambios** requeridos para el cliente, mejoras o correcciones durante la ejecución del proyecto. 
+
 11. Resumen
 ***********
+
+- Una de las bases que fundamenta un proyecto es el **presupuesto**. O lo que es lo mismo, el cálculo anticipado necesaria para llevar cabo la dirección, gestión y desarrollo de un proyecto dado. 
+- La **gestión del coste** se define como el control que hay que llevar cabo para mantener el coste dentro de los límites marcadas por los objetivos de la misión del protector. 
+- En el marco de las metodologías ágiles destacan dos **tipos de contratos**: los contratos **ágiles** y los contratas **a precio cerrado**. 
+- La **autoorganización** de los equipos es un concepto fundamental recogido en el Manifiesto Ágil y reforzado por todos y cada una de los marcos de trabajo ágiles. Conlleva la definición de objetivas, limitación en el tiempo y la toma de decisiones. 
+- Las **metodologías tradicionales** que existen se han basado en dividir el proyecto en diferentes etapas o procesos en los que se gestionan unas tareas similares y que se ejecutan de manera secuencial.
 
 12. Actividades
 ***************
@@ -635,5 +845,57 @@ A continuación, veremos una serie de **características** sobre este concepto:
    :align: center
 
 .. figure:: ../../_static/3_metodologias_agiles/3.6_tipos_contratos/actividades/actividad_3_4.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/3_metodologias_agiles/3.6_tipos_contratos/actividades/actividad_4_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/3_metodologias_agiles/3.6_tipos_contratos/actividades/actividad_4_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/3_metodologias_agiles/3.6_tipos_contratos/actividades/actividad_4_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/3_metodologias_agiles/3.6_tipos_contratos/actividades/actividad_5_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/3_metodologias_agiles/3.6_tipos_contratos/actividades/actividad_5_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/3_metodologias_agiles/3.6_tipos_contratos/actividades/actividad_5_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/3_metodologias_agiles/3.6_tipos_contratos/actividades/questionnaire_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/3_metodologias_agiles/3.6_tipos_contratos/actividades/questionnaire_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/3_metodologias_agiles/3.6_tipos_contratos/actividades/questionnaire_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/3_metodologias_agiles/3.6_tipos_contratos/actividades/questionnaire_4.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/3_metodologias_agiles/3.6_tipos_contratos/actividades/questionnaire_5.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/3_metodologias_agiles/3.6_tipos_contratos/actividades/questionnaire_6.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/3_metodologias_agiles/3.6_tipos_contratos/actividades/questionnaire_7.jpg
    :width: 70%
    :align: center
