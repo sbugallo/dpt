@@ -7,6 +7,5 @@ Dirección de Proyectos Tecnológicos
    modulos/1_gestion_integrada_de_proyectos/index
    modulos/2_team_building/index
    modulos/3_metodologias_agiles/index
-   modulos/4_herramientas_tecnologicas/index
-   modulos/5_nuevas_tecnologias/index
+   modulos/4_nuevas_tecnologias/index
 

@@ -127,14 +127,14 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
-latex_documents = [(master_doc, "dpt.tex", "Dirección de Proyectos Tecnológicos", "Sergio Bugallo", "manual")]
+latex_documents = [(master_doc, "dpt.tex", "Dirección de Proyectos Tecnológicos", "Sergio Bugallo Enjamio \\\\ Paula Oliveira Núñez", "manual")]
 
 
 # -- Options for manual page output ---------------------------------------
 
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
-man_pages = [(master_doc, "dpt", "Dirección de Proyectos Tecnológicos", [author], 1)]
+man_pages = [(master_doc, "dpt", "Dirección de Proyectos Tecnológicos", ["Sergio Bugallo Enjamio", "Paula Oliveira Núñez"], 1)]
 
 
 # -- Options for Texinfo output -------------------------------------------
@@ -143,7 +143,7 @@ man_pages = [(master_doc, "dpt", "Dirección de Proyectos Tecnológicos", [autho
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, "dpt", "Dirección de Proyectos Tecnológicos", author, "dpt", "One line description of project.", "Miscellaneous")
+    (master_doc, "dpt", "Dirección de Proyectos Tecnológicos", "Sergio Bugallo Enjamio \\\\ Paula Oliveira Núñez", "dpt", "One line description of project.", "Miscellaneous")
 ]
 
 # -- Options for Epub output -------------------------------------------------
