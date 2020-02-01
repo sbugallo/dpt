@@ -1,2 +1,251 @@
 4.1. Arquitectura de Sistemas
 =============================
+
+.. figure:: ../../_static/4_nuevas_tecnologias/4.1_arquitectura_sistemas/mapa_conceptual.jpg
+   :width: 70%
+   :align: center
+
+
+1. Sistemas open source
+***********************
+
+.. note:: **Open Source o Código Abierto** es una expresión utilizada para la denominación de un tipo de software que  e distribuye mediante una licencia. También le permite al usuario, siempre y cuando tenga los conocimientos  precisos, emplear el código fuente del programa para aprender, cambiarlo o aplicar mejoras al mismo, pudiendo incluso hasta redistribuirlo si así lo desea. 
+
+El tiempo de espera para la **corrección de errores** es más reducido en comparación al ciclo que se debería esperar en un programa con código cerrado. Esto aporta importantes ventajas y beneficios para el usuario. 
+
+1.1. Inicio del software open source
+++++++++++++++++++++++++++++++++++++
+
+La expresión Open Source aparece por primera vez en el año 1990 por las **comunidades de software libre**. 
+
+
+Es esencial conocer la **diferencia entre los programas Open Source**, que proveen de su código abierto y los programas **Free Software o Software Libre**, que no tienen nada que ver con la distribución de programas gratuitos.
+
+.. note:: El **Free Software o Software libre** promueve la libertad, en la que los usuarios de forma individual o en cooperación con otros programadores informáticos son libres de hacer lo que desean con sus copias de software gratuito, independientemente de cuanto se pague para obtener el programa. 
+
+Aunque existe una confusión común entre ambas filosofías debemos conocer la diferencia. La expresión Código abierto se acuñó para evitar cualquier malentendido con el Software Libre o Free Software. A pesar de ello, ambas expresiones están directamente relacionadas, pero entre ellas existen **diferencias de criterio** importantes. 
+
+Los dos movimientos tienen diferencias filosóficas. Desde la **FSF (Free Software Foundation)**, movimiento liderado por Richard Stallman, se priorizan los aspectos de naturaleza ética. Mientras que en el **Open Source** se acentúan los aspectos técnicos sobre cualquier discusión moral sobre las licencias y los derechos. Básicamente se distinguen por **argumentos deontológicos**. 
+
+A la hora de trabajar en un proyecto existen distintos **aspectos esenciales** a tener en cuenta como: 
+
+- **Minimizar los costes**. 
+- **Que las herramientas tengan un gasto moderado**. 
+- **Conocer las herramientas que vamos a emplear**. 
+- **Que nos proporcionen la seguridad de estar respaldadas con suficiente contenido**. 
+
+En esta situación, es donde intervienen las herramientas de código abierto u Open Source. Estas herramientas nos **ofrecen soluciones infinitas** para trabajar minimizando gastos. 
+
+1.2. Herramientas de Entorno de Desarrollo Integrado (IDE)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Las herramientas de **Entorno de Desarrollo Integrado (IDE)** proporcionan servicios integrales para facilitarle al desarrollador o programador el desarrollo de software. 
+
+Algunas de las **herramientas de Entorno de Desarrollo Integrado (IDE)** más utilizadas son: 
+
+- **Netbeans**: el IDE que Sun Microsystems lanzará allá por el año 2000 es uno de los más utilizados por la comunidad de desarrolladores en todo el mundo. Aunque en principio fue considerado para trabajar con Java, hoy en día reúne una serie de características que lo hacen muy atractivo para emplear con otros lenguajes. 
+- **Atom**: es un editor de texto desarrollado por Github. Tiene una apariencia estética muy llamativa y es muy fácil de utilizar. Es muy similar a Sublime Text, pero con la diferencia de que Atom es una herramienta gratuita.
+
+1.3. Herramientas de dessarollo web frontend
+++++++++++++++++++++++++++++++++++++++++++++
+
+El **desarrollo web Frontend** radica en la conversión de datos en una interfaz gráfica para que el usuario pueda ver e interactuar con la información de forma digital usando HTML CSS y JavaScript. 
+
+Algunas de las **herramientas de desarrollo web frontend** más utilizadas son: 
+
+- **Bootstrap**: ha sido utilizada por los desarrolladores de Twitter. Esta herramienta ha sido una revolución para la maquetación de páginas web. Este framework contiene plantillas de diseño y tipografía, formularios, botones, cuadros, menús de navegación y otros elementos de diseño basado en HTML y CSS. Así como extensiones de JavaScript opcionales adicionales. Además, resulta muy sencillo realizar plantillas web con HTM y CSS, cuya realización resulta prolongada. 
+
+- **jQuery**: es un framework de Javascript es el más utilizado. La característica principal de esta biblioteca es que posibilita el cambio de contenido de una página web sin necesidad de recargarla, mediante la manipulación del árbol DOM y peticiones AJAX 
+
+
+- **JavaScript**: es el lenguaje de programación más utilizado. Es un lenguaje orientado a objetos, está basado en prototipos, es imperativo, débilmente tipado y dinámico. La versión más utilizada actualmente es ECMAScript 6. 
+
+- **BackboneJS**: es una librería para el desarrollo de sitios web, principalmente utilizada para aplicaciones web con bastante interacción con el cliente. En la que se hace una utilización de Javascript, Ajax, etc. Posibilita desarrollar Javascript atendiendo a patrones, con una variante de paradigma MVC (Modelo Vista Controlador). 
+
+- **Apache Cordova**: también se conoce como PhoneGap, es un framework para el desarrollo de aplicaciones móviles. Actualmente sirve como herramienta junto a Angular de otras librerías como Ionic. 
+
+- **AngularJS**: es uno de los frameworks más demandados en la actualidad. Se trabaja en la parte cliente de una aplicación, respetando el paradigma MVC y permite crear Single Web Applications (aplicaciones web que no necesitan ser recargadas). Detrás de Angular está Google. 
+
+1.4. Herramientas de desarrollo backend
++++++++++++++++++++++++++++++++++++++++
+
+Parte del desarrollo que se dedica a la **programación** de los diferentes **componentes de un sitio web** (páginas, formularios, funcionalidades, bases de datos, etc.) para que este funcione correctamente hace referencia al backend. En el **Backend** se trabaja con diferentes lenguajes de programación como Java, PHP, MySQL, etcétera. 
+
+Algunas de las **herramientas de desarrollo backend** más utilizadas son: 
+
+- **PHP**: es uno de los lenguajes de programación más utilizados con más de 2C años de utilización. PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de código abierto muy popular especialmente adecuado para el desarrollo web y que puede ser incrustado en HTML. 
+- **Java**: posibilita que el programa se escriba una vez y se ejecute en cualquier dispositivo. Es un lenguaje de programación orientado a objetos. 
+- **Ruby**: su utilización está creciendo de forma sorprendente su utilización en el desarrollo web. Es un lenguaje de programación interpretado, reflexivo y orientado a objetos.
+- **Python**: consiste en un lenguaje de programación interpretado cuya filosofía hace hincapié en una sintaxis que favorezca un código legible. Se trata de un lenguaje de programación multiparadigma, ya que soporta orientación a objetos, programación imperativa y programación funcional. 
+- **NodeJS**: es un entorno de programación en JavaScript para el Backend basado en el motor V8 de Javascript del navegador Google Chrome y orientado a eventos, no bloqueantes. Esto hace muy rápido a la hora de crear servidores web y emplear tiempo real.
+- **ExpressJS**: es un framework que permite crear servidores web y recibir peticiones HTTP de forma sencilla. También posibilita crear APIS REST de forma rápida.
+
+1.5. Bases de datos
++++++++++++++++++++
+
+Una base de datos consiste en un **conjunto de datos** pertenecientes a un mismo contexto y almacenados sistemáticamente para su posterior uso. 
+
+Algunas de las **bases de datos** más utilizadas son:
+
+- **MariaDB**: es un sistema de gestión de bases de datos derivados de MySQL Tiene dos motores de almacenamiento, Aria y XtraDB y además es compatible con MySQL.
+- **PostgreSQL**: por medio de un sistema denominado MVCC (acceso concurrente multiversión) posibilita que mientras un proceso escribe en una tabla, otros accedan a la misma tabla sin necesidad de bloqueos. 
+- **MySQL**: es la base de datos Open Source más importante de nuestros tiempos. Posibilita el acceso a sus bases de datos a multitud de lenguajes de programación, que incluyen PHP, Ruby, C++ o Java. 
+- **Redis**: es un motor de base de datos en memoria, fundamentado en el almacenamiento en tablas clave/valor, pero que puede ser usada como base de datos durable y persistente.
+- **MongoDB**: es una base de datos no relacional (NoSQL) que guarda los datos en documentos tipo JSON (JavaScript Object Notation), pero en forma binaria (BSON) para hacer la integración de una forma más rápida.
+
+1.6. Sistemas de gestión de contenidos (CMS)
+++++++++++++++++++++++++++++++++++++++++++++
+
+.. note::  Un **Sistema de Gestión de Contenidos (CMS)** es un software que ayuda a los usuarios a crear, administrar y modificar contenido en un sitio web sin la necesidad de conocimientos técnicos especializados. 
+
+Algunos de los **Sistemas de Gestión de Contenidos (CMS)** más empleados son:
+
+- **Wordpress**: fue lanzado en 2003 y fue muy empleado para la creación de blogs. En la actualidad, existe una enorme cantidad de plantillas que hacen de Wordpress una opción más que atractiva a la hora de configurar una página web. 
+- **Drupal**: es un sistema dinámico, que no almacena los contenidos en archivos estáticos en el sistema de servidor de forma fija. El contenido textual de las páginas y otras configuraciones se almacenan en una base de datos y se editan empleando el entorno Web. Posibilita publicar artículos, imágenes o archivos y también ofrece la posibilidad de otros servicios añadidos como foros, votaciones, cuestionarios, blogs y administración de usuarios y permisos. 
+- **Prestashop**: su principal aplicación es la creación de tiendas online de comercio electrónico. Es compatible con un gran número de pasarelas de pago electrónico. Posee plantillas y módulos que son extensiones que amplían las funcionalidades de una tienda online realizada con Prestashop. 
+- **Joomla**: permite desarrollar sitios web dinámicos e interactivos. Además, es capaz de crear, modificar o eliminar contenido de un sitio web de manera sencilla a través de un panel de administración. Necesita estar respaldado por una base de datos. 
+
+1.7. Herramientas DevOps
+++++++++++++++++++++++++
+
+Las herramientas **DevOps** se encargan de automatizar la entrega tanto del software como de la infraestructura necesaria para garantizar la calidad del proyecto y la estabilidad de todos los sistemas. 
+
+Algunas **herramientas DevOps** más utilizadas son: 
+
+- **Docker**: permite automatizar la ejecución de aplicaciones dentro de contenedores de software. Posibilita que contenedores independientes se ejecuten dentro de una sola instancia de Linux. 
+- **Kubernetes**: es un gestor de grupos de contenedores creados por Google. La multinacional cedió el proyecto a Cloud Native Computing. Su misión es proporcionar una plataforma para automatizar el despliegue, la escala y las operaciones de contenedores de aplicaciones a través de los hosts.
+
+1.8. Herramientas Cloud computing
++++++++++++++++++++++++++++++++++
+
+El **Cloud computing** se fundamenta en proporcionar servicios a través de la red, principalmente de Internet. 
+
+Una de las **herramientas de Cloud Computing más utilizada es OpenStack**: proyecto de computación en la nube para proporcionar una infraestructura como servicio. OpenStack es una plataforma de tecnología open source que usa recursos virtuales agrupados para diseñar y gestionar nubes privadas y públicas. 
+
+1.9. Editores Markdown
+++++++++++++++++++++++
+
+**Markdown** es un lenguaje de marcado simple que permite redactar textos para Internet con un formato limpio online o sin conexion. 
+
+Los **editores Markdown** Open Source más utilizados son: 
+
+- **ReText**: es un editor de textos en Markdown escrito en Python. Utiliza librerías QT, por lo que es capaz de ejecutarse en distintas plataformas. Tiene una ventana para visualizar lo que se escribe y para ver cómo se mostrará en web. 
+- **HarroPad**: tiene una apariencia muy visual, es un procesador de textos multiplataforma, disponible para Windows, OS Xy Linux. Tiene muchas funciones como la capacidad de importar contenidos a Youtube, Twitter, Vimeo, Slideshare, Flickr, Instagram, Soundcloud y Wikipedia o para exportar en formatos HTMLy PDF, así como a WordPress, Tumblr, MediaWiki, EPub, ReStructured Text o RTF.
+
+2. Mapa de sistemas
+*******************
+
+Los **Sistemas de Información** cumplen tres objetivos prioritarios en las empresas: 
+
+- Automatización de los procesos operativos. 
+- Proporcionar información que sirva de apoyo al proceso de toma de decisiones. 
+- Alcanzar ventajas competitivas a través de su implantación y uso. 
+
+Los Sistemas de Información que logran automatización de procesos operativos dentro de una empresa, se denominan **Sistemas Transaccionales**. Su función principal consiste en procesar transacciones como pagos, cobros, pólizas, entradas, salidas, entre otros. 
+
+Los **Sistemas de Información** apoyan el proceso de la toma de decisiones como los Sistemas de Soporte de Toma de Decisiones (DSS), Sistemas para la toma de Decisiones (GDSS), Sistemas Expertos de Soporte a la Toma de Decisiones (EDSS) y Sistemas de Información para Ejecutivos (EIS). 
+
+Un tercer tipo de sistemas, de acuerdo con su utilización u objetivos que cumplen, es el de los **Sistemas Estratégicos**, los cuales se desarrollan en las organizaciones con el fin de alcanzar ventajas competitivas, a través de la utilización de la tecnología de la información. 
+
+3. Cuadrante de Gartner
+***********************
+
+.. note:: El **cuadrante mágico de Gartner** es una representación gráfica de la situación del mercado de un producto tecnológico en un momento determinado. Se emplea para tener una referencia del comportamiento del mercado a través de la posición relativa de productos o situaciones en el área del análisis de los negocios. 
+
+Esta **representación gráfica** se ha convertido en una de las principales referencias TI de la Industria. Este cuadrante responde a una investigación de mercado que la consultora Gartner realiza sobre los principales subsectores de la industria tecnológica, en la que analiza las **tendencias del mercado**. 
+
+Cada **documento de análisis** se actualiza cada uno o dos años y su consulta tiene un coste para las empresas. 
+
+Las empresas deben utilizar un **Cuadrante Mágico** como primer paso para comprender qué proveedores tecnológicos se deben considerar antes de realizar una inversión. 
+
+Un Cuadrante Mágico se representa como una **gráfica dividida en cuatro cuadrantes**. Tiene un eje X que señala su capacidad para ejecutar, mientras que el eje Y indica lo completo de su propuesta de valor.
+
+.. figure:: ../../_static/4_nuevas_tecnologias/4.1_arquitectura_sistemas/cuadrante_gartner.jpg
+   :width: 40%
+   :align: center
+
+De izquierda a derecha y de arriba abajo las empresas de cada sector se sitúan en los **cuadrantes** indicados: 
+
+- **Challengers**:
+	Se comportan adecuadamente en el mercado para en un momento determinado **convertirse en una amenaza** seria para los líderes. Tienen productos sólidos y los recursos suficientes para mantener un crecimiento continuo. 
+
+	Aunque, por el momento **no tienen el tamaño suficiente** o la influencia global que sí disfrutan de las empresas que se encuentran en el cuadrante leaders. 
+
+- **Leaders**: 
+	Las empresas que se enmarcan en este cuadrante tienen una **gran cuota de mercado**. También tienen una alta capacidad para crecer. Tienen la fuerza que se necesita para impulsar y adoptar nuevas tecnologías. 
+
+	Para **Gartner** son empresas que manifiestan una comprensión clara de las necesidades del mercado, **son innovadoras y líderes de opinión** y poseen planes bien articulados que sus clientes pueden emplear al diseñar sus infraestructuras y estrategias. 
+
+	Además, se valora **su presencia en los cinco continentes**, una situación financiera adecuada y un ecosistema de partners que apoyen a su plataforma. 
+
+- **Niche Players**:
+
+	Suelen estar **especializados en segmentos específicos** del mercado o que trabajan exclusivamente en sectores verticalizados. 
+
+	Este cuadrante puede incluir a **proveedores** que se encuentran adaptando los productos existentes para entrar a un nuevo mercado o a los proveedores más grandes que tienen dificultades para desarrollar y llevar a cabo su visión.
+
+	Gartner sitúa a las empresas **en qué momento se encuentran en el mercado**, cómo se posicionan en los distintos competidores IT y cómo se ajusta a su oferta tecnológica a sus necesidades, presentes y futuras que puede experimentar a medio e incluso a largo plazo. 
+
+- **Visionaires**:
+	Las empresas situadas en este cuadrante tienen la capacidad de **ofrecer productos innovadores**, que resuelven problemas reales de sus clientes. Habitualmente son empresas que no tienen una cuota significativa de mercado y que realmente son significativas en el momento del análisis y que **aún no resultan rentables**.
+
+	Suelen estar en esta categoría las **startups**, empresas que en la mayoría de los casos tienen como objetivo acabar siendo adquiridas por otras más grandes y que ya permanecen en el mercado. 
+
+Desde la página de Gartner se pueden consultar múltiples cuadrantes mágicos, ya que se ofrecen **más de 200 gráficas interactivas**. Cuadrante mágico de Gartner 
+
+También existen **críticas al Cuadrante Mágico de Gartner**, ya que no todas las empresas analizan que sea adecuado aparecer en un gráfico. 
+
+Se diferencian principalmente **dos críticas**: 
+
+1. La elaboración del **Cuadrante Mágico** parece estar orientada a **satisfacer a la propia Industria Tecnológica** que a los clientes. Según esta critica, se priorizarían los intereses de inversores y grandes empresas sobre las organizaciones que tienen que tomar la decisión de compra. 
+2. Se identifica una **falta de transparencia** sobre cómo contribuyen las grandes empresas a financiar la elaboración de la propia herramienta que se tiene que analizar. En su elaboración, Gartner incurre en un **conflicto de intereses**. Ha sido muy criticado que la consultora no haga públicos los criterios de evaluación que utiliza para situar en una determinada posición a cada empresa en sus Cuadrantes Mágicos. 
+
+Estas críticas **tuvieron sus efectos ante los tribunales** en el año 2009 cuando el fabricante ZL Technologies denunció a la consultora por su falta de legitimidad a la hora de realizar estos ratings. Sin embargo, la **demanda fue desestimada**. El tribunal consideró que el trabajo de Gartner estaba protegido por la primera enmienda, en su derecho a expresar una opinión propia. 
+
+Hay otras **alternativas al Cuadrante Mágico de Gartner**. Existen otras herramientas más pequeñas, que se apoyan casi siempre en una metodología de **crowdsourcing** que están comenzando a diferenciarse de la famosa consultora. 
+
+**G2 Crowd** es uno de los mejores ejemplos. La empresa está dirigida por tres ejecutivos de Oracle. Frente al Cuadrante Mágico de Gartner se apuesta por lo que denominan **The Grid** una herramienta que compara las distintas aplicaciones y soluciones tecnológicas utilizadas como input. Que es la opinión de las empresas que han adoptado distintas soluciones que se analizan. 
+
+**En IT Central Station** se utiliza este conocimiento crowsource en una plataforma que conecta a los compradores potenciales con las compañías que se encuentran en una situación parecida, analistas de mercado y expertos Tl que necesitan compartir su visión sobre las distintas alternativas que se presentan. 
+
+También **Expert Exchange** ofrece a los profesionales de la tecnolog[a acceso a expertos técnicos, contenido educativo y otros materiales. 
+
+En España compradores como **SoftDolft** se presentan como compradores de software especializado en empresas y que, aunque funcionan correctamente en áreas de ERP y CRM, tienen un enfoque más dirigido a pymes que a la gran empresa y que no suele ofrecer respuestas para los entornos técnicos. 
+
+4. Desarrollo a medida: lenguajes de programación
+*************************************************
+
+.. note:: Un **lenguaje de programación** es un conjunto de símbolos y códigos usados para orientar la programación de estructuras en el desarrollo software. 
+
+El **lenguaje de programación** permite ajustase exactamente a lo que se necesita. Los lenguajes de programación son herramientas que permiten crear nuestros programas y software. 
+
+Entre ellos **se encuentran**: Java, JavaScript, C/C++, Python. 
+
+6. Resumen
+**********
+
+- **Open Source o Código Abierto** es una expresión utilizada para la denominación de un tipo de software que se distribuye mediante una licencia. 
+- El **Free Software o Software libre** promueve la libertad, en la que los usuarios de forma individual o en cooperación con otros programadores informáticos son libres de hacer lo que desean con sus copias de software gratuito. 
+- Existen distintas **herramientas de programación** como: de Entorno de Desarrollo Integrado (IDE), herramientas de desarrollo web frontend, herramientas de desarrollo backend, bases de datos, sistemas de gestión de contenidos (CMS), Devops, Claud Computing y editores Markdown. 
+- Los **Sistemas de Información** apoyan el proceso de la toma de decisiones como los DSS, GDSS, EDSS y EIS. 
+- El **cuadrante mágico de Gartner** es una representación gráfica de la situación del mercado de un producto tecnológico en un momento determinado. 
+- Existen **múltiples leguajes de programación** que permiten desarrollar proyectos a medida Java, C, C++, Python, PHP, Perl, Swift, R y Rust. 
+
+7. Actividades
+**************
+
+.. figure:: ../../_static/4_nuevas_tecnologias/4.1_arquitectura_sistemas/actividades/questionnaire_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/4_nuevas_tecnologias/4.1_arquitectura_sistemas/actividades/questionnaire_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/4_nuevas_tecnologias/4.1_arquitectura_sistemas/actividades/questionnaire_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/4_nuevas_tecnologias/4.1_arquitectura_sistemas/actividades/questionnaire_4.jpg
+   :width: 70%
+   :align: center
