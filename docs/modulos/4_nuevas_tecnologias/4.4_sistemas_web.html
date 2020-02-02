@@ -8,7 +8,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>4.4. Sistemas Web &mdash; DPT</title>
+  <title>4.4. Sistemas web &mdash; DPT</title>
   
 
   
@@ -63,7 +63,7 @@
             
             
               <div class="version">
-                02/02/2020 00:01:51
+                02/02/2020 16:55:01
               </div>
             
           
@@ -95,7 +95,17 @@
 <li class="toctree-l2"><a class="reference internal" href="4.1_arquitectura_sistemas.html">4.1. Arquitectura de Sistemas</a></li>
 <li class="toctree-l2"><a class="reference internal" href="4.2_sistemas_gestion_informacion.html">4.2. Sistemas de gestión de información</a></li>
 <li class="toctree-l2"><a class="reference internal" href="4.3_sistemas_gestion_fabricacion.html">4.3. Sistemas de gestión de la fabricación</a></li>
-<li class="toctree-l2 current"><a class="current reference internal" href="#">4.4. Sistemas Web</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">4.4. Sistemas web</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#id1">1. Sistemas web</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#gestores-de-contenido">2. Gestores de contenido</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#alojamiento-de-la-app-web">3. Alojamiento de la app web</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#wordpress">4. Wordpress</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#joomla">5. Joomla!</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#desarrollo-a-medida">6. Desarrollo a medida</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#resumen">7. Resumen</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#actividades">8. Actividades</a></li>
+</ul>
+</li>
 <li class="toctree-l2"><a class="reference internal" href="4.5_sistemas_comercio_electronico.html">4.5. Sistemas de comercio electrónico</a></li>
 <li class="toctree-l2"><a class="reference internal" href="4.6_marketing_digital.html">4.6. Marketing digital</a></li>
 <li class="toctree-l2"><a class="reference internal" href="4.7_redes_sociales.html">4.7. Redes sociales</a></li>
@@ -151,7 +161,7 @@
         
           <li><a href="index.html">Nuevas tecnologías aplicadas a la mejora de procesos para su uso en la gestión de proyectos</a> &raquo;</li>
         
-      <li>4.4. Sistemas Web</li>
+      <li>4.4. Sistemas web</li>
     
     
       <li class="wy-breadcrumbs-aside">
@@ -180,7 +190,272 @@
            <div itemprop="articleBody">
             
   <div class="section" id="sistemas-web">
-<h1>4.4. Sistemas Web<a class="headerlink" href="#sistemas-web" title="Enlazar permanentemente con este título">¶</a></h1>
+<h1>4.4. Sistemas web<a class="headerlink" href="#sistemas-web" title="Enlazar permanentemente con este título">¶</a></h1>
+<div class="figure align-center">
+<a class="reference internal image-reference" href="../../_images/mapa_conceptual20.jpg"><img alt="../../_images/mapa_conceptual20.jpg" src="../../_images/mapa_conceptual20.jpg" style="width: 70%;" /></a>
+</div>
+<div class="section" id="id1">
+<h2>1. Sistemas web<a class="headerlink" href="#id1" title="Enlazar permanentemente con este título">¶</a></h2>
+<div class="admonition note">
+<p class="first admonition-title">Nota</p>
+<p class="last">Los <strong>sistemas web</strong> son los protocolos que permiten intercambiar datos entre aplicaciones conectadas a la red.</p>
+</div>
+<p>Los sistemas web también se denominan <strong>aplicaciones web (app web)</strong> por ejecutarse a través del navegador.</p>
+<p>Son un software dinámico que permite distintas funciones. Tienen una apariencia similar a las páginas webs. Se diferencian en que una página no aporta nueva información mientras que un sistema funciona como canal de comunicación interaccionando con el usuario.</p>
+<p>Están creados e instalados en un servidor de internet o en una intranet propia. Esto facilita el <strong>acceso desde el navegador</strong> sin importar el sistema operativo y evita tener que instalarlo en el ordenador.</p>
+<p>Los <strong>sistemas operativos</strong> están compuestos por: el navegador web y el servidor.</p>
+<p>Estos funcionan de modo <strong>cliente/servidor</strong>. El cliente (elemento activo) solicita a través del navegador una página web. El servidor (elemento pasivo) responde a esa solicitud.</p>
+<p>Hay <strong>dos tipos de solicitudes</strong>:</p>
+<ul class="simple">
+<li><strong>GET</strong> se realiza con la URL.</li>
+<li><strong>POST</strong> se realiza interactuando con los formularios.</li>
+</ul>
+<p>Los <strong>servidores web</strong> guardan la información, la envían y realizan copias temporales en los dispositivos que acceden a ella.</p>
+<div class="section" id="tipos-de-web">
+<h3>1.1. Tipos de web<a class="headerlink" href="#tipos-de-web" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>Las aplicaciones web tienen una cantidad muy amplia de funciones. Estas <strong>funciones marcan las diferencias</strong> entre los distintos <strong>tipos de webs</strong>:</p>
+<ul>
+<li><p class="first"><strong>Estáticas</strong>:</p>
+<blockquote>
+<div><ul class="simple">
+<li>Muestra información que no suele cambiar, texto y objetos con movimiento.</li>
+<li>Desarrolladas con HTML y CSS.</li>
+<li>Creadas a través de plataformas de desarrollo y por gestores web.</li>
+<li>Uso comercial durante cortos períodos de tiempo, portfolios o currículum digital y para mostrar datos de contacto.</li>
+<li>Personalización y modificaciones muy difíciles y limitadas.</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><strong>Dinámicas</strong>:</p>
+<blockquote>
+<div><ul class="simple">
+<li>La información está en bases de datos donde se actualiza automáticamente sin necesidad de intervenir.</li>
+<li>Uso en blogs, páginas de noticias y medios de comunicación.</li>
+<li>Imprescindible en las apps que requieren actualizaciones habituales.</li>
+<li>Desarrollar la app es más complejo que si fuera estática.</li>
+<li>El uso de un gestor de contenidos o CMS (Content Management System) permite que usuarios sin conocimientos de programación puedan administrar y gestionar los contenidos de una manera sencilla y con bajo coste.</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><strong>Portales app web</strong>:</p>
+<blockquote>
+<div><ul class="simple">
+<li>Están diseñadas específicamente para las pantallas de los dispositivos móviles y las tabletas.</li>
+<li>Pueden tener contenidos y funciones igual que una web dinámica.</li>
+<li>Chat, correo, buscador, formularios, contenidos recientes…</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><strong>Tienda online para aplicaciones web</strong>:</p>
+<blockquote>
+<div><ul class="simple">
+<li>Similar a una web e-commerce.</li>
+<li>Su creación es más complicada que las estáticas o las dinámicas porque precisa una pasarela de pagos y bases de datos.</li>
+<li>Necesita un CMS debido a que requiere actualizaciones rápidas.</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><strong>App web animadas</strong>:</p>
+<blockquote>
+<div><ul class="simple">
+<li>Cada vez se usa menos este tipo de app web debido al mal posicionamiento SEO.</li>
+<li>Requiere de Flash para las animaciones.</li>
+</ul>
+</div></blockquote>
+</li>
+</ul>
+</div>
+<div class="section" id="tipos-de-aplicaciones-web">
+<h3>1.2. Tipos de aplicaciones web<a class="headerlink" href="#tipos-de-aplicaciones-web" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>Existen muchos <strong>tipos de aplicaciones web</strong> que se usan en la vida cotidiana. La mayoría de personas usan estos servicios para consultar información actualizada.</p>
+<p>Algunas <strong>apps web habituales</strong> son:</p>
+<ul class="simple">
+<li><strong>Web mail</strong>: Sistema de acceso al correo electrónico sin descargar nada en el ordenador.</li>
+<li><strong>Wikis</strong>: Sitios y aplicaciones donde la información es creada, eliminada, editada y compartida por los propios usuarios.</li>
+<li><strong>Weblog</strong>: Sitios y aplicaciones que tienen herramientas para los usuarios generen y actualicen contenidos.</li>
+<li><strong>Tiendas online</strong> Sitios y aplicaciones que permiten al usuario comprar desde cualquier lugar un producto sin desplazarse.</li>
+</ul>
+</div>
+</div>
+<div class="section" id="gestores-de-contenido">
+<h2>2. Gestores de contenido<a class="headerlink" href="#gestores-de-contenido" title="Enlazar permanentemente con este título">¶</a></h2>
+<div class="admonition note">
+<p class="first admonition-title">Nota</p>
+<p class="last">Los <strong>gestores de contenidos</strong> son un software con apariencia de portal que se ejecutan en Internet o intranet.</p>
+</div>
+<p>Los <strong>CMS</strong> poseen <strong>editores integrados</strong> que permiten ver el aspecto final mientras se elabora. Los usuarios tienen perfiles asignados (administrador, autor…) que les permiten trabajar simultáneamente sin afectar a otros. Cuando hay problemas al ejecutar el sitio, se puede acceder a los registros de las bases de datos para la recuperación hasta un punto seguro donde todo funcionara bien.</p>
+<p>Los <strong>contenidos se pueden publicar en el momento o programar</strong> para que se muestren en determinada fecha. Esto mejora la productividad y organización de los usuarios. Permite trabajar con diferentes tipos de contenidos de manera colaborativa sin necesidad de ser un programador web.</p>
+<p>La mayoría de CMS <strong>comparten unas partes características</strong>. Es necesario conocer cómo se denominan para entender las explicaciones. Las <strong>partes de un CMS</strong> son:</p>
+<ul class="simple">
+<li><strong>Front-end</strong>: Permite ver la interfaz final de la app web mientras se modifica con un editor visual.</li>
+<li><strong>Back-end</strong>: Muestran las áreas de la app web agrupadas en bloques y tiene una pestaña para editar código.</li>
+<li><strong>Panel de gestión</strong>: Herramientas para gestionar la app web y los contenidos.</li>
+<li><strong>Plantillas</strong>: Diseños prediseñados gratuitos o de pago que personalizan la apariencia del sitio web.</li>
+<li><strong>Plugins</strong>: Son extensiones que permiten añadir nuevas funciones a la app web sin necesidad de generar Plugins códigos. Al igual que los temas se pueden adquirir de manera gratuita o de pago.</li>
+<li><strong>Multilenguaje</strong>: No son necesarios en muchos CMS, pero permiten la personalización a través de lenguaje HTML, Multilenguaje y CSS.</li>
+</ul>
+<p>Existen <strong>diferentes gestores</strong> para realizar esta tarea. Es necesario conocer las características de los más usados para elegir el CMS que mejor se ajuste a sistema web que se desarrollará.</p>
+<p>Los <strong>gestores de contenidos recomendados</strong> son:</p>
+<ul class="simple">
+<li><strong>WordPress</strong>: Recomendado para desarrollar portales simples. Destaca por: la gestión, la cantidad de información del proyecto y la frecuencia que salen versiones. Tienen un gran control de código, una buena gestión de bugs y una gran cantidad de extensiones disponibles. La mayor ventaja ante la competencia es su sistema de instalación y actualización.</li>
+<li><strong>Joomla!</strong>: Recomendado para desarrollar portales simples. Destaca por: la comunidad, el soporte, las frecuentes actualizaciones de versión y la gran cantidad de extensiones. Estas versiones están muy controladas al igual que los bugs. El proceso de instalación es sencillo. Tienen vídeos para ayudar con la instalación. La gran desventaja es que no tiene actualizaciones automáticas.</li>
+<li><strong>Drupal</strong>: Recomendado para desarrollar intranets y foros. Destaca por: la comunidad, el soporte, la documentación disponible y las extensiones. Tienen una red de proveedores internacional. Tienen un amplio abanico de formación y seminarios.</li>
+</ul>
+<div class="figure align-center">
+<a class="reference internal image-reference" href="../../_images/cms.jpg"><img alt="../../_images/cms.jpg" src="../../_images/cms.jpg" style="width: 70%;" /></a>
+</div>
+</div>
+<div class="section" id="alojamiento-de-la-app-web">
+<h2>3. Alojamiento de la app web<a class="headerlink" href="#alojamiento-de-la-app-web" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Los datos de nuestro sitio web tienen que estar alojados en algún sitio, para ello existesn <strong>diferentes opciones de alojamiento</strong>: los servidores, el hosting y las bases de datos.</p>
+<p>Estos registros premiten <strong>intercambiar gran cantidad de información de manera autónoma</strong>.</p>
+<div class="section" id="servidor">
+<h3>3.1. Servidor<a class="headerlink" href="#servidor" title="Enlazar permanentemente con este título">¶</a></h3>
+<div class="admonition note">
+<p class="first admonition-title">Nota</p>
+<p class="last">Un <strong>servidor</strong> proporciona servicios a otros ordenadores a través de la red.</p>
+</div>
+<p>La elección de un servidor donde alojar el sitio puede <strong>determinar el número de tráfico</strong> que puede tener y la velocidad con la que carga y se ejecuta. Por eso hay que analizar las necesidades de cara al futuro que tendrá y la carga realista que supondrá el acceso de determinado número de usuarios al mismo tiempo.</p>
+<p>Los <strong>tipos de servidores</strong> que se usan para los sistemas web son:</p>
+<ul class="simple">
+<li><strong>Servidor de aplicaciones</strong>: Es usado para ejecutar aplicaciones con el navegador. Usado por todo tipo de servicios y portales de Internet o Cloud. Desencadena en otro tipo de servidores. Permite el desarrollo más sencillo de apps y su centralización. Los principales softwares para servidores de aplicaciones son: Apache, GlassFish, Web ogic, Jboss, Jetty, JOnAS, Resin, Blazix. Zope.</li>
+<li><strong>Servidor virtual</strong>: Está formado por particiones virtuales en un servidor físico independientes entre ellas. Puede ser un servidor dedicado o compartido. Un ejemplo de app que virtualiza las arquitecturas web es Oracle VM VirtualBox. Permite controlar varios sistemas operativos desde el mismo ordenador.</li>
+<li><strong>Servidor web</strong>: Está a la espera de la solicitud del cliente. Una vez recibida, descifra el nombre mediante DNS y envía el código HTML al cliente. Almacena páginas web y ejecuta procesos HTTP y HTTP2.</li>
+<li><strong>Servidor proxy</strong>: Es un servidor intermediario entre los Clientes y otros servidores que tienen un acceso más limitado. Recibe y genera peticiones HTTP y al mismo tiempo guarda un caché de los contenidos más recurridos evitando tener que repetir la solicitud al server. Cliente Proxy server HTTP server archiW2_htmI WEB 1 archiW2_htmI</li>
+<li><strong>Servidor web local</strong>: Es un servidor web almacenado en uno o varios equipos físicos pertenecientes a una red local. Es necesario usar un software especifico según el sistema usado para gestionar y navegar por la web. Permite realizar el diseño de un sitio web antes de tener contratado un dominio y un hosting.</li>
+</ul>
+</div>
+<div class="section" id="hosting">
+<h3>3.2. Hosting<a class="headerlink" href="#hosting" title="Enlazar permanentemente con este título">¶</a></h3>
+<div class="admonition note">
+<p class="first admonition-title">Nota</p>
+<p class="last">El <strong>hosting o alojamiento web</strong> es el alquiler de espacio en los servidores web.</p>
+</div>
+<p>En el mercado existen muchas <strong>ofertas de alojamiento web</strong> que se contratan por días, meses o incluso horas para momentos en que la web necesita más <strong>recursos y mejorar la capacidad de procesamiento</strong> por la cantidad de tráfico. Si el tráfico supera el límite del servidor, todos los sitios web del servidor pueden verse comprometidos.</p>
+<p>Los <strong>tipos de hosting</strong> son:</p>
+<ul class="simple">
+<li><strong>Compartido</strong>: Conocido como Hosting web es el tipo de hosting habitual. Comparte servidor (recursos, memoria espacio…) con los demás clientes. Tiene un bajo coste, viene preconfigurado, es de fácil uso, pero no permite controlar la configuración del servidor. El tráfico en los otros sitios web puede afectar ralentizando la descarga de recursos.</li>
+<li><strong>VPS</strong>: Aunque compartes el servidor como en el anterior, se ha creado una partición que te permite tener las características de un servidor dedicado, pero con menor coste. Este espacio de server dedicado es recomendable en empresas con un gran flujo de clientes. Requiere conocimientos sobre administración de servidores.</li>
+<li><strong>En la nube</strong>: Es el tipo de hosting más recomendado para páginas web en general. Tiene la ventaja de usar un sistema clúster donde funcionan en conjunto distintos servidores. Los datos son redundados a otros servidores, por tanto, si falla algún server el sitio web no se ven afectado.</li>
+<li><strong>WordPress</strong>: Está configurado para el software de WordPress. Tienen características propias y ofertan plantillas y herramientas específicas para facilitar el trabajo. Es sencillo de instalar y usar.</li>
+<li><strong>Con servidor dedicado</strong>: El uso de un servidor fisico por un solo cliente supone unos costes elevados. Requiere conocimientos sobre la administración de servidores. Pero a diferencia de tener un servidor físico en la empresa es que el hosting se encarga de su mantenimiento técnico.</li>
+</ul>
+</div>
+<div class="section" id="bases-de-datos">
+<h3>3.3. Bases de datos<a class="headerlink" href="#bases-de-datos" title="Enlazar permanentemente con este título">¶</a></h3>
+<div class="admonition note">
+<p class="first admonition-title">Nota</p>
+<p class="last">Las <strong>bases de datos</strong> contienen toda la información indexada SQL de nuestro sitio web para la consulta.</p>
+</div>
+<p>La <strong>web se actualiza automáticamente</strong> al mismo tiempo que los datos de la base de datos. Puede importar y exportar datos e interactuar con ellos a través de un <strong>gestor de bases de datos como phpMyAdmin</strong>.</p>
+<p>Para comprender la complejidad que alcanza el uso de una base de datos en una app piensa en la banca electrónica. Millones de usuarios acceden y hacen movimientos de dinero y a base de datos tiene que registrarlo y actualizarlo lo más rápido posible. Para registrar los movimientos antes había que hacerlo a través de una persona física en un banco y resultaba un proceso más largo.</p>
+</div>
+</div>
+<div class="section" id="wordpress">
+<h2>4. Wordpress<a class="headerlink" href="#wordpress" title="Enlazar permanentemente con este título">¶</a></h2>
+<div class="admonition note">
+<p class="first admonition-title">Nota</p>
+<p class="last"><em>WordPress*</em> es un software de código abierto te permite crear aplicaciones, webs y blogs.</p>
+</div>
+<p>Las <strong>características de WordPress</strong> son:</p>
+<ul class="simple">
+<li>Fácil y accesible.</li>
+<li>Sitios web interactivos y dinámicos.</li>
+<li>Diseños actuales personalizables.</li>
+<li>Gran comunidad de desarrolladores y autores.</li>
+<li>Sitios adaptados a móviles (responsive).</li>
+<li>Alto rendimiento a bajo coste.</li>
+<li>Potente gestión de medios y noticias.</li>
+<li>Preparado para SEO.</li>
+</ul>
+</div>
+<div class="section" id="joomla">
+<h2>5. Joomla!<a class="headerlink" href="#joomla" title="Enlazar permanentemente con este título">¶</a></h2>
+<div class="admonition note">
+<p class="first admonition-title">Nota</p>
+<p class="last">Joomla! es un CMS con <strong>arquitectura Modelo-Vista-Controlador (MVC)</strong>.</p>
+</div>
+<p>Los usuarios inexpertos o los profesionales pueden usarlo para crear sitios web, intranets y apps móviles.</p>
+<p>Sus <strong>características</strong> más destacadas son:</p>
+<ul class="simple">
+<li>Gestión de contenidos, medios, banners y contactos.</li>
+<li>Uso de plantillas independientes por sección.</li>
+<li>Sistema de ayuda y glosario integrados.</li>
+<li>Muchas extensiones para añadir funcionabilidades.</li>
+<li>Interfaz de edición.</li>
+<li>Adaptable con Bootstrap.</li>
+<li>Integración con Composer.</li>
+<li>API nube de almacenamiento.</li>
+<li>Autenticación de dos factores.</li>
+<li>LESS CSS y jQuery para escribir menos códigos.</li>
+<li>Diseño desacoplado.</li>
+</ul>
+</div>
+<div class="section" id="desarrollo-a-medida">
+<h2>6. Desarrollo a medida<a class="headerlink" href="#desarrollo-a-medida" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>La <strong>inversión de una empresa</strong> en un sistema web desarrollado a medida para sus necesidades es una inversión que incrementa la eficacia y competitividad. Es imprescindible hacer un análisis de las necesidades en profundidad.</p>
+<p>Los sistemas web a medida cada dia son más <strong>asequibles y accesibles</strong> para las pequeñas organizaciones y empresas. Tener la <strong>información en la red</strong> nos permite acercarnos a un número mayor de posibles clientes. La publicidad es más barata y más efectiva ya que se concentra en usuarios que están interesados o que pueden estarlo a corto plazo. Como la difusión se hace de manera concreta evita el uso del papel y de la mensajería con su coste económico y ecológico.</p>
+<p>El desarrollo a medida aporta <strong>mejoras a corto y a largo plazo</strong> siendo una de las propuestas más aceptadas en el sector empresarial. Los resultados de un sistema web personalizado para las funciones más técnicas disminuye los costes de personal, materiales y técnicos aprovecha al máximo la información obtenida para mejorar cada aspecto.</p>
+<p>Las <strong>ventajas y desventajas</strong> del desarrollo de sistemas personalizados son:</p>
+<ul>
+<li><p class="first"><strong>Ventajas</strong>:</p>
+<blockquote>
+<div><ul class="simple">
+<li>El uso sencillo y dinámico permite la implantación en todo tipo de entornos.</li>
+<li>La gestión de los recursos conlleva un ahorro de tiempo y dinero.</li>
+<li>Las bases de datos adaptadas ofrecen más impacto y una mejor gestión.</li>
+<li>La seguridad de un sitio genérico es vulnerable ante ataques masivos.</li>
+<li>La app web integrada en cualquier dispositivo facilita la comunicación y la respuesta de los usuarios.</li>
+<li>Las Apps web evolucionan y se adaptan a las necesidades de la empresa.</li>
+<li>Las herramientas a medida mejoran la funcionabilidad de los usuarios.</li>
+<li>Las empresas con Apps web desarrolladas destacan ante la competencia al mejorar sus puntos débiles.</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><strong>Inconvenientes</strong>:</p>
+<blockquote>
+<div><ul class="simple">
+<li>El desarrollo de software debe hacerse por un profesional para evitar errores y fallos en el sistema.</li>
+<li>El costo de una App web a medida es superior al genérico.</li>
+<li>Es imprescindible solicitar el código fuente del software al desarrollador para no depender del mismo o tener problemas de seguridad.</li>
+</ul>
+</div></blockquote>
+</li>
+</ul>
+</div>
+<div class="section" id="resumen">
+<h2>7. Resumen<a class="headerlink" href="#resumen" title="Enlazar permanentemente con este título">¶</a></h2>
+<ul class="simple">
+<li>Los <strong>sistemas web</strong> evolucionan de acuerdo a las necesidades de cada tipo de diseño. Las aplicaciones web dinámicas son las más usadas y requieren del uso de un gestor de contenidos.</li>
+<li>Los <strong>CMS usados</strong> por la mayoría de desarrolladores son: WordPress y Joomla! Sus múltiples posibilidades de personalización y su fácil implantación hacen que destaquen de entre todos los gestores.</li>
+<li>Aunque <strong>generar un CMS</strong> es sencillo, es necesario hacer un análisis de las necesidades reales a corto y largo plazo para desarrollar algo ajustado. Eso es necesario que lo haga un experto para garantizar que no habrá escasez de recursos o que pagarás por recursos que no necesitas.</li>
+<li>El <strong>desarrollo de un sistema web personalizado</strong> ofrece muchas ventajas para las empresa Desde mejorar su productividad a mejorar los beneficios.</li>
+</ul>
+</div>
+<div class="section" id="actividades">
+<h2>8. Actividades<a class="headerlink" href="#actividades" title="Enlazar permanentemente con este título">¶</a></h2>
+<div class="figure align-center">
+<a class="reference internal image-reference" href="../../_images/questionnaire_119.jpg"><img alt="../../_images/questionnaire_119.jpg" src="../../_images/questionnaire_119.jpg" style="width: 70%;" /></a>
+</div>
+<div class="figure align-center">
+<a class="reference internal image-reference" href="../../_images/questionnaire_219.jpg"><img alt="../../_images/questionnaire_219.jpg" src="../../_images/questionnaire_219.jpg" style="width: 70%;" /></a>
+</div>
+<div class="figure align-center">
+<a class="reference internal image-reference" href="../../_images/questionnaire_319.jpg"><img alt="../../_images/questionnaire_319.jpg" src="../../_images/questionnaire_319.jpg" style="width: 70%;" /></a>
+</div>
+<div class="figure align-center">
+<a class="reference internal image-reference" href="../../_images/questionnaire_419.jpg"><img alt="../../_images/questionnaire_419.jpg" src="../../_images/questionnaire_419.jpg" style="width: 70%;" /></a>
+</div>
+<div class="figure align-center">
+<a class="reference internal image-reference" href="../../_images/questionnaire_515.jpg"><img alt="../../_images/questionnaire_515.jpg" src="../../_images/questionnaire_515.jpg" style="width: 70%;" /></a>
+</div>
+<div class="figure align-center">
+<a class="reference internal image-reference" href="../../_images/questionnaire_613.jpg"><img alt="../../_images/questionnaire_613.jpg" src="../../_images/questionnaire_613.jpg" style="width: 70%;" /></a>
+</div>
+<div class="figure align-center">
+<a class="reference internal image-reference" href="../../_images/questionnaire_710.jpg"><img alt="../../_images/questionnaire_710.jpg" src="../../_images/questionnaire_710.jpg" style="width: 70%;" /></a>
+</div>
+</div>
 </div>
 
 

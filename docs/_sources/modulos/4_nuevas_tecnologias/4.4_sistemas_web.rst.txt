@@ -1,2 +1,258 @@
-4.4. Sistemas Web
+4.4. Sistemas web
 =================
+
+.. figure:: ../../_static/4_nuevas_tecnologias/4.4_sistemas_web/mapa_conceptual.jpg
+   :width: 70%
+   :align: center
+
+1. Sistemas web
+***************
+
+.. note::  Los **sistemas web** son los protocolos que permiten intercambiar datos entre aplicaciones conectadas a la red. 
+
+Los sistemas web también se denominan **aplicaciones web (app web)** por ejecutarse a través del navegador. 
+
+Son un software dinámico que permite distintas funciones. Tienen una apariencia similar a las páginas webs. Se diferencian en que una página no aporta nueva información mientras que un sistema funciona como canal de comunicación interaccionando con el usuario. 
+
+Están creados e instalados en un servidor de internet o en una intranet propia. Esto facilita el **acceso desde el navegador** sin importar el sistema operativo y evita tener que instalarlo en el ordenador. 
+
+Los **sistemas operativos** están compuestos por: el navegador web y el servidor. 
+
+Estos funcionan de modo **cliente/servidor**. El cliente (elemento activo) solicita a través del navegador una página web. El servidor (elemento pasivo) responde a esa solicitud. 
+
+Hay **dos tipos de solicitudes**: 
+
+- **GET** se realiza con la URL. 
+- **POST** se realiza interactuando con los formularios.
+
+Los **servidores web** guardan la información, la envían y realizan copias temporales en los dispositivos que acceden a ella. 
+
+1.1. Tipos de web
++++++++++++++++++
+
+Las aplicaciones web tienen una cantidad muy amplia de funciones. Estas **funciones marcan las diferencias** entre los distintos **tipos de webs**:
+
+- **Estáticas**: 
+
+	- Muestra información que no suele cambiar, texto y objetos con movimiento. 
+	- Desarrolladas con HTML y CSS. 
+	- Creadas a través de plataformas de desarrollo y por gestores web. 
+	- Uso comercial durante cortos períodos de tiempo, portfolios o currículum digital y para mostrar datos de contacto. 
+	- Personalización y modificaciones muy difíciles y limitadas. 
+
+- **Dinámicas**:
+
+	- La información está en bases de datos donde se actualiza automáticamente sin necesidad de intervenir. 
+	- Uso en blogs, páginas de noticias y medios de comunicación. 
+	- Imprescindible en las apps que requieren actualizaciones habituales. 
+	- Desarrollar la app es más complejo que si fuera estática. 
+	- El uso de un gestor de contenidos o CMS (Content Management System) permite que usuarios sin conocimientos de programación puedan administrar y gestionar los contenidos de una manera sencilla y con bajo coste. 
+
+- **Portales app web**:
+
+	- Están diseñadas específicamente para las pantallas de los dispositivos móviles y las tabletas. 
+	- Pueden tener contenidos y funciones igual que una web dinámica. 
+	- Chat, correo, buscador, formularios, contenidos recientes... 
+
+- **Tienda online para aplicaciones web**:
+
+	- Similar a una web e-commerce. 
+	- Su creación es más complicada que las estáticas o las dinámicas porque precisa una pasarela de pagos y bases de datos. 
+	- Necesita un CMS debido a que requiere actualizaciones rápidas. 
+
+- **App web animadas**: 
+
+	- Cada vez se usa menos este tipo de app web debido al mal posicionamiento SEO. 
+	- Requiere de Flash para las animaciones. 
+
+1.2. Tipos de aplicaciones web
+++++++++++++++++++++++++++++++
+
+Existen muchos **tipos de aplicaciones web** que se usan en la vida cotidiana. La mayoría de personas usan estos servicios para consultar información actualizada. 
+
+Algunas **apps web habituales** son: 
+
+- **Web mail**: Sistema de acceso al correo electrónico sin descargar nada en el ordenador.
+- **Wikis**: Sitios y aplicaciones donde la información es creada, eliminada, editada y compartida por los propios usuarios. 
+- **Weblog**: Sitios y aplicaciones que tienen herramientas para los usuarios generen y actualicen contenidos. 
+- **Tiendas online** Sitios y aplicaciones que permiten al usuario comprar desde cualquier lugar un producto sin desplazarse. 
+
+2. Gestores de contenido
+************************
+
+.. note:: Los **gestores de contenidos** son un software con apariencia de portal que se ejecutan en Internet o intranet. 
+
+Los **CMS** poseen **editores integrados** que permiten ver el aspecto final mientras se elabora. Los usuarios tienen perfiles asignados (administrador, autor...) que les permiten trabajar simultáneamente sin afectar a otros. Cuando hay problemas al ejecutar el sitio, se puede acceder a los registros de las bases de datos para la recuperación hasta un punto seguro donde todo funcionara bien. 
+
+Los **contenidos se pueden publicar en el momento o programar** para que se muestren en determinada fecha. Esto mejora la productividad y organización de los usuarios. Permite trabajar con diferentes tipos de contenidos de manera colaborativa sin necesidad de ser un programador web. 
+
+La mayoría de CMS **comparten unas partes características**. Es necesario conocer cómo se denominan para entender las explicaciones. Las **partes de un CMS** son: 
+
+- **Front-end**: Permite ver la interfaz final de la app web mientras se modifica con un editor visual.
+- **Back-end**: Muestran las áreas de la app web agrupadas en bloques y tiene una pestaña para editar código. 
+- **Panel de gestión**: Herramientas para gestionar la app web y los contenidos. 
+- **Plantillas**: Diseños prediseñados gratuitos o de pago que personalizan la apariencia del sitio web. 
+- **Plugins**: Son extensiones que permiten añadir nuevas funciones a la app web sin necesidad de generar Plugins códigos. Al igual que los temas se pueden adquirir de manera gratuita o de pago.
+- **Multilenguaje**: No son necesarios en muchos CMS, pero permiten la personalización a través de lenguaje HTML, Multilenguaje y CSS. 
+
+Existen **diferentes gestores** para realizar esta tarea. Es necesario conocer las características de los más usados para elegir el CMS que mejor se ajuste a sistema web que se desarrollará. 
+
+Los **gestores de contenidos recomendados** son:
+
+- **WordPress**: Recomendado para desarrollar portales simples. Destaca por: la gestión, la cantidad de información del proyecto y la frecuencia que salen versiones. Tienen un gran control de código, una buena gestión de bugs y una gran cantidad de extensiones disponibles. La mayor ventaja ante la competencia es su sistema de instalación y actualización.  
+- **Joomla!**: Recomendado para desarrollar portales simples. Destaca por: la comunidad, el soporte, las frecuentes actualizaciones de versión y la gran cantidad de extensiones. Estas versiones están muy controladas al igual que los bugs. El proceso de instalación es sencillo. Tienen vídeos para ayudar con la instalación. La gran desventaja es que no tiene actualizaciones automáticas.  
+- **Drupal**: Recomendado para desarrollar intranets y foros. Destaca por: la comunidad, el soporte, la documentación disponible y las extensiones. Tienen una red de proveedores internacional. Tienen un amplio abanico de formación y seminarios.
+
+.. figure:: ../../_static/4_nuevas_tecnologias/4.4_sistemas_web/cms.jpg
+   :width: 70%
+   :align: center
+
+3. Alojamiento de la app web
+****************************
+
+Los datos de nuestro sitio web tienen que estar alojados en algún sitio, para ello existesn **diferentes opciones de alojamiento**: los servidores, el hosting y las bases de datos.
+
+Estos registros premiten **intercambiar gran cantidad de información de manera autónoma**.
+
+3.1. Servidor
++++++++++++++
+
+.. note:: Un **servidor** proporciona servicios a otros ordenadores a través de la red. 
+
+La elección de un servidor donde alojar el sitio puede **determinar el número de tráfico** que puede tener y la velocidad con la que carga y se ejecuta. Por eso hay que analizar las necesidades de cara al futuro que tendrá y la carga realista que supondrá el acceso de determinado número de usuarios al mismo tiempo. 
+
+Los **tipos de servidores** que se usan para los sistemas web son: 
+
+- **Servidor de aplicaciones**: Es usado para ejecutar aplicaciones con el navegador. Usado por todo tipo de servicios y portales de Internet o Cloud. Desencadena en otro tipo de servidores. Permite el desarrollo más sencillo de apps y su centralización. Los principales softwares para servidores de aplicaciones son: Apache, GlassFish, Web ogic, Jboss, Jetty, JOnAS, Resin, Blazix. Zope. 
+- **Servidor virtual**: Está formado por particiones virtuales en un servidor físico independientes entre ellas. Puede ser un servidor dedicado o compartido. Un ejemplo de app que virtualiza las arquitecturas web es Oracle VM VirtualBox. Permite controlar varios sistemas operativos desde el mismo ordenador. 
+- **Servidor web**: Está a la espera de la solicitud del cliente. Una vez recibida, descifra el nombre mediante DNS y envía el código HTML al cliente. Almacena páginas web y ejecuta procesos HTTP y HTTP2.
+- **Servidor proxy**: Es un servidor intermediario entre los Clientes y otros servidores que tienen un acceso más limitado. Recibe y genera peticiones HTTP y al mismo tiempo guarda un caché de los contenidos más recurridos evitando tener que repetir la solicitud al server. Cliente Proxy server HTTP server archiW2_htmI WEB 1 archiW2_htmI 
+- **Servidor web local**: Es un servidor web almacenado en uno o varios equipos físicos pertenecientes a una red local. Es necesario usar un software especifico según el sistema usado para gestionar y navegar por la web. Permite realizar el diseño de un sitio web antes de tener contratado un dominio y un hosting. 
+
+3.2. Hosting
+++++++++++++
+
+.. note:: El **hosting o alojamiento web** es el alquiler de espacio en los servidores web. 
+
+En el mercado existen muchas **ofertas de alojamiento web** que se contratan por días, meses o incluso horas para momentos en que la web necesita más **recursos y mejorar la capacidad de procesamiento** por la cantidad de tráfico. Si el tráfico supera el límite del servidor, todos los sitios web del servidor pueden verse comprometidos. 
+
+Los **tipos de hosting** son: 
+
+- **Compartido**: Conocido como Hosting web es el tipo de hosting habitual. Comparte servidor (recursos, memoria espacio...) con los demás clientes. Tiene un bajo coste, viene preconfigurado, es de fácil uso, pero no permite controlar la configuración del servidor. El tráfico en los otros sitios web puede afectar ralentizando la descarga de recursos. 
+- **VPS**: Aunque compartes el servidor como en el anterior, se ha creado una partición que te permite tener las características de un servidor dedicado, pero con menor coste. Este espacio de server dedicado es recomendable en empresas con un gran flujo de clientes. Requiere conocimientos sobre administración de servidores. 
+- **En la nube**: Es el tipo de hosting más recomendado para páginas web en general. Tiene la ventaja de usar un sistema clúster donde funcionan en conjunto distintos servidores. Los datos son redundados a otros servidores, por tanto, si falla algún server el sitio web no se ven afectado.
+- **WordPress**: Está configurado para el software de WordPress. Tienen características propias y ofertan plantillas y herramientas específicas para facilitar el trabajo. Es sencillo de instalar y usar.  
+- **Con servidor dedicado**: El uso de un servidor fisico por un solo cliente supone unos costes elevados. Requiere conocimientos sobre la administración de servidores. Pero a diferencia de tener un servidor físico en la empresa es que el hosting se encarga de su mantenimiento técnico. 
+
+3.3. Bases de datos
++++++++++++++++++++
+
+.. note:: Las **bases de datos** contienen toda la información indexada SQL de nuestro sitio web para la consulta. 
+
+La **web se actualiza automáticamente** al mismo tiempo que los datos de la base de datos. Puede importar y exportar datos e interactuar con ellos a través de un **gestor de bases de datos como phpMyAdmin**. 
+
+Para comprender la complejidad que alcanza el uso de una base de datos en una app piensa en la banca electrónica. Millones de usuarios acceden y hacen movimientos de dinero y a base de datos tiene que registrarlo y actualizarlo lo más rápido posible. Para registrar los movimientos antes había que hacerlo a través de una persona física en un banco y resultaba un proceso más largo. 
+
+4. Wordpress
+************
+
+.. note:: *WordPress** es un software de código abierto te permite crear aplicaciones, webs y blogs.
+
+Las **características de WordPress** son: 
+
+- Fácil y accesible. 
+- Sitios web interactivos y dinámicos. 
+- Diseños actuales personalizables. 
+- Gran comunidad de desarrolladores y autores. 
+- Sitios adaptados a móviles (responsive). 
+- Alto rendimiento a bajo coste. 
+- Potente gestión de medios y noticias. 
+- Preparado para SEO.
+
+5. Joomla!
+**********
+
+.. note:: Joomla! es un CMS con **arquitectura Modelo-Vista-Controlador (MVC)**.
+
+Los usuarios inexpertos o los profesionales pueden usarlo para crear sitios web, intranets y apps móviles. 
+
+Sus **características** más destacadas son:
+
+- Gestión de contenidos, medios, banners y contactos. 
+- Uso de plantillas independientes por sección. 
+- Sistema de ayuda y glosario integrados. 
+- Muchas extensiones para añadir funcionabilidades. 
+- Interfaz de edición. 
+- Adaptable con Bootstrap. 
+- Integración con Composer. 
+- API nube de almacenamiento. 
+- Autenticación de dos factores. 
+- LESS CSS y jQuery para escribir menos códigos. 
+- Diseño desacoplado. 
+
+6. Desarrollo a medida
+**********************
+
+La **inversión de una empresa** en un sistema web desarrollado a medida para sus necesidades es una inversión que incrementa la eficacia y competitividad. Es imprescindible hacer un análisis de las necesidades en profundidad. 
+
+Los sistemas web a medida cada dia son más **asequibles y accesibles** para las pequeñas organizaciones y empresas. Tener la **información en la red** nos permite acercarnos a un número mayor de posibles clientes. La publicidad es más barata y más efectiva ya que se concentra en usuarios que están interesados o que pueden estarlo a corto plazo. Como la difusión se hace de manera concreta evita el uso del papel y de la mensajería con su coste económico y ecológico. 
+
+El desarrollo a medida aporta **mejoras a corto y a largo plazo** siendo una de las propuestas más aceptadas en el sector empresarial. Los resultados de un sistema web personalizado para las funciones más técnicas disminuye los costes de personal, materiales y técnicos aprovecha al máximo la información obtenida para mejorar cada aspecto. 
+
+Las **ventajas y desventajas** del desarrollo de sistemas personalizados son: 
+
+- **Ventajas**: 
+
+	- El uso sencillo y dinámico permite la implantación en todo tipo de entornos. 
+	- La gestión de los recursos conlleva un ahorro de tiempo y dinero. 
+	- Las bases de datos adaptadas ofrecen más impacto y una mejor gestión. 
+	- La seguridad de un sitio genérico es vulnerable ante ataques masivos. 
+	- La app web integrada en cualquier dispositivo facilita la comunicación y la respuesta de los usuarios. 
+	- Las Apps web evolucionan y se adaptan a las necesidades de la empresa. 
+	- Las herramientas a medida mejoran la funcionabilidad de los usuarios. 
+	- Las empresas con Apps web desarrolladas destacan ante la competencia al mejorar sus puntos débiles. 
+
+- **Inconvenientes**: 
+
+	- El desarrollo de software debe hacerse por un profesional para evitar errores y fallos en el sistema. 
+	- El costo de una App web a medida es superior al genérico. 
+	- Es imprescindible solicitar el código fuente del software al desarrollador para no depender del mismo o tener problemas de seguridad. 
+
+7. Resumen
+**********
+
+- Los **sistemas web** evolucionan de acuerdo a las necesidades de cada tipo de diseño. Las aplicaciones web dinámicas son las más usadas y requieren del uso de un gestor de contenidos. 
+- Los **CMS usados** por la mayoría de desarrolladores son: WordPress y Joomla! Sus múltiples posibilidades de personalización y su fácil implantación hacen que destaquen de entre todos los gestores. 
+- Aunque **generar un CMS** es sencillo, es necesario hacer un análisis de las necesidades reales a corto y largo plazo para desarrollar algo ajustado. Eso es necesario que lo haga un experto para garantizar que no habrá escasez de recursos o que pagarás por recursos que no necesitas.
+- El **desarrollo de un sistema web personalizado** ofrece muchas ventajas para las empresa Desde mejorar su productividad a mejorar los beneficios. 
+
+8. Actividades
+**************
+
+.. figure:: ../../_static/4_nuevas_tecnologias/4.4_sistemas_web/actividades/questionnaire_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/4_nuevas_tecnologias/4.4_sistemas_web/actividades/questionnaire_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/4_nuevas_tecnologias/4.4_sistemas_web/actividades/questionnaire_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/4_nuevas_tecnologias/4.4_sistemas_web/actividades/questionnaire_4.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/4_nuevas_tecnologias/4.4_sistemas_web/actividades/questionnaire_5.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/4_nuevas_tecnologias/4.4_sistemas_web/actividades/questionnaire_6.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/4_nuevas_tecnologias/4.4_sistemas_web/actividades/questionnaire_7.jpg
+   :width: 70%
+   :align: center
