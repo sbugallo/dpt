@@ -1,5 +1,5 @@
-Nuevas tecnologías aplicadas a la mejora de procesos para su uso en la gestión de proyectos
-===========================================================================================
+Nuevas tecnologías 
+==================
 
 .. toctree::
    :maxdepth: 1
