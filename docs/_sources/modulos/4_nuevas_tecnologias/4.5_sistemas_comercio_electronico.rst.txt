@@ -1,2 +1,88 @@
 4.5. Sistemas de comercio electrónico
 =====================================
+
+El comercio electrónico es una **poderosa herramienta para la empresa** que cada vez está mas en auge. 
+
+En esta unidad didáctica se presentarán tres alternativas de plataformas para que se pueda escoger la más adecuada a las necesidades de la tienda. Las **plataformas de e-commerce** están diseñadas para ayudar a la venta de los productos en el sitio web de la tienda. 
+
+.. figure:: ../../_static/4_nuevas_tecnologias/4.5_sistemas_comercio_electronico/mapa_conceptual.jpg
+   :width: 70%
+   :align: center
+
+1. Principales motores de e-commerce
+************************************
+
+ Según los datos del **CNMC** o Comisión Nacional de los Mercados y la Competencia, el **comercio electrónico está creciendo en España**. Es la razón de que cada vez más negocios tengan sus tiendas en línea. 
+
+ Los **principales e-commerce utilizados son**: 
+
+- **PrestaShop**: Se trata de una plataforma de e-commerce fácil y sencilla. Tiene muchas funcionalidades, desde administrar productos hasta registrar los impuestos. Se pueden ampliar aún más sus funcionalidades por medio de plugins y temas que se añaden a la plataforma.
+- **Magento**: La plataforma Magento está dirigida a empresas grandes, aunque permite crear tiendas pequeañas y grandes. Su principal competencia o ventaja es la flexibilidad. Para manejarla se deberá tener algo de experiencia en desarrollo web pues no es la más fácil de usar. Sus amplias funcionalidades, su seguridad y la posibilidad de usar temas y plugins compensan su complejidad.  
+- **WooCommerce**: sta plataforma se diferencia del resto porque es un plugin que se ejecuta en WordPress. Al tratarse de un plugin se le pueden añadir funcionalidades por medio de extensiones. Woocommerce maneja los aspectos básicos como pagos y publicación de productos en venta, entre otros.
+
+2. Prestashop
+*************
+
+**PrestaShop** se trata de una plataforma para la creación de tiendas online o CMS. Es de **código abierto, gratuita y muy sencilla**. PrestaShop cubre casi todas las necesidades de **administración del sitio web** del usuario, aunque sean complejas, lo que le ha otorgado ventaja competitiva con respecto a la competencia. 
+
+Cuenta con un **soporte técnico** que le permite **acceder a**: 
+
+- **Foro** con documentación e intercambio entre los usuarios. 
+- **Eventos** de PrestaShop para reunir a los profesionales que utilicen esta plataforma. 
+
+La plataforma permite vender productos que estén agotados y **controlar el inventario de forma automática** según las ventas realizadas en la tienda. 
+
+También da la opción de implementar el **control de almacén de stock físico**. En el caso de que se vendan packs se pueden restar del pack o del stock de cada componente. 
+
+Para **personalizar la apariencia** de PrestaShop se puede recurrir a un nuevo tema. Estos se pueden descargar de forma gratuita desde muchas páginas o comprándolo directamente desde PrestaShop. 
+
+.. note:: A la hora de escoger un **tema debe ser responsivo**. Los clientes cada vez más utilizan los dispositivos móviles para realizar sus compras y hay que adaptarse a esas necesidades para facilitar la compra. 
+
+Los **módulos o plugins** en PrestaShop se pueden tratar **como un complemento**. Es decir, se pueden cambiar, borrar, descargar nuevos, etc. No pertenecen al core de la plataforma. 
+
+.. note:: Un **diseño responsivo** es quel que adapta la apriencia del sitio web al dispositivo en el que se está visualizando. Es decir, que se adapta a las características del dispositivo en cuanto a resolución, tamaño de la pantalla, sistema operativo, etc.
+
+Prestashop casi no proporciona **módulos de gestión de envíos gratuitos**, la mayoría son de pago. Los que ofrece son necesarios y de calidad para mantener una buena **administración y gestión** de los envíos de productos. Por ejemplo, estos módulos permiten fijar precios para cada código postal o automatizar los envíos con una empresa. 
+
+Lo mismo ocurre con el **TPV**, según el módulo que se descargue se procederá de una manera u otra. 
+
+3. Magento
+**********
+
+**Magento** es una plataforma de código abierto y una de las más configurables del momento. 
+
+Al ser de código abierto permite **cambiar y gestionar casi lo que se quiera**, además de todas las opciones que tiene incorporadas. Esta plataforma busca ofrecer todas las posibilidades para no tener que **recurrir a aplicaciones o terceros**. 
+
+4. WooCommerce
+**************
+
+**WooCommerce** es un **plugin de WordPress** de código abierto que permite crear una tienda online. Además, posee ciertas particularidades que la hacen diferente respecto al resto de plataformas de código abierto.
+
+Al tratarse de código abierto puede personalizarse casi cualquier cosa y, además, **con los plugins** se pueden **lograr cambiar características y funcionalidades** de la propia plataforma. 
+
+5. Resumen
+**********
+
+- El **comercio electrónico** está cada vez más en auge en España y la tendencia es que siga creciendo este mercado. 
+
+- Las principales **herramientas de e-commerce** son PrestaShop, Magento y WooCommerce. 
+
+- Todas estas herramientas permiten **personalizar** casi todos los **aspectos de la tienda**.
+- **PrestaShop y Magento** necesitan un servidor de PHP y MySQL para poder instalar y ejecutar estas plataformas en su ordenador local. 
+
+- Para **WooCommerce** se necesita tener WordPress ya que se trata de un plugin de esta plataforma. 
+
+6. Actividades
+**************
+
+.. figure:: ../../_static/4_nuevas_tecnologias/4.5_sistemas_comercio_electronico/actividades/questionnaire_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/4_nuevas_tecnologias/4.5_sistemas_comercio_electronico/actividades/questionnaire_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/4_nuevas_tecnologias/4.5_sistemas_comercio_electronico/actividades/questionnaire_3.jpg
+   :width: 70%
+   :align: center
