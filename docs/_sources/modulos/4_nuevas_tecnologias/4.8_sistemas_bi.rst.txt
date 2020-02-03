@@ -1,2 +1,109 @@
 4.8. Sistemas de Businesss Intelligence
 =======================================
+
+Los Sistemas de **Business Intelligence** son un tipo de **software de aplicaciones** diseñadas para ayudar mediante BI en los procesos de las organizaciones. Estas herramientas **se basan en el análisis y la presentación de los datos**. 
+
+**Qlik Sense** es otra herramienta que nace de la necesidad de proporcionar al usuario, un sistema con el cuál éste sea capaz de **autogenerar y analizar sus propios cuadros de mando**. 
+
+Actualmente existen otras herramientas Business Intelligence que serán implementadas en base a las necesidades de la organización. 
+
+
+.. figure:: ../../_static/4_nuevas_tecnologias/4.8_sistemas_bi/mapa_conceptual.jpg
+   :width: 70%
+   :align: center
+
+1. Power BI
+***********
+
+.. note:: Power BI es una **herramienta de visualización de datos e inteligencia empresarial** capaz de convertir datos de diferentes fuentes de datos en paneles interactivos e informes de BI. 
+
+El **paquete Power BI** proporciona múltiples software, conectores y servicios como el escritorio Power BI, el servicio Power BI basado en Saas y las aplicaciones móviles Power BI disponibles para diferentes plataformas. Este conjunto de servicios los utiliza los usuarios empresariales para consumir datos y crear informes de BI. 
+
+1.1. Arquitectura Power BI
+++++++++++++++++++++++++++
+
+ Power BI incluye los siguientes **componentes**:
+
+ - **Power BI Desktop**: se utiliza para crear informes y visualizaciones de datos en el conjunto de datos. 
+ - **Puerta de enlace Power BI**: la puerta de enlace local de Power BI se utiliza para mantener los datos actualizados al conectarse a sus fuentes de datos locales. De esta manera no será necesario mover los datos. 
+ - **Aplicaciones móviles de Power BI**: las aplicaciones móviles Power BI, permiten conectarse desde cualquier dispositivo. 
+ - **Servicio Power BI**: Este servicio en la nube se utiliza para publicar informes y visualizaciones de datos de Power BI. 
+
+1.2. Fuentes de datos compatibles
++++++++++++++++++++++++++++++++++
+
+Power BI es compatible con una amplia gama de bases de datos. Al hacer clic en **Obtener datos** se mostrarán una amplia gama de conexiones de datos compatibles. 
+
+Las siguientes son las **fuentes de datos disponibles** en Power BI:
+
+- Archivos planos. 
+- Base de datos SQL. 
+- Alimentación Odata. 
+- Consulta en blanco. 
+- Plataforma Azure Cloud. 
+- Servicios en línea. 
+- Otras fuentes de datos como Hadoop, Exchange o Active Directory. 
+
+2. Qlik View
+************
+
+Qlik View es una **herramienta de Business Intelligence** que permite recoger datos desde diferentes orígenes, basados en ERP, CRM, data warehouses, bases de datos SQL, datos de Excel, etc., modelarlos a nuestras necesidades para facilitar su manejo y presentarlos de forma visual. 
+
+2.1. De QlikView a Qlik Sense: analítica moderna
+++++++++++++++++++++++++++++++++++++++++++++++++
+
+La **analítica actual** comienza con el lanzamiento de QIikView. Se implemento un cambio en la que las empresas utilizan los datos con la ayuda de funciones más intuitivas de descubrimiento visual. Los cambios en la tecnología, dieron paso a **Qlik Sense**, una nueva plataforma analítica mejorada. 
+
+Qlik Sense se **caracteriza** por su: 
+
+- Motor asociativo. 
+- Eficacia de la inteligencia aumentada. 
+- Arquitectura multicloud gobernada. 
+
+2.2. Qlik Sense
++++++++++++++++
+
+Qlik Sense consiste en una **aplicación de visualización y descubrimiento** de datos gobernada, basada en servidor, enfocada a las necesidades analíticas de grupos, departamentos o toda una organización. Los usuarios de negocio obtienen un análisis de datos potente y flexible.
+
+Incorpora **funciones** como: 
+
+- **Multifuente**: Qlik Sense se conecta con múltiples fuentes de datos, incluyendo entradas de datos en tiempo real, a fin de proporcionar unas vistas aún más exhaustivas, sin comprometer el rendimiento de las aplicaciones. 
+- **Colaborativo**: La funcionalidad de Qlik Sense permite una narración de datos fácil con la que podrá compartir el análisis de una forma visual, comunicar sus hallazgos a los equipos y colaboración efectiva. 
+- **Auto-Servicio**: El usuario puede crear sus propias visualizaciones de datos, así como sus cuadros de mando. 
+- **Relaciones**: Las visualizaciones inteligentes, en combinación con los datos Qlik patentados de su motor de indexación, permiten mostrar todas las relaciones entre las dimensiones de datos, revelando conocimientos que habrían permanecido ocultos en los modelos tradicionales de datos basados en consultas y jerarquías. Datos, información y conocimiento. 
+- **Dispositivos**: Adaptable a cualquier dispositivo.
+
+
+3. Otras herramientas
+*********************
+
+Existen **diferentes herramientas Business Intelligence** enfocadas a distintos sectores y tamaño de la empresa. Elegir cuál es el que mas conviene dependerá de las necesidades que demande la organización y del presupuesto disponible. 
+
+Otras **herramientas BI** combinadas con algunos desarrolladas por grandes fabricantes de software tipo Microsoft, Oracle o SAP están: 
+
+- **Microsoft Dynamics**: línea de software ERP y CRM de propiedad y desarrollado por Microsoft, aunque los productos individuales fueron originalmente creados por otras empresas y conocido por varios otros nombres. Dynamics anteriormente conocido por el nombre clave "Project Green", sustituyó a Microsoft Business Solutions, la empresa de software de negocios previa de la familia. 
+- **IBM Cognos Analytics**: suite de inteligencia empresarial integrada basada en la web de IBM. Proporciona un conjunto de herramientas para informes, análisis, tablas de puntuación y monitoreo de eventos y métricas. 
+
+4. Resumen
+**********
+
+- **Power BI** es una **herramienta de visualización de datos e inteligencia empresarial** capaz de convertir datos de diferentes fuentes de datos en paneles interactivos e informes de BI.
+- **Power BI** incorpora componentes como **Power BI Desktop**, Puerta de enlace Power Bi, aplicaciones de móviles de Power Bi y Servicio Power BI. 
+- El modelado de datos es una **técnica para conectar** múltiples fuentes de datos en una herramienta de BI mediante una relación. 
+- QIik Sense consiste en una **aplicación de visualización y descubrimiento** de datos gobernada, basada en servidor, enfocada a las necesidades analíticas de grupos, departamentos o toda una organización. 
+- Otras **herramientas BI** combinadas con algunas desarrolladas por grandes fabricantes de software tipo Microsoft, Oracle o SAP están Microsoft Dynamics, IBM Cognos Analytics, SAP Business Intelligence, Tableau, Sisense, Clear Analytics y Style Intelligence. 
+
+5. Actividades
+**************
+
+.. figure:: ../../_static/4_nuevas_tecnologias/4.8_sistemas_bi/actividades/questionnaire_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/4_nuevas_tecnologias/4.8_sistemas_bi/actividades/questionnaire_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/4_nuevas_tecnologias/4.8_sistemas_bi/actividades/questionnaire_3.jpg
+   :width: 70%
+   :align: center
