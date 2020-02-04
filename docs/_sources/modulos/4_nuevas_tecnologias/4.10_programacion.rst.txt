@@ -3,77 +3,427 @@
 
 En la actualidad, muchas de las gestiones que habitualmente se hacían a mano, se han informatizado y se disponen de **medios digitales e internet** para llevarlas a cabo. Esto ha **afectado directamente a las empresas y a la economía** en general. 
 
+.. figure:: ../../_static/4_nuevas_tecnologias/4.10_programacion/mapa_conceptual.jpg
+   :width: 70%
+   :align: center
 
 1. Técnicas y herramientas de protección de redes, sistemas y servicios 
 ***********************************************************************
 
+.. note:: La seguridad de la tecnología de la información o **ciberseguridad** es la rama que se enfoca en proteger la infraestructura computacional, la información almacenada en ella o la que circula a través de las redes de ordenadores. 
+
+Actúa sobre el software, hardware, redes y toda aquella información que la empresa quiera proteger, es decir, sobre los diferentes aspectos del **tratamiento de datos**. 
+
+La ciberseguridad **engloba técnicas, métodos y normas** que controlen el acceso, establezcan permisos y denegaciones, horarios de funcionamiento, protocolos, etc. 
+
+Con la **finalidad** de minimizar los riesgos a los que están expuestos los sistemas y la información.
+
+La **protección se ejerce sobre** los activos informáticos que son: 
+
+- **Información**: Es el principal activo que se debe proteger, residen en la infraestructura y es usada y gestionada por los usuarios.
+- **Infraestructura computacional**: Es el equipo que hace posible el funcionamiento, almacenaje y gestión de la información. 
+- **Usuarios**: Son las personas que gestionan la información y dan uso a los sistemas. Si no se realizan buenas prácticas se pueden abrir brechas de seguridad. 
+
 1.1. Los riesgos cibernéticos
 +++++++++++++++++++++++++++++
+
+Existen múltiples riesgos ante **ataques cibernéticos**. Desde elementos que se instalan en el sistema para sustraer la información almacenada, hasta dañar el equipo. 
+
+Los **riesgos más frecuentes** son: 
+
+- **Código dañino (malware)**: daña el funcionamiento de un ordenador es uno de los riesgos más comunes. Inutiliza el sistema operativo e incluso puede hacerse con la memoria del equipo. 
+- **Gusano**: busca colapsar la red para impedir el correcto funcionamiento. Se trata de programas que se replican así mismos a través de redes informáticas o en un mismo ordenador. 
+- **Virus** es un programa o código que infecta los archivos y se instala sin permiso en el ordenador. 
+- **Troyano**: es un software camuflado como un archivo o programa benigno y que pretenden sustraer o destruir datos e información almacenada en el equipo. 
+- **Botnet**: consiste en un conjunto de programas que están instaladas en diferentes equipos interconectados y quedan "secuestrados" por un hacker. El objetivo es robar información o denegar servicios como colapsar una web. 
+- **Bomba lógica**: actúa cuando el hacker lo desea. Se trata de un software o aplicación que ataca a los ficheros, al sistema operativo alterándolo o inhabilitándolo, es decir, a la parte lógica del ordenador. 
 
 1.2. Atacantes en el entorno cibernético 
 ++++++++++++++++++++++++++++++++++++++++
 
+Los **atacantes** son las personas que crean configuran y ejecutan este tipo de riesgos y amenazas. 
+
+Los **tipos de atacantes en el entorno cibernético son**: 
+
+- **Estados**: países como EEUU o Rusia invierten en el desarrollo de armas cibernéticas, pues son conscientes de la ventaja comparativa que aportan. 
+- **Delincuentes**: los delincuentes utilizan el ciberespacio para atacar transacciones y llevar a cabo sus operaciones. 
+- **Empresas**: invierten en espionaje industrial y comercial para obtener ventajas en el mercado, creando ciberataques. 
+- **Crackers**: son las personas que protestan en el ámbito social, político y económico sin violencia a través de herramientas informáticas como desconfiguraciones, sabotajes y sustracción de información. 
+- **Terroristas**: el ciberespacio ahora es el escenario de enfrentamientos tradicionales provenientes de terroristas y extremistas religiosos. 
+
 1.3. Las fases de desarrollo de ataques
 +++++++++++++++++++++++++++++++++++++++
+
+Las fases de desarrollo de ataques cibernéticos son: 
+
+- **Reconocimiento**: Se recopila información sobre el objetivo para detectar las debilidades o fragilidades del sistema. 
+- **Biblioteca de ataques conocidos**: Se trata la información obtenida para detectar los posibles fallos de cualquier naturaleza: técnicos, humanos, medioambientales u organizativos.  
+- **Planificación**: Al conocer los fallos y errores del sistema se planea la estrategia para introducir el malware. 
+- **Inserción de malware**: Cuando se salta la seguridad de las redes, sigilosamente inserta el malware y así ejecutar el código para conseguir sus objetivos.
+- **Eliminación de huellas**: Una vez el ataque termina, el atacante elimina cualquier rastro para no ser identificado. Para ellos puede usar otros riesgos como gusanos o troyanos.
 
 1.4. Ciberseguridad: medidas de protección
 ++++++++++++++++++++++++++++++++++++++++++
 
+Existen **métodos y técnicas** para proteger los datos e información en caso de algún ataque. 
+
+El control de acceso, protección contra virus, respaldo de la información y establecer pautas de actuación son las técnicas para **asegurar el sistema informático**. 
+
+1.4.1.Asegurar la información
+-----------------------------
+
+Hacer copias de seguridad o **backups** es lo más eficiente para asegurar la información. 
+
+Establecer una buena **política de copias de seguridad** es fundamental. Debe incluir copias se seguridad completas e incrementales, donde sólo se copian los datos modificados o nuevos que no contenía la antigua copia. 
+
+.. note:: La **copia de seguridad** es un método de duplicado de la información para recuperarla en caso de pérdida. Asi se mantienen los datos en dos ubicaciones distintas a la vez. 
+
+Para asegurar la eficiencia de las **copias de seguridad** deben cumplir con las siguientes **características**: 
+
+- Automática y continua, paralelamente a las tareas del usuario. 
+- Mantiene las versiones anteriores, para poder recuperar datos antiguos. 
+- Segura, se cifran la información antes de se ser enviada. 
+- Remota, alojamiento de los datos fuera de la empresa. 
+
+1.4.2. Antivirus 
+----------------
+
+Elementos que se recomienda tener para **protegerse ante virus**: 
+
+- **Control del acceso a la información por medio de permisos**:
+	
+	- Se controlan los problemas que puedan ocasionar los propios usuarios, evitar que se modifique información y restringiendo el acceso a ciertos datos y programas. 
+	- El uso de las aplicaciones debe estar monitorizado y que la información transmitida sea la misma que se reciba. 
+
+- **Protección contra virus**: 
+
+	- Para evitar la infección de los sistemas por virus se debe controlar el software que se instala, asegurando la calidad y procedencia del mismo. 
+	- Se recomienda los softwares de instalación rápida para que, en el caso de alguna incidencia, sea fácilmente reinstalado. 
+
+1.4.3. Usuarios
+---------------
+
+Mantener el ordenador apagado cuando no se esté utilizando y un antivirus actualizado es esencial para **proteger el ordenador**. 
+
+Recomendaciones para **cuando los internautas naveguen por internet**: 
+
+- No abrir correos de procedencia desconocida. 
+- No dar datos personales sobre él o terceros. 
+- Periódicamente se debe cambiar las contraseñas. 
+- Utilizar sistemas de encriptado de datos para protegerlos. 
+- Evitar que otras personas utilicen su cuenta para navegar por internet. 
+
+1.4.4. Sistemas de mensajería
+-----------------------------
+
+Para **minimizar y evitar que los datos de una entidad sean robados** por sistemas de mensajería se recomiendan seguir estos consejos: 
+
+- Tener instalado un antivirus. 
+- Establecer reglas de utilización de la mensajería. 
+- Explicar a los usuarios los posibles riesgos. 
+- Los usuarios se debe comprometer en el buen uso de los recursos informáticos. 
+- Instalar versiones seguras de mensajería. 
+- Utilizar sistemas de encriptación de datos. 
+- Configurar correctamente la estación de trabajo y el sistema de mensajería. 
+
+1.4.5. Proteger el entorno
+--------------------------
+
+El **cortafuegos** o firewall es otra herramienta para evitar riesgo e intrusiones en la red local o en los ordenadores. 
+
+.. note:: El **firewall** se trata de un sistema entre una red privada e internet que evita los accesos no autorizados. Detecta a los atacantes antes de llegar a la red o al ordenador, sin impedir el normal funcionamiento. 
+
+Todo el **tráfico pasa por el cortafuegos**, siendo sólo el autorizado el que puede atravesarlo. Garantiza la seguridad de las comunicaciones, protege la información, evita virus y ataques cibernéticos, etc. 
+
+
+El cortafuegos debe ser diferente al servidor web de la empresa. 
+
+Se debe acceder a internet por medio de **herramientas** que no se conecten a la red interna directamente. Sobre todo, cuando en ella hay datos de carácter sensible, así se protegen. 
+
+Dentro de una empresa pueden ocurrir **delitos** que un cortafuegos no puede evitar. Al igual que no puede controlar los accesos ilícitos que no pasen por él. 
+
+Es importante contar con un **antivirus** además del cortafuegos. 
+
+El antivirus **debe estar instalado en**:
+
+- Los ordenadores de cada trabajador o usuario. 
+- Las máquinas que recopilen la información. 
+- Los sistemas de mensajería y conectividad. 
+
 2. Modelamiento de datos y diseño de base de datos
 **************************************************
 
-2.1 . Funcionamiento de Python
-++++++++++++++++++++++++++++++
+Hoy en día el **análisis de datos** se ha convertido en un pilar para las empresas. Gracias él se puede recoger **información relevante** a cerca del entorno, de los consumidores y de las tendencias del mercado. 
 
-2.2. Tipos de datos numéricos
-+++++++++++++++++++++++++++++
+Este análisis se realiza **a través de diversas herramientas**, una de ellas es **Python** que destaca por su lenguaje flexible y herramientas precisas para el procesamiento de datos. 
 
-2.3. Otros tipos de datos
-+++++++++++++++++++++++++
+Se trata de un lenguaje de programación fácil de aprender lo que supone que empresas como Google, Youtube o Pixar usen Python como uno de sus principales lenguajes de desarrollo.
 
-2.4. Las ventajas de Python
+2.1. Las ventajas de Python
 +++++++++++++++++++++++++++
 
-2.5. MongoDB
+Una de las principales ventajas de Python es su comunidad de desarrolladores grande y prolifera que ha generado una gran variedad de **librerías sobre sus funcionalidades**. 
+
+Dos de las **principales librerías** usadas en análisis de datos son: 
+
+- **Pandas**: Con esta librería se nutre Python de unas estructuras de datos fáciles y flexibles para trabajar de una forma eficiente con los datos. Por tanto, implementa funciones destinadas al análisis de datos. 
+- **NumPy**: Está dirigida a la computación científica, funciones para el manejo de vectores y matrices. También permite incorporar código fuente de otros lenguajes de programación. 
+
+Otra de sus ventajas es que Python puede **integrarse con aplicaciones como Hadoop o Mongo DB**, entre otras. 
+
+2.2. MongoDB
 ++++++++++++
 
-2.6. Hadoop
+**MongoDB** es una base de datos NOSQL libre, escalable y multiplataforma. 
+
+Es una de las bases de datos más populares y está **orientada a almacenar tanto documentos como formato binario**. Esta característica dota a MongoDB de **flexibilidad y dinamismo** con respecto al resto de bases de datos. 
+
+Las **principales características** son:
+
+- Almacenamiento de documentos y código binarios (BSON y JSON). 
+- Alta disponibilidad y replicación maestro-esclavo. 
+- Soporte de índices. 
+- Consultas. 
+- APIs para muchos lenguajes de programación. 
+- Escalabilidad horizontal. 
+- Permite almacenar ficheros sin importar el tamaño. 
+- Es rápida y escalable pues no hay transacciones. 
+
+2.3. Hadoop
 +++++++++++
+
+.. note:: **Apache Hadoop** es un framework de software libre para procesar gran cantidad de datos. Permite escribir y ejecutar aplicaciones en sistemas para llevar a cabo ese análisis y gestión de la información. 
+
+Cuando **Google** tuvo la **necesidad de seguir procesando** datos al ritmo que se le demandaba surgió Hadoop. 
+
+La solución era un **sistema de archivos** distribuidos donde cada ordenador procesaría una parte de la información. Funcionando de forma autónoma, pero **actuando en conjunto**, recreando un único ordenador de dimensiones gigantescas.
+
+La comunidad **Open Source** fue la encargada de desarrollar e implementar Hadoop a partir del descubrimiento de Google. 
 
 3. Bases de datos y Big Data. NoSQL
 ***********************************
 
-3.1. Las dimensiones del Big Data
-+++++++++++++++++++++++++++++++++
+El **Big Data** se refiere a la cantidad de datos que se acumulan y a las herramientas tecnológicas que se emplean para su **análisis y gestión**.
 
-3.2. Objetivos del Big Data
+Actualmente **se produce información constantemente** a través de cada uno de los dispositivos que utilizamos en el día a día. Con todos esos datos, una vez analizados, se pueden **crear perfiles** de cada una de las personas sobre gustos, intereses, etc. 
+
+Pero no sirve solo para detectar patrones de compra o gustos, también permite **pronosticar problemas y tendencias**. 
+
+Con Big Data se pueden extraer **datos de tipo**:
+
+- **Estructurados**: se trata de información ya filtrada, procesada y estructurada. 
+- **Semi-estructurados**: es información que ya se ha procesado, pero no se ha estructurado. 
+- **No estructurados**: son datos que aún no se han procesado como por ejemplo: videos, imágenes, textos, y demás.
+
+3.1. Objetivos del Big Data
 +++++++++++++++++++++++++++
 
-3.3. Derecho al acceso a la información pública
+Dado que se crean alrededor de 1700 billones de bytes de datos por minuto sólo en Europa, se hace necesario **crear sistemas de almacenamientos de datos** más sofisticados. 
+
+La información es poder, por lo que todos estos datos tienen un valor muy alto. A través de **Big Data** se pueden conocer las conductas y hechos de las personas para comprenderlas a fondo. Y también **predecir problemas** tanto en el mercado como en la vida cotidiana. 
+
+Toda esta información se utiliza, principalmente, para **apoyar o sustentar la toma de decisiones**. Las empresas que saben interpretar y analizar correctamente esta información tiene ventajas competitivas con respecto al resto. 
+
+El Big Data **permite**: 
+
+- **Nuevas oportunidades** de negocio y llegar a nuevos públicos. 
+- Elevar la **eficiencia y eficacia del marketing**- Lanzar **estrategias de marketing personalizadas** según los gustos de cada cliente. 
+- **Predecir demandas, tendencias y necesidades** de los clientes. 
+- Mejorar la **toma de decisiones** basándose información útil. 
+
+Los sectores que más han invertido en Big Data son: 
+
+- Administración pública. 
+- Sector financiero y de seguros. 
+- Comercio. 
+- Comunicaciones. 
+- Salud. 
+- Industria. 
+
+La **utilidad del Big Data** se encuentra en la capacidad de localizar esas cosas a las que no se presta atención, y que estudiando los datos, **revela información útil**. 
+
+La **productividad** también aumenta con el buen uso del Big Data. Al conocer las exigencias de cada uno de los clientes, de forma individual, se ofrece a cada uno lo que más se adapte a sus necesidades **fidelizando y fomentando una relación a largo plazo** entre empresa y cliente. 
+
+3.2. Derecho al acceso a la información pública
 +++++++++++++++++++++++++++++++++++++++++++++++
 
-3.4. Bases de datos
+El **open data** son **los datos** a lo que se puede tener acceso y se pueden **reutilizar sin necesidad de autorizaciones** específicas. Es información disponible que se puede utilizar, reutilizar y redistribuir sin ningún tipo de discriminación. 
+
+Las **Administraciones Públicas** deben servir a los ciudadanos por lo que la información que producen y poseen pertenece a todos. 
+
+Existen dos aspectos del **derecho al acceso a la información pública que son**: 
+
+- **Transparencia reactiva**: se trata del derecho que tienen los ciudadanos de reclamar a los funcionarios cualquier información y recibir contestaciones justificadas. 
+- **Transparencia proactiva**: consiste en el compromiso de las administraciones públicas de informar a los ciudadanos sobre sus políticas, presupuestos y políticas. 
+
+3.3. Bases de datos
 +++++++++++++++++++
 
-3.5. Lenguaje SQL
+.. note:: Una base de datos es un repositorio que almacena datos y permite recuperarlos y utilizarlos. 
+
+Las bases de datos están **compuestas por una o más tablas** que recogen y guardan la información. Y cada tabla está a su vez compuesta por **columnas y filas**. Cada columna es una característica del **dato** que se guarda en la fila. Las filas conformas los **registros**. 
+
+3.4. Lenguaje SQL
 +++++++++++++++++
 
-3.6. Bases de datos NOSQL 
+El **lenguaje SQL** es el estándar para definir y controlar las bases de datos relacionales. Es muy sencillo e intuitivo, con él se puede acceder a los **sistemas relacionales** comerciales. Los tipos de sistemas son: 
+
+- **Centralizados**: el que se encuentra en un único ordenador. 
+- **Distribuidos**: son ordenadores interconectados por una red que cooperan en la ejecución de tareas, pero se percibe como una única unidad desde el sistema. 
+
+3.5. Bases de datos NoSQL 
 +++++++++++++++++++++++++
+
+Surgen **a partir del año 2000** y son bases de datos que **no requieren de estructuras de datos fijas**, como por ejemplo, tablas. Se utilizan sobre todo en los sistemas distribuidos que tratan una gran cantidad de datos. 
+
+Las **características de NoSQL son**: 
+
+- **Lenguaje**: El lenguaje estándar no tiene por qué ser SQL. Existen varios tipos de bases de datos NOSQL que tienen su propio lenguaje. El lenguaje estándar suele ser SQL y se le añaden extensiones para NoSQL.
+- **Esquema**: El esquema de datos es flexible o no tienen un esquema predefinido. Se pueden añadir datos sin definir el tipo, lo que facilita el trato de datos heterogéneos, pero, dificulta su programacion. 
+- **Concordancia**: Reducen problemas de falta de concordancia. Gracias al formato en que se guarda la información se reducen los problemas de falta de concordancia entre las estructuras de datos y la base de datos.
+- **Escalabilidad**: Diseñadas para ser escalables generalmente de forma horizontal. Significa que están diseñadas para crecer por medio de la fragmentación de datos y la existencia de copias en otros servidores. 
+- **Distribución**: Son distribuidas, por lo general. Se combinan las bases de datos con las redes de ordenadores creando un conjunto de múltiples bases de datos distribuidas en varios ordenadores. 
+- **Código abierto**: Son de código abierto y tienen unas grandes comunidades de desarrollo detrás. 
+
+Las bases de datos NOSQL ofrecen **soluciones para escenarios específicos** de explicaciones que pueden ser resueltos por una base de datos relacional. En la **diversidad** de estas bases de datos es donde recae su fuerza, pues ofrece un amplio abanico de soluciones. 
+
+Las características de algunas de las **bases de datos NoSQL son**:
+
+- **Cassandra**:base de datos creada por Apache Hadoop que tiene un lenguaje propio llamado Cassandra Query Language o CQL. Otra de sus características es que es multiplataforma y una aplicación Java. 
+- **Redis**: es como un array gigante en el que se pueden almacenar datos. Sus operaciones se realizan de forma automática. Redis tiene una contra y es que no se pueden realizar consultas, sólo se pueden insertar y obtener datos sin más. No existe soporte para Windows, pero sí funciona con Lunix, Solaris y Unix, entre otros. 
+- **MongoDB**: base de datos orientada a documentos de esquema libre donde no tienen que estar relacionados los datos ni ser del mismo esquema para poder almacenarlos. 
+
 
 4. Data Warehouse y gestión documental
 **************************************
 
+.. note:: **Data Warehouse** es una base de datos corporativa que realiza las funciones de depurar e integrar la información, procedente de distintas fuentes, para procesarla y analizarla de forma rápida y eficaz. 
+
+El Data Warehouse hace referencia a la forma en la que una entidad **almacena la información** que necesita para su propio desempeño. Esta información debe estar organizada de tal forma que su **análisis resulte fácil y rápido** para que sea efectivo su uso. 
+
+Se puede decir que el Data Warehouse **se compone de dos partes**: 
+
+- **Integrar y combinar diferentes tipos de datos** procedentes de diferentes áreas de la empresa.
+- **Seleccionar**, según las necesidades, qué **información** se necesita y analizarla. 
+
+**Bill Inmon** fue quien acuño Data Warehouse por primera vez y su traducción es "almacén de datos". Según Bill estos almacenes de datos poseen las siguientes **características**: 
+
+- **Integrado**: Se trata de una estructura que integra los datos almacenados creando una estructura consistente. Se suelen organizar los datos en diferentes niveles según las necesidades. 
+- **Temático**: La información está organizada por temas para mejorar su acceso y entendimiento por parte del usuario del Data Warehouse. 
+- **Histórico**: Esta información sirve para detectar tendencias, es decir, Data Warehouse tiene en cuanta los valores de cada variable en el tiempo para comparar y detectar posibles cambios. No se centra únicamente en reflejar el presente, sino que intenta ver hacia el futuro.
+- **No volátil**: La información almacenada en el Data Warehouse no se puede modificar. Sí es posible añadir los últimos valores de las variables que recoge, pero no se puede cambiar la que ya está dentro. 
+
+Las **funciones que abarca el Data Warehouse** son: 
+
+- Ayudar a la **toma de decisiones** partiendo de la información de la entidad. 
+- **Facilitar el análisis de la información** para encontrar relación entre los datos. 
+- Al conocer el pasado, posibilita la **predicción de eventos futuros**. 
+- Si la empresa quiere **implantar sistemas de gestión de clientes**, el Data Warehouse lo simplifica. 
+
 4.1. Metadata
 +++++++++++++
+
+Dentro de un Data Warehouse se encuentran cuatro **niveles de clasificación** que conforman el metadato y **son**: 
+
+- **Detalle de datos actuales**: Es donde se encuentra la información importante pues refleja lo que a ocurrido recientemente, son voluminosos al no estar procesados y se suelen almacenar en disco. 
+- **Detalle de datos históricos**: Son datos almacenados de forma masiva, no se suelen acceder a ellos y están detallados. Se suele utilizar un medio de almacenaje alternativo para no ocupar tanto espacio en el disco ya que no es una cantidad grande de información y que no se suele recurrir a ella. 
+- **Datos ligeramente resumidos**: Son datos ligeramente tratados, se suelen encontrar en el disco junto a los detalles actuales. 
+- **Datos completamente resumidos**: Este es el siguiente nivel, es de los datos completamente resumidos. Son compactos y suelen estar compuestos por indicadores frecuentemente utilizados para analizar el resto de la información. 
+
+.. note:: Los **metadatos** son el componente final del Data Warehouse. Son datos sobre los datos que permiten saber la procedencia, periodicidad, fiabilidad y demás sobre los datos almacenados. 
+
+Estos son los que hacen posible automatizar la obtención de la información desde los sistemas. Sus principales **objetivos** son: 
+
+- **Dar soporte al usuario**: Ayuda al usuario final a acceder al Data Warehouse señalándole qué tipo de información contiene y qué significa. Por tanto, le ayuda a realizar informes y análisis junto a otras herramientas de Business Intelligence. 
+- **Dar soporte a los responsables técnicos en aspectos de auditoría**: Da soporte en la gestión de la información histórica, la administración de los datos, la extracción de la información, etc. 
+
 4.2. ETC
 ++++++++
+
+Para entender bien el **concepto de Data Warehouse** se debe comprender ETL o Extracción, Transformación y Carga que es el proceso de construcción de él mismo. 
+
+La ETL es un **software** que obtiene los datos de las diversas fuentes para transformarlos y guardarlos en el Data Warehouse. Es decir, realizan una **labor de limpieza y preparación de los datos** para ser analizados y obtener los mejores resultados posibles. 
+
+- **Extracción**: Se obtiene la información de las fuentes internas y externas de la empresa. 
+- **Transformación**: En ese momento es cuando los datos recogidos se filtran, depuran y se agrupan.
+- **Carga**: Se organiza y se actualizan los datos y metadatos del Data Warehouse. 
 
 4.3. Cloud Data
 +++++++++++++++
 
+El **auge** que ha supuesto la nube o claud ha llevado a subir los datos ala nube a través de soluciones capaces de responder a las necesidades de los usuarios de forma eficaz. 
+
+La **integración de los datos** en la nube ha supuesto un cambio en la accesibilidad de los mismos. Todas las soluciones claud tienen por objetivo: hacer posible el acceso y la gestión de la información din riesgos tanto en la nube como en entornos locales. 
+
+Los **beneficios** del Cloud Data son: 
+
+- Reducción de costes de almacenamiento y procesamiento de datos. 
+- Coordinación de los entornos locales con los servicios externos en operatividad y seguridad. 
+- Permite la escalabilidad, de forma rápida y a menor coste, tanto en almacenamiento como en el procesamiento de los datos. 
+- Es una solución rápida y ágil, pues incorpora nuevas fuentes de datos para responder más eficientemente a los cambios que se puedan dar. 
+- No es necesario invertir en infraestructuras. 
+
 5. Métodos estadísticos y data science
 **************************************
 
+La **ciencia de datos o Data Science** es una disciplina que recoge los métodos y técnicas que se utilizan para alcanzar nuevas perspectivas de la información que proviene de múltiples fuentes.
+
+Está orientada a **mejorar ámbitos** como la investigación científica, el marketing, la publicidad, el Business Intelligence, etc. La ciencia de datos se nutre de múltiples campos con la finalidad de **exprimir el significado de esos datos** recopilados y crear nueva información. 
+
+El Data Science es la **evolución del análisis de datos**. Mientras que el análisis de datos recogía la información desde una única fuente, la ciencia de datos explora y analizar desde múltiples fuentes. 
+
+Pero, no por trabajar con datos de diversas fuentes significa que sea ciencia de datos, si no que se trata de **crear más datos** como resultados de la recolección de datos, es un **producto de datos** en sí. 
+
+Existen **aplicaciones** como Facebook o Linkedln que usan estos productos de datos para **recomendarte o sugerirte** personas que quizás conozcas usando los **patrones de relaciones de amistad**. 
+
 5.1. Data Scientist
 +++++++++++++++++++
+
+Al aparecer el concepto de ciencia de datos, aparece el **perfil profesional de Data Scientist** como un experto en Data Sciencie. 
+
+**José Antonio Guerrero** describe al **Data Scientist c**omo la "persona con fundamentos en matemáticas, estadística y métodos de optimización, con conocimientos en lenguajes de programación y que además tiene experiencia práctica en el **análisis de datos** reales y la elaboración de **modelos predictivos**". 
+
+El **científico de datos requiere de habilidades** que van desde la informática hasta las matemáticas pasando por muchas otras disciplinas. 
+
+Las **características del Data Scientist son**:
+
+- Debe tener una formación base en alguna **disciplina cuantitativa**. 
+- **Habilidades tecnológicas** avanzadas como programación, manejo de bases de datos, etc. 
+- **Conocer** en profundidad **la empresa** en que desempeña su trabajo. 
+- Se centra en el **análisis, predicción y visualización** de la información. 
+
+Siendo realistas es muy difícil encontrar una única persona que abarque todas las necesidades y disciplinas que se necesitan controlar. Habitualmente en los proyectos se reúne a un **grupo de personas** donde cada uno aportará una habilidad concreta. 
+
+Existen **cuatro tipos de científicos de datos** diferenciados: 
+
+- **Empresario de datos**: es la persona que se centra en Matemáticas organizar y entender cómo sacar beneficio de los datos. Big Data Empresa 
+- **Creativo de datos**: son los que realizan el proceso de análisis íntegro, desde que se extraen los datos hasta su interpretación. 
+- **Desarrollador de datos**: se centran en los problemas técnicos de los datos como el almacenamiento. 
+- **Investigador de datos**: se trata de las personas especializadas en ciencias sociales, estadística y demás que investigan sobre los resultados de los datos. 
+
+6. Resumen
+**********
+
+- La **ciberseguridad** es una rama de la informática que busca proteger los datos e información almacenada en un ordenador o en una red. 
+- **Python es un lenguaje de programación** que destaca por su lenguaje flexible y herramientas precisas para el procesamiento de datos. 
+- El **Data Warehouse es una base de datos corporativa** que depura la información y la analiza de una manera eficaz y rápida. 
+- La ciencia de datos o **Data Science es la evolución de análisis de datos**, cuya principal diferencia es que la ciencia de datos recopila información de diferentes fuentes y el análisis de una única fuente. 
+
+7. Actividades
+**************
+
+.. figure:: ../../_static/4_nuevas_tecnologias/4.10_programacion/actividades/questionnaire_1.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/4_nuevas_tecnologias/4.10_programacion/actividades/questionnaire_2.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/4_nuevas_tecnologias/4.10_programacion/actividades/questionnaire_3.jpg
+   :width: 70%
+   :align: center
+
+.. figure:: ../../_static/4_nuevas_tecnologias/4.10_programacion/actividades/questionnaire_4.jpg
+   :width: 70%
+   :align: center

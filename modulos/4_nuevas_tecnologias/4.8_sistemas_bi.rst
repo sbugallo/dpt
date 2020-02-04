@@ -7,7 +7,6 @@ Los Sistemas de **Business Intelligence** son un tipo de **software de aplicacio
 
 Actualmente existen otras herramientas Business Intelligence que serán implementadas en base a las necesidades de la organización. 
 
-
 .. figure:: ../../_static/4_nuevas_tecnologias/4.8_sistemas_bi/mapa_conceptual.jpg
    :width: 70%
    :align: center

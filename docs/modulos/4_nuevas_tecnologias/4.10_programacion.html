@@ -26,6 +26,7 @@
         <script type="text/javascript" src="../../_static/jquery.js"></script>
         <script type="text/javascript" src="../../_static/underscore.js"></script>
         <script type="text/javascript" src="../../_static/doctools.js"></script>
+        <script type="text/javascript" src="../../_static/language_data.js"></script>
         <script type="text/javascript" src="../../_static/translations.js"></script>
     
     <script type="text/javascript" src="../../_static/js/theme.js"></script>
@@ -62,7 +63,7 @@
             
             
               <div class="version">
-                03/02/2020 17:09:26
+                04/02/2020 08:43:38
               </div>
             
           
@@ -106,6 +107,8 @@
 <li class="toctree-l3"><a class="reference internal" href="#bases-de-datos-y-big-data-nosql">3. Bases de datos y Big Data. NoSQL</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#data-warehouse-y-gestion-documental">4. Data Warehouse y gestión documental</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#metodos-estadisticos-y-data-science">5. Métodos estadísticos y data science</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#resumen">6. Resumen</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#actividades">7. Actividades</a></li>
 </ul>
 </li>
 </ul>
@@ -186,79 +189,392 @@
   <div class="section" id="programacion">
 <h1>4.10. Programación<a class="headerlink" href="#programacion" title="Enlazar permanentemente con este título">¶</a></h1>
 <p>En la actualidad, muchas de las gestiones que habitualmente se hacían a mano, se han informatizado y se disponen de <strong>medios digitales e internet</strong> para llevarlas a cabo. Esto ha <strong>afectado directamente a las empresas y a la economía</strong> en general.</p>
+<div class="figure align-center">
+<a class="reference internal image-reference" href="../../_images/mapa_conceptual17.jpg"><img alt="../../_images/mapa_conceptual17.jpg" src="../../_images/mapa_conceptual17.jpg" style="width: 70%;" /></a>
+</div>
 <div class="section" id="tecnicas-y-herramientas-de-proteccion-de-redes-sistemas-y-servicios">
 <h2>1. Técnicas y herramientas de protección de redes, sistemas y servicios<a class="headerlink" href="#tecnicas-y-herramientas-de-proteccion-de-redes-sistemas-y-servicios" title="Enlazar permanentemente con este título">¶</a></h2>
+<div class="admonition note">
+<p class="admonition-title">Nota</p>
+<p>La seguridad de la tecnología de la información o <strong>ciberseguridad</strong> es la rama que se enfoca en proteger la infraestructura computacional, la información almacenada en ella o la que circula a través de las redes de ordenadores.</p>
+</div>
+<p>Actúa sobre el software, hardware, redes y toda aquella información que la empresa quiera proteger, es decir, sobre los diferentes aspectos del <strong>tratamiento de datos</strong>.</p>
+<p>La ciberseguridad <strong>engloba técnicas, métodos y normas</strong> que controlen el acceso, establezcan permisos y denegaciones, horarios de funcionamiento, protocolos, etc.</p>
+<p>Con la <strong>finalidad</strong> de minimizar los riesgos a los que están expuestos los sistemas y la información.</p>
+<p>La <strong>protección se ejerce sobre</strong> los activos informáticos que son:</p>
+<ul class="simple">
+<li><p><strong>Información</strong>: Es el principal activo que se debe proteger, residen en la infraestructura y es usada y gestionada por los usuarios.</p></li>
+<li><p><strong>Infraestructura computacional</strong>: Es el equipo que hace posible el funcionamiento, almacenaje y gestión de la información.</p></li>
+<li><p><strong>Usuarios</strong>: Son las personas que gestionan la información y dan uso a los sistemas. Si no se realizan buenas prácticas se pueden abrir brechas de seguridad.</p></li>
+</ul>
 <div class="section" id="los-riesgos-ciberneticos">
 <h3>1.1. Los riesgos cibernéticos<a class="headerlink" href="#los-riesgos-ciberneticos" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>Existen múltiples riesgos ante <strong>ataques cibernéticos</strong>. Desde elementos que se instalan en el sistema para sustraer la información almacenada, hasta dañar el equipo.</p>
+<p>Los <strong>riesgos más frecuentes</strong> son:</p>
+<ul class="simple">
+<li><p><strong>Código dañino (malware)</strong>: daña el funcionamiento de un ordenador es uno de los riesgos más comunes. Inutiliza el sistema operativo e incluso puede hacerse con la memoria del equipo.</p></li>
+<li><p><strong>Gusano</strong>: busca colapsar la red para impedir el correcto funcionamiento. Se trata de programas que se replican así mismos a través de redes informáticas o en un mismo ordenador.</p></li>
+<li><p><strong>Virus</strong> es un programa o código que infecta los archivos y se instala sin permiso en el ordenador.</p></li>
+<li><p><strong>Troyano</strong>: es un software camuflado como un archivo o programa benigno y que pretenden sustraer o destruir datos e información almacenada en el equipo.</p></li>
+<li><p><strong>Botnet</strong>: consiste en un conjunto de programas que están instaladas en diferentes equipos interconectados y quedan «secuestrados» por un hacker. El objetivo es robar información o denegar servicios como colapsar una web.</p></li>
+<li><p><strong>Bomba lógica</strong>: actúa cuando el hacker lo desea. Se trata de un software o aplicación que ataca a los ficheros, al sistema operativo alterándolo o inhabilitándolo, es decir, a la parte lógica del ordenador.</p></li>
+</ul>
 </div>
 <div class="section" id="atacantes-en-el-entorno-cibernetico">
 <h3>1.2. Atacantes en el entorno cibernético<a class="headerlink" href="#atacantes-en-el-entorno-cibernetico" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>Los <strong>atacantes</strong> son las personas que crean configuran y ejecutan este tipo de riesgos y amenazas.</p>
+<p>Los <strong>tipos de atacantes en el entorno cibernético son</strong>:</p>
+<ul class="simple">
+<li><p><strong>Estados</strong>: países como EEUU o Rusia invierten en el desarrollo de armas cibernéticas, pues son conscientes de la ventaja comparativa que aportan.</p></li>
+<li><p><strong>Delincuentes</strong>: los delincuentes utilizan el ciberespacio para atacar transacciones y llevar a cabo sus operaciones.</p></li>
+<li><p><strong>Empresas</strong>: invierten en espionaje industrial y comercial para obtener ventajas en el mercado, creando ciberataques.</p></li>
+<li><p><strong>Crackers</strong>: son las personas que protestan en el ámbito social, político y económico sin violencia a través de herramientas informáticas como desconfiguraciones, sabotajes y sustracción de información.</p></li>
+<li><p><strong>Terroristas</strong>: el ciberespacio ahora es el escenario de enfrentamientos tradicionales provenientes de terroristas y extremistas religiosos.</p></li>
+</ul>
 </div>
 <div class="section" id="las-fases-de-desarrollo-de-ataques">
 <h3>1.3. Las fases de desarrollo de ataques<a class="headerlink" href="#las-fases-de-desarrollo-de-ataques" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>Las fases de desarrollo de ataques cibernéticos son:</p>
+<ul class="simple">
+<li><p><strong>Reconocimiento</strong>: Se recopila información sobre el objetivo para detectar las debilidades o fragilidades del sistema.</p></li>
+<li><p><strong>Biblioteca de ataques conocidos</strong>: Se trata la información obtenida para detectar los posibles fallos de cualquier naturaleza: técnicos, humanos, medioambientales u organizativos.</p></li>
+<li><p><strong>Planificación</strong>: Al conocer los fallos y errores del sistema se planea la estrategia para introducir el malware.</p></li>
+<li><p><strong>Inserción de malware</strong>: Cuando se salta la seguridad de las redes, sigilosamente inserta el malware y así ejecutar el código para conseguir sus objetivos.</p></li>
+<li><p><strong>Eliminación de huellas</strong>: Una vez el ataque termina, el atacante elimina cualquier rastro para no ser identificado. Para ellos puede usar otros riesgos como gusanos o troyanos.</p></li>
+</ul>
 </div>
 <div class="section" id="ciberseguridad-medidas-de-proteccion">
 <h3>1.4. Ciberseguridad: medidas de protección<a class="headerlink" href="#ciberseguridad-medidas-de-proteccion" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>Existen <strong>métodos y técnicas</strong> para proteger los datos e información en caso de algún ataque.</p>
+<p>El control de acceso, protección contra virus, respaldo de la información y establecer pautas de actuación son las técnicas para <strong>asegurar el sistema informático</strong>.</p>
+<div class="section" id="asegurar-la-informacion">
+<h4>1.4.1.Asegurar la información<a class="headerlink" href="#asegurar-la-informacion" title="Enlazar permanentemente con este título">¶</a></h4>
+<p>Hacer copias de seguridad o <strong>backups</strong> es lo más eficiente para asegurar la información.</p>
+<p>Establecer una buena <strong>política de copias de seguridad</strong> es fundamental. Debe incluir copias se seguridad completas e incrementales, donde sólo se copian los datos modificados o nuevos que no contenía la antigua copia.</p>
+<div class="admonition note">
+<p class="admonition-title">Nota</p>
+<p>La <strong>copia de seguridad</strong> es un método de duplicado de la información para recuperarla en caso de pérdida. Asi se mantienen los datos en dos ubicaciones distintas a la vez.</p>
+</div>
+<p>Para asegurar la eficiencia de las <strong>copias de seguridad</strong> deben cumplir con las siguientes <strong>características</strong>:</p>
+<ul class="simple">
+<li><p>Automática y continua, paralelamente a las tareas del usuario.</p></li>
+<li><p>Mantiene las versiones anteriores, para poder recuperar datos antiguos.</p></li>
+<li><p>Segura, se cifran la información antes de se ser enviada.</p></li>
+<li><p>Remota, alojamiento de los datos fuera de la empresa.</p></li>
+</ul>
+</div>
+<div class="section" id="antivirus">
+<h4>1.4.2. Antivirus<a class="headerlink" href="#antivirus" title="Enlazar permanentemente con este título">¶</a></h4>
+<p>Elementos que se recomienda tener para <strong>protegerse ante virus</strong>:</p>
+<ul>
+<li><p><strong>Control del acceso a la información por medio de permisos</strong>:</p>
+<blockquote>
+<div><ul class="simple">
+<li><p>Se controlan los problemas que puedan ocasionar los propios usuarios, evitar que se modifique información y restringiendo el acceso a ciertos datos y programas.</p></li>
+<li><p>El uso de las aplicaciones debe estar monitorizado y que la información transmitida sea la misma que se reciba.</p></li>
+</ul>
+</div></blockquote>
+</li>
+<li><p><strong>Protección contra virus</strong>:</p>
+<blockquote>
+<div><ul class="simple">
+<li><p>Para evitar la infección de los sistemas por virus se debe controlar el software que se instala, asegurando la calidad y procedencia del mismo.</p></li>
+<li><p>Se recomienda los softwares de instalación rápida para que, en el caso de alguna incidencia, sea fácilmente reinstalado.</p></li>
+</ul>
+</div></blockquote>
+</li>
+</ul>
+</div>
+<div class="section" id="usuarios">
+<h4>1.4.3. Usuarios<a class="headerlink" href="#usuarios" title="Enlazar permanentemente con este título">¶</a></h4>
+<p>Mantener el ordenador apagado cuando no se esté utilizando y un antivirus actualizado es esencial para <strong>proteger el ordenador</strong>.</p>
+<p>Recomendaciones para <strong>cuando los internautas naveguen por internet</strong>:</p>
+<ul class="simple">
+<li><p>No abrir correos de procedencia desconocida.</p></li>
+<li><p>No dar datos personales sobre él o terceros.</p></li>
+<li><p>Periódicamente se debe cambiar las contraseñas.</p></li>
+<li><p>Utilizar sistemas de encriptado de datos para protegerlos.</p></li>
+<li><p>Evitar que otras personas utilicen su cuenta para navegar por internet.</p></li>
+</ul>
+</div>
+<div class="section" id="sistemas-de-mensajeria">
+<h4>1.4.4. Sistemas de mensajería<a class="headerlink" href="#sistemas-de-mensajeria" title="Enlazar permanentemente con este título">¶</a></h4>
+<p>Para <strong>minimizar y evitar que los datos de una entidad sean robados</strong> por sistemas de mensajería se recomiendan seguir estos consejos:</p>
+<ul class="simple">
+<li><p>Tener instalado un antivirus.</p></li>
+<li><p>Establecer reglas de utilización de la mensajería.</p></li>
+<li><p>Explicar a los usuarios los posibles riesgos.</p></li>
+<li><p>Los usuarios se debe comprometer en el buen uso de los recursos informáticos.</p></li>
+<li><p>Instalar versiones seguras de mensajería.</p></li>
+<li><p>Utilizar sistemas de encriptación de datos.</p></li>
+<li><p>Configurar correctamente la estación de trabajo y el sistema de mensajería.</p></li>
+</ul>
+</div>
+<div class="section" id="proteger-el-entorno">
+<h4>1.4.5. Proteger el entorno<a class="headerlink" href="#proteger-el-entorno" title="Enlazar permanentemente con este título">¶</a></h4>
+<p>El <strong>cortafuegos</strong> o firewall es otra herramienta para evitar riesgo e intrusiones en la red local o en los ordenadores.</p>
+<div class="admonition note">
+<p class="admonition-title">Nota</p>
+<p>El <strong>firewall</strong> se trata de un sistema entre una red privada e internet que evita los accesos no autorizados. Detecta a los atacantes antes de llegar a la red o al ordenador, sin impedir el normal funcionamiento.</p>
+</div>
+<p>Todo el <strong>tráfico pasa por el cortafuegos</strong>, siendo sólo el autorizado el que puede atravesarlo. Garantiza la seguridad de las comunicaciones, protege la información, evita virus y ataques cibernéticos, etc.</p>
+<p>El cortafuegos debe ser diferente al servidor web de la empresa.</p>
+<p>Se debe acceder a internet por medio de <strong>herramientas</strong> que no se conecten a la red interna directamente. Sobre todo, cuando en ella hay datos de carácter sensible, así se protegen.</p>
+<p>Dentro de una empresa pueden ocurrir <strong>delitos</strong> que un cortafuegos no puede evitar. Al igual que no puede controlar los accesos ilícitos que no pasen por él.</p>
+<p>Es importante contar con un <strong>antivirus</strong> además del cortafuegos.</p>
+<p>El antivirus <strong>debe estar instalado en</strong>:</p>
+<ul class="simple">
+<li><p>Los ordenadores de cada trabajador o usuario.</p></li>
+<li><p>Las máquinas que recopilen la información.</p></li>
+<li><p>Los sistemas de mensajería y conectividad.</p></li>
+</ul>
+</div>
 </div>
 </div>
 <div class="section" id="modelamiento-de-datos-y-diseno-de-base-de-datos">
 <h2>2. Modelamiento de datos y diseño de base de datos<a class="headerlink" href="#modelamiento-de-datos-y-diseno-de-base-de-datos" title="Enlazar permanentemente con este título">¶</a></h2>
-<div class="section" id="funcionamiento-de-python">
-<h3>2.1 . Funcionamiento de Python<a class="headerlink" href="#funcionamiento-de-python" title="Enlazar permanentemente con este título">¶</a></h3>
-</div>
-<div class="section" id="tipos-de-datos-numericos">
-<h3>2.2. Tipos de datos numéricos<a class="headerlink" href="#tipos-de-datos-numericos" title="Enlazar permanentemente con este título">¶</a></h3>
-</div>
-<div class="section" id="otros-tipos-de-datos">
-<h3>2.3. Otros tipos de datos<a class="headerlink" href="#otros-tipos-de-datos" title="Enlazar permanentemente con este título">¶</a></h3>
-</div>
+<p>Hoy en día el <strong>análisis de datos</strong> se ha convertido en un pilar para las empresas. Gracias él se puede recoger <strong>información relevante</strong> a cerca del entorno, de los consumidores y de las tendencias del mercado.</p>
+<p>Este análisis se realiza <strong>a través de diversas herramientas</strong>, una de ellas es <strong>Python</strong> que destaca por su lenguaje flexible y herramientas precisas para el procesamiento de datos.</p>
+<p>Se trata de un lenguaje de programación fácil de aprender lo que supone que empresas como Google, Youtube o Pixar usen Python como uno de sus principales lenguajes de desarrollo.</p>
 <div class="section" id="las-ventajas-de-python">
-<h3>2.4. Las ventajas de Python<a class="headerlink" href="#las-ventajas-de-python" title="Enlazar permanentemente con este título">¶</a></h3>
+<h3>2.1. Las ventajas de Python<a class="headerlink" href="#las-ventajas-de-python" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>Una de las principales ventajas de Python es su comunidad de desarrolladores grande y prolifera que ha generado una gran variedad de <strong>librerías sobre sus funcionalidades</strong>.</p>
+<p>Dos de las <strong>principales librerías</strong> usadas en análisis de datos son:</p>
+<ul class="simple">
+<li><p><strong>Pandas</strong>: Con esta librería se nutre Python de unas estructuras de datos fáciles y flexibles para trabajar de una forma eficiente con los datos. Por tanto, implementa funciones destinadas al análisis de datos.</p></li>
+<li><p><strong>NumPy</strong>: Está dirigida a la computación científica, funciones para el manejo de vectores y matrices. También permite incorporar código fuente de otros lenguajes de programación.</p></li>
+</ul>
+<p>Otra de sus ventajas es que Python puede <strong>integrarse con aplicaciones como Hadoop o Mongo DB</strong>, entre otras.</p>
 </div>
 <div class="section" id="mongodb">
-<h3>2.5. MongoDB<a class="headerlink" href="#mongodb" title="Enlazar permanentemente con este título">¶</a></h3>
+<h3>2.2. MongoDB<a class="headerlink" href="#mongodb" title="Enlazar permanentemente con este título">¶</a></h3>
+<p><strong>MongoDB</strong> es una base de datos NOSQL libre, escalable y multiplataforma.</p>
+<p>Es una de las bases de datos más populares y está <strong>orientada a almacenar tanto documentos como formato binario</strong>. Esta característica dota a MongoDB de <strong>flexibilidad y dinamismo</strong> con respecto al resto de bases de datos.</p>
+<p>Las <strong>principales características</strong> son:</p>
+<ul class="simple">
+<li><p>Almacenamiento de documentos y código binarios (BSON y JSON).</p></li>
+<li><p>Alta disponibilidad y replicación maestro-esclavo.</p></li>
+<li><p>Soporte de índices.</p></li>
+<li><p>Consultas.</p></li>
+<li><p>APIs para muchos lenguajes de programación.</p></li>
+<li><p>Escalabilidad horizontal.</p></li>
+<li><p>Permite almacenar ficheros sin importar el tamaño.</p></li>
+<li><p>Es rápida y escalable pues no hay transacciones.</p></li>
+</ul>
 </div>
 <div class="section" id="hadoop">
-<h3>2.6. Hadoop<a class="headerlink" href="#hadoop" title="Enlazar permanentemente con este título">¶</a></h3>
+<h3>2.3. Hadoop<a class="headerlink" href="#hadoop" title="Enlazar permanentemente con este título">¶</a></h3>
+<div class="admonition note">
+<p class="admonition-title">Nota</p>
+<p><strong>Apache Hadoop</strong> es un framework de software libre para procesar gran cantidad de datos. Permite escribir y ejecutar aplicaciones en sistemas para llevar a cabo ese análisis y gestión de la información.</p>
+</div>
+<p>Cuando <strong>Google</strong> tuvo la <strong>necesidad de seguir procesando</strong> datos al ritmo que se le demandaba surgió Hadoop.</p>
+<p>La solución era un <strong>sistema de archivos</strong> distribuidos donde cada ordenador procesaría una parte de la información. Funcionando de forma autónoma, pero <strong>actuando en conjunto</strong>, recreando un único ordenador de dimensiones gigantescas.</p>
+<p>La comunidad <strong>Open Source</strong> fue la encargada de desarrollar e implementar Hadoop a partir del descubrimiento de Google.</p>
 </div>
 </div>
 <div class="section" id="bases-de-datos-y-big-data-nosql">
 <h2>3. Bases de datos y Big Data. NoSQL<a class="headerlink" href="#bases-de-datos-y-big-data-nosql" title="Enlazar permanentemente con este título">¶</a></h2>
-<div class="section" id="las-dimensiones-del-big-data">
-<h3>3.1. Las dimensiones del Big Data<a class="headerlink" href="#las-dimensiones-del-big-data" title="Enlazar permanentemente con este título">¶</a></h3>
-</div>
+<p>El <strong>Big Data</strong> se refiere a la cantidad de datos que se acumulan y a las herramientas tecnológicas que se emplean para su <strong>análisis y gestión</strong>.</p>
+<p>Actualmente <strong>se produce información constantemente</strong> a través de cada uno de los dispositivos que utilizamos en el día a día. Con todos esos datos, una vez analizados, se pueden <strong>crear perfiles</strong> de cada una de las personas sobre gustos, intereses, etc.</p>
+<p>Pero no sirve solo para detectar patrones de compra o gustos, también permite <strong>pronosticar problemas y tendencias</strong>.</p>
+<p>Con Big Data se pueden extraer <strong>datos de tipo</strong>:</p>
+<ul class="simple">
+<li><p><strong>Estructurados</strong>: se trata de información ya filtrada, procesada y estructurada.</p></li>
+<li><p><strong>Semi-estructurados</strong>: es información que ya se ha procesado, pero no se ha estructurado.</p></li>
+<li><p><strong>No estructurados</strong>: son datos que aún no se han procesado como por ejemplo: videos, imágenes, textos, y demás.</p></li>
+</ul>
 <div class="section" id="objetivos-del-big-data">
-<h3>3.2. Objetivos del Big Data<a class="headerlink" href="#objetivos-del-big-data" title="Enlazar permanentemente con este título">¶</a></h3>
+<h3>3.1. Objetivos del Big Data<a class="headerlink" href="#objetivos-del-big-data" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>Dado que se crean alrededor de 1700 billones de bytes de datos por minuto sólo en Europa, se hace necesario <strong>crear sistemas de almacenamientos de datos</strong> más sofisticados.</p>
+<p>La información es poder, por lo que todos estos datos tienen un valor muy alto. A través de <strong>Big Data</strong> se pueden conocer las conductas y hechos de las personas para comprenderlas a fondo. Y también <strong>predecir problemas</strong> tanto en el mercado como en la vida cotidiana.</p>
+<p>Toda esta información se utiliza, principalmente, para <strong>apoyar o sustentar la toma de decisiones</strong>. Las empresas que saben interpretar y analizar correctamente esta información tiene ventajas competitivas con respecto al resto.</p>
+<p>El Big Data <strong>permite</strong>:</p>
+<ul class="simple">
+<li><p><strong>Nuevas oportunidades</strong> de negocio y llegar a nuevos públicos.</p></li>
+<li><p>Elevar la <strong>eficiencia y eficacia del marketing</strong>- Lanzar <strong>estrategias de marketing personalizadas</strong> según los gustos de cada cliente.</p></li>
+<li><p><strong>Predecir demandas, tendencias y necesidades</strong> de los clientes.</p></li>
+<li><p>Mejorar la <strong>toma de decisiones</strong> basándose información útil.</p></li>
+</ul>
+<p>Los sectores que más han invertido en Big Data son:</p>
+<ul class="simple">
+<li><p>Administración pública.</p></li>
+<li><p>Sector financiero y de seguros.</p></li>
+<li><p>Comercio.</p></li>
+<li><p>Comunicaciones.</p></li>
+<li><p>Salud.</p></li>
+<li><p>Industria.</p></li>
+</ul>
+<p>La <strong>utilidad del Big Data</strong> se encuentra en la capacidad de localizar esas cosas a las que no se presta atención, y que estudiando los datos, <strong>revela información útil</strong>.</p>
+<p>La <strong>productividad</strong> también aumenta con el buen uso del Big Data. Al conocer las exigencias de cada uno de los clientes, de forma individual, se ofrece a cada uno lo que más se adapte a sus necesidades <strong>fidelizando y fomentando una relación a largo plazo</strong> entre empresa y cliente.</p>
 </div>
 <div class="section" id="derecho-al-acceso-a-la-informacion-publica">
-<h3>3.3. Derecho al acceso a la información pública<a class="headerlink" href="#derecho-al-acceso-a-la-informacion-publica" title="Enlazar permanentemente con este título">¶</a></h3>
+<h3>3.2. Derecho al acceso a la información pública<a class="headerlink" href="#derecho-al-acceso-a-la-informacion-publica" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>El <strong>open data</strong> son <strong>los datos</strong> a lo que se puede tener acceso y se pueden <strong>reutilizar sin necesidad de autorizaciones</strong> específicas. Es información disponible que se puede utilizar, reutilizar y redistribuir sin ningún tipo de discriminación.</p>
+<p>Las <strong>Administraciones Públicas</strong> deben servir a los ciudadanos por lo que la información que producen y poseen pertenece a todos.</p>
+<p>Existen dos aspectos del <strong>derecho al acceso a la información pública que son</strong>:</p>
+<ul class="simple">
+<li><p><strong>Transparencia reactiva</strong>: se trata del derecho que tienen los ciudadanos de reclamar a los funcionarios cualquier información y recibir contestaciones justificadas.</p></li>
+<li><p><strong>Transparencia proactiva</strong>: consiste en el compromiso de las administraciones públicas de informar a los ciudadanos sobre sus políticas, presupuestos y políticas.</p></li>
+</ul>
 </div>
 <div class="section" id="bases-de-datos">
-<h3>3.4. Bases de datos<a class="headerlink" href="#bases-de-datos" title="Enlazar permanentemente con este título">¶</a></h3>
+<h3>3.3. Bases de datos<a class="headerlink" href="#bases-de-datos" title="Enlazar permanentemente con este título">¶</a></h3>
+<div class="admonition note">
+<p class="admonition-title">Nota</p>
+<p>Una base de datos es un repositorio que almacena datos y permite recuperarlos y utilizarlos.</p>
+</div>
+<p>Las bases de datos están <strong>compuestas por una o más tablas</strong> que recogen y guardan la información. Y cada tabla está a su vez compuesta por <strong>columnas y filas</strong>. Cada columna es una característica del <strong>dato</strong> que se guarda en la fila. Las filas conformas los <strong>registros</strong>.</p>
 </div>
 <div class="section" id="lenguaje-sql">
-<h3>3.5. Lenguaje SQL<a class="headerlink" href="#lenguaje-sql" title="Enlazar permanentemente con este título">¶</a></h3>
+<h3>3.4. Lenguaje SQL<a class="headerlink" href="#lenguaje-sql" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>El <strong>lenguaje SQL</strong> es el estándar para definir y controlar las bases de datos relacionales. Es muy sencillo e intuitivo, con él se puede acceder a los <strong>sistemas relacionales</strong> comerciales. Los tipos de sistemas son:</p>
+<ul class="simple">
+<li><p><strong>Centralizados</strong>: el que se encuentra en un único ordenador.</p></li>
+<li><p><strong>Distribuidos</strong>: son ordenadores interconectados por una red que cooperan en la ejecución de tareas, pero se percibe como una única unidad desde el sistema.</p></li>
+</ul>
 </div>
 <div class="section" id="bases-de-datos-nosql">
-<h3>3.6. Bases de datos NOSQL<a class="headerlink" href="#bases-de-datos-nosql" title="Enlazar permanentemente con este título">¶</a></h3>
+<h3>3.5. Bases de datos NoSQL<a class="headerlink" href="#bases-de-datos-nosql" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>Surgen <strong>a partir del año 2000</strong> y son bases de datos que <strong>no requieren de estructuras de datos fijas</strong>, como por ejemplo, tablas. Se utilizan sobre todo en los sistemas distribuidos que tratan una gran cantidad de datos.</p>
+<p>Las <strong>características de NoSQL son</strong>:</p>
+<ul class="simple">
+<li><p><strong>Lenguaje</strong>: El lenguaje estándar no tiene por qué ser SQL. Existen varios tipos de bases de datos NOSQL que tienen su propio lenguaje. El lenguaje estándar suele ser SQL y se le añaden extensiones para NoSQL.</p></li>
+<li><p><strong>Esquema</strong>: El esquema de datos es flexible o no tienen un esquema predefinido. Se pueden añadir datos sin definir el tipo, lo que facilita el trato de datos heterogéneos, pero, dificulta su programacion.</p></li>
+<li><p><strong>Concordancia</strong>: Reducen problemas de falta de concordancia. Gracias al formato en que se guarda la información se reducen los problemas de falta de concordancia entre las estructuras de datos y la base de datos.</p></li>
+<li><p><strong>Escalabilidad</strong>: Diseñadas para ser escalables generalmente de forma horizontal. Significa que están diseñadas para crecer por medio de la fragmentación de datos y la existencia de copias en otros servidores.</p></li>
+<li><p><strong>Distribución</strong>: Son distribuidas, por lo general. Se combinan las bases de datos con las redes de ordenadores creando un conjunto de múltiples bases de datos distribuidas en varios ordenadores.</p></li>
+<li><p><strong>Código abierto</strong>: Son de código abierto y tienen unas grandes comunidades de desarrollo detrás.</p></li>
+</ul>
+<p>Las bases de datos NOSQL ofrecen <strong>soluciones para escenarios específicos</strong> de explicaciones que pueden ser resueltos por una base de datos relacional. En la <strong>diversidad</strong> de estas bases de datos es donde recae su fuerza, pues ofrece un amplio abanico de soluciones.</p>
+<p>Las características de algunas de las <strong>bases de datos NoSQL son</strong>:</p>
+<ul class="simple">
+<li><p><strong>Cassandra</strong>:base de datos creada por Apache Hadoop que tiene un lenguaje propio llamado Cassandra Query Language o CQL. Otra de sus características es que es multiplataforma y una aplicación Java.</p></li>
+<li><p><strong>Redis</strong>: es como un array gigante en el que se pueden almacenar datos. Sus operaciones se realizan de forma automática. Redis tiene una contra y es que no se pueden realizar consultas, sólo se pueden insertar y obtener datos sin más. No existe soporte para Windows, pero sí funciona con Lunix, Solaris y Unix, entre otros.</p></li>
+<li><p><strong>MongoDB</strong>: base de datos orientada a documentos de esquema libre donde no tienen que estar relacionados los datos ni ser del mismo esquema para poder almacenarlos.</p></li>
+</ul>
 </div>
 </div>
 <div class="section" id="data-warehouse-y-gestion-documental">
 <h2>4. Data Warehouse y gestión documental<a class="headerlink" href="#data-warehouse-y-gestion-documental" title="Enlazar permanentemente con este título">¶</a></h2>
+<div class="admonition note">
+<p class="admonition-title">Nota</p>
+<p><strong>Data Warehouse</strong> es una base de datos corporativa que realiza las funciones de depurar e integrar la información, procedente de distintas fuentes, para procesarla y analizarla de forma rápida y eficaz.</p>
+</div>
+<p>El Data Warehouse hace referencia a la forma en la que una entidad <strong>almacena la información</strong> que necesita para su propio desempeño. Esta información debe estar organizada de tal forma que su <strong>análisis resulte fácil y rápido</strong> para que sea efectivo su uso.</p>
+<p>Se puede decir que el Data Warehouse <strong>se compone de dos partes</strong>:</p>
+<ul class="simple">
+<li><p><strong>Integrar y combinar diferentes tipos de datos</strong> procedentes de diferentes áreas de la empresa.</p></li>
+<li><p><strong>Seleccionar</strong>, según las necesidades, qué <strong>información</strong> se necesita y analizarla.</p></li>
+</ul>
+<p><strong>Bill Inmon</strong> fue quien acuño Data Warehouse por primera vez y su traducción es «almacén de datos». Según Bill estos almacenes de datos poseen las siguientes <strong>características</strong>:</p>
+<ul class="simple">
+<li><p><strong>Integrado</strong>: Se trata de una estructura que integra los datos almacenados creando una estructura consistente. Se suelen organizar los datos en diferentes niveles según las necesidades.</p></li>
+<li><p><strong>Temático</strong>: La información está organizada por temas para mejorar su acceso y entendimiento por parte del usuario del Data Warehouse.</p></li>
+<li><p><strong>Histórico</strong>: Esta información sirve para detectar tendencias, es decir, Data Warehouse tiene en cuanta los valores de cada variable en el tiempo para comparar y detectar posibles cambios. No se centra únicamente en reflejar el presente, sino que intenta ver hacia el futuro.</p></li>
+<li><p><strong>No volátil</strong>: La información almacenada en el Data Warehouse no se puede modificar. Sí es posible añadir los últimos valores de las variables que recoge, pero no se puede cambiar la que ya está dentro.</p></li>
+</ul>
+<p>Las <strong>funciones que abarca el Data Warehouse</strong> son:</p>
+<ul class="simple">
+<li><p>Ayudar a la <strong>toma de decisiones</strong> partiendo de la información de la entidad.</p></li>
+<li><p><strong>Facilitar el análisis de la información</strong> para encontrar relación entre los datos.</p></li>
+<li><p>Al conocer el pasado, posibilita la <strong>predicción de eventos futuros</strong>.</p></li>
+<li><p>Si la empresa quiere <strong>implantar sistemas de gestión de clientes</strong>, el Data Warehouse lo simplifica.</p></li>
+</ul>
 <div class="section" id="metadata">
 <h3>4.1. Metadata<a class="headerlink" href="#metadata" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>Dentro de un Data Warehouse se encuentran cuatro <strong>niveles de clasificación</strong> que conforman el metadato y <strong>son</strong>:</p>
+<ul class="simple">
+<li><p><strong>Detalle de datos actuales</strong>: Es donde se encuentra la información importante pues refleja lo que a ocurrido recientemente, son voluminosos al no estar procesados y se suelen almacenar en disco.</p></li>
+<li><p><strong>Detalle de datos históricos</strong>: Son datos almacenados de forma masiva, no se suelen acceder a ellos y están detallados. Se suele utilizar un medio de almacenaje alternativo para no ocupar tanto espacio en el disco ya que no es una cantidad grande de información y que no se suele recurrir a ella.</p></li>
+<li><p><strong>Datos ligeramente resumidos</strong>: Son datos ligeramente tratados, se suelen encontrar en el disco junto a los detalles actuales.</p></li>
+<li><p><strong>Datos completamente resumidos</strong>: Este es el siguiente nivel, es de los datos completamente resumidos. Son compactos y suelen estar compuestos por indicadores frecuentemente utilizados para analizar el resto de la información.</p></li>
+</ul>
+<div class="admonition note">
+<p class="admonition-title">Nota</p>
+<p>Los <strong>metadatos</strong> son el componente final del Data Warehouse. Son datos sobre los datos que permiten saber la procedencia, periodicidad, fiabilidad y demás sobre los datos almacenados.</p>
+</div>
+<p>Estos son los que hacen posible automatizar la obtención de la información desde los sistemas. Sus principales <strong>objetivos</strong> son:</p>
+<ul class="simple">
+<li><p><strong>Dar soporte al usuario</strong>: Ayuda al usuario final a acceder al Data Warehouse señalándole qué tipo de información contiene y qué significa. Por tanto, le ayuda a realizar informes y análisis junto a otras herramientas de Business Intelligence.</p></li>
+<li><p><strong>Dar soporte a los responsables técnicos en aspectos de auditoría</strong>: Da soporte en la gestión de la información histórica, la administración de los datos, la extracción de la información, etc.</p></li>
+</ul>
 </div>
 <div class="section" id="etc">
 <h3>4.2. ETC<a class="headerlink" href="#etc" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>Para entender bien el <strong>concepto de Data Warehouse</strong> se debe comprender ETL o Extracción, Transformación y Carga que es el proceso de construcción de él mismo.</p>
+<p>La ETL es un <strong>software</strong> que obtiene los datos de las diversas fuentes para transformarlos y guardarlos en el Data Warehouse. Es decir, realizan una <strong>labor de limpieza y preparación de los datos</strong> para ser analizados y obtener los mejores resultados posibles.</p>
+<ul class="simple">
+<li><p><strong>Extracción</strong>: Se obtiene la información de las fuentes internas y externas de la empresa.</p></li>
+<li><p><strong>Transformación</strong>: En ese momento es cuando los datos recogidos se filtran, depuran y se agrupan.</p></li>
+<li><p><strong>Carga</strong>: Se organiza y se actualizan los datos y metadatos del Data Warehouse.</p></li>
+</ul>
 </div>
 <div class="section" id="cloud-data">
 <h3>4.3. Cloud Data<a class="headerlink" href="#cloud-data" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>El <strong>auge</strong> que ha supuesto la nube o claud ha llevado a subir los datos ala nube a través de soluciones capaces de responder a las necesidades de los usuarios de forma eficaz.</p>
+<p>La <strong>integración de los datos</strong> en la nube ha supuesto un cambio en la accesibilidad de los mismos. Todas las soluciones claud tienen por objetivo: hacer posible el acceso y la gestión de la información din riesgos tanto en la nube como en entornos locales.</p>
+<p>Los <strong>beneficios</strong> del Cloud Data son:</p>
+<ul class="simple">
+<li><p>Reducción de costes de almacenamiento y procesamiento de datos.</p></li>
+<li><p>Coordinación de los entornos locales con los servicios externos en operatividad y seguridad.</p></li>
+<li><p>Permite la escalabilidad, de forma rápida y a menor coste, tanto en almacenamiento como en el procesamiento de los datos.</p></li>
+<li><p>Es una solución rápida y ágil, pues incorpora nuevas fuentes de datos para responder más eficientemente a los cambios que se puedan dar.</p></li>
+<li><p>No es necesario invertir en infraestructuras.</p></li>
+</ul>
 </div>
 </div>
 <div class="section" id="metodos-estadisticos-y-data-science">
 <h2>5. Métodos estadísticos y data science<a class="headerlink" href="#metodos-estadisticos-y-data-science" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>La <strong>ciencia de datos o Data Science</strong> es una disciplina que recoge los métodos y técnicas que se utilizan para alcanzar nuevas perspectivas de la información que proviene de múltiples fuentes.</p>
+<p>Está orientada a <strong>mejorar ámbitos</strong> como la investigación científica, el marketing, la publicidad, el Business Intelligence, etc. La ciencia de datos se nutre de múltiples campos con la finalidad de <strong>exprimir el significado de esos datos</strong> recopilados y crear nueva información.</p>
+<p>El Data Science es la <strong>evolución del análisis de datos</strong>. Mientras que el análisis de datos recogía la información desde una única fuente, la ciencia de datos explora y analizar desde múltiples fuentes.</p>
+<p>Pero, no por trabajar con datos de diversas fuentes significa que sea ciencia de datos, si no que se trata de <strong>crear más datos</strong> como resultados de la recolección de datos, es un <strong>producto de datos</strong> en sí.</p>
+<p>Existen <strong>aplicaciones</strong> como Facebook o Linkedln que usan estos productos de datos para <strong>recomendarte o sugerirte</strong> personas que quizás conozcas usando los <strong>patrones de relaciones de amistad</strong>.</p>
 <div class="section" id="data-scientist">
 <h3>5.1. Data Scientist<a class="headerlink" href="#data-scientist" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>Al aparecer el concepto de ciencia de datos, aparece el <strong>perfil profesional de Data Scientist</strong> como un experto en Data Sciencie.</p>
+<p><strong>José Antonio Guerrero</strong> describe al <strong>Data Scientist c**omo la «persona con fundamentos en matemáticas, estadística y métodos de optimización, con conocimientos en lenguajes de programación y que además tiene experiencia práctica en el **análisis de datos</strong> reales y la elaboración de <strong>modelos predictivos</strong>».</p>
+<p>El <strong>científico de datos requiere de habilidades</strong> que van desde la informática hasta las matemáticas pasando por muchas otras disciplinas.</p>
+<p>Las <strong>características del Data Scientist son</strong>:</p>
+<ul class="simple">
+<li><p>Debe tener una formación base en alguna <strong>disciplina cuantitativa</strong>.</p></li>
+<li><p><strong>Habilidades tecnológicas</strong> avanzadas como programación, manejo de bases de datos, etc.</p></li>
+<li><p><strong>Conocer</strong> en profundidad <strong>la empresa</strong> en que desempeña su trabajo.</p></li>
+<li><p>Se centra en el <strong>análisis, predicción y visualización</strong> de la información.</p></li>
+</ul>
+<p>Siendo realistas es muy difícil encontrar una única persona que abarque todas las necesidades y disciplinas que se necesitan controlar. Habitualmente en los proyectos se reúne a un <strong>grupo de personas</strong> donde cada uno aportará una habilidad concreta.</p>
+<p>Existen <strong>cuatro tipos de científicos de datos</strong> diferenciados:</p>
+<ul class="simple">
+<li><p><strong>Empresario de datos</strong>: es la persona que se centra en Matemáticas organizar y entender cómo sacar beneficio de los datos. Big Data Empresa</p></li>
+<li><p><strong>Creativo de datos</strong>: son los que realizan el proceso de análisis íntegro, desde que se extraen los datos hasta su interpretación.</p></li>
+<li><p><strong>Desarrollador de datos</strong>: se centran en los problemas técnicos de los datos como el almacenamiento.</p></li>
+<li><p><strong>Investigador de datos</strong>: se trata de las personas especializadas en ciencias sociales, estadística y demás que investigan sobre los resultados de los datos.</p></li>
+</ul>
+</div>
+</div>
+<div class="section" id="resumen">
+<h2>6. Resumen<a class="headerlink" href="#resumen" title="Enlazar permanentemente con este título">¶</a></h2>
+<ul class="simple">
+<li><p>La <strong>ciberseguridad</strong> es una rama de la informática que busca proteger los datos e información almacenada en un ordenador o en una red.</p></li>
+<li><p><strong>Python es un lenguaje de programación</strong> que destaca por su lenguaje flexible y herramientas precisas para el procesamiento de datos.</p></li>
+<li><p>El <strong>Data Warehouse es una base de datos corporativa</strong> que depura la información y la analiza de una manera eficaz y rápida.</p></li>
+<li><p>La ciencia de datos o <strong>Data Science es la evolución de análisis de datos</strong>, cuya principal diferencia es que la ciencia de datos recopila información de diferentes fuentes y el análisis de una única fuente.</p></li>
+</ul>
+</div>
+<div class="section" id="actividades">
+<h2>7. Actividades<a class="headerlink" href="#actividades" title="Enlazar permanentemente con este título">¶</a></h2>
+<div class="figure align-center">
+<a class="reference internal image-reference" href="../../_images/questionnaire_116.jpg"><img alt="../../_images/questionnaire_116.jpg" src="../../_images/questionnaire_116.jpg" style="width: 70%;" /></a>
+</div>
+<div class="figure align-center">
+<a class="reference internal image-reference" href="../../_images/questionnaire_216.jpg"><img alt="../../_images/questionnaire_216.jpg" src="../../_images/questionnaire_216.jpg" style="width: 70%;" /></a>
+</div>
+<div class="figure align-center">
+<a class="reference internal image-reference" href="../../_images/questionnaire_316.jpg"><img alt="../../_images/questionnaire_316.jpg" src="../../_images/questionnaire_316.jpg" style="width: 70%;" /></a>
+</div>
+<div class="figure align-center">
+<a class="reference internal image-reference" href="../../_images/questionnaire_416.jpg"><img alt="../../_images/questionnaire_416.jpg" src="../../_images/questionnaire_416.jpg" style="width: 70%;" /></a>
 </div>
 </div>
 </div>
