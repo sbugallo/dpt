@@ -1,7 +1,13 @@
 Dirección de Proyectos Tecnológicos
 ===================================
 
-Versión PDF disponible en: `<https://github.com/sbugallo/dpt/raw/master/dpt.pdf>`_
+.. note:: 
+
+	Versión web en: `<https://sbugallo.github.io/dpt>`_
+
+	Versión PDF disponible en: `<https://github.com/sbugallo/dpt/raw/master/dpt.pdf>`_
+
+	Reportes de erratas, fallos o aportaciones: `<https://github.com/sbugallo/dpt>`_
 
 .. toctree::
    :maxdepth: 4
